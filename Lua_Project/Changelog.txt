@@ -1,3 +1,7 @@
+rev216 - [2012-04-23]
+ - Imported all item infos from data folder to itemInfo.lua
+ * this now supports items from pRO and iRO and probably other official servers
+
 rev211 - [2012-04-19]
  - Added System/itemInfo.lua
  * this is the replacement for data/(id)num2item(displayname|resname|desc)table.txt and itemslotcountable.txt starting 2012-04-17 and up
