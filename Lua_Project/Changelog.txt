@@ -1,3 +1,6 @@
+rev220 - [2012-04-28]
+ - Updated itemInfo.lua with the item related updates from /data/ folder
+
 rev219 - [2012-04-28]
  - Updated itemInfo.lua with the item related updates from /data/ folder
 
