@@ -1,3 +1,6 @@
+rev219 - [2012-04-28]
+ - Updated itemInfo.lua with the item related updates from /data/ folder
+
 rev218 - [2012-04-28]
  - Added lua compiler in /tool/ folder for version 5.1.4
 

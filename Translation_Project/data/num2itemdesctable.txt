@@ -16047,10 +16047,7 @@ Unidentified item, can be identified with [Magnifier].
 #
 
 5602#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+Unidentified item, can be identified with [Magnifier].
 #
 
 5603#
@@ -16246,10 +16243,7 @@ Unidentified item, can be identified with [Magnifier].
 #
 
 5653#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+Unidentified item, can be identified with [Magnifier].
 #
 
 5654#
