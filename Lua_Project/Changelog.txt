@@ -1,3 +1,6 @@
+rev221 - [2012-05-23]
+ - Updated skilldescript.lua's Parry & Spiral Pierce
+
 rev220 - [2012-04-28]
  - Updated itemInfo.lua with the item related updates from /data/ folder
 
