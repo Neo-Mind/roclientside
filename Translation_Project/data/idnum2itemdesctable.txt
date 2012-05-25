@@ -16812,10 +16812,6 @@ Applicable Job :^777777 Acolyte Class^000000
 Battlegrounds Reward Item.
 ATK + 5%, MATK + 5%, MDEF + 6, Maximum HP + 600
 Add 1% chance of auto casting ^880000Stone^000000 on the enemy when receiving Physical Damage.
-[^000088Glorious Ring Combo^000000]
-Increase Physical Damage by 5%.
-Increase Magic by 3%.
-Increase Heal skills by 5%.
 Class :^777777 Accessory^000000
 Defense :^777777 1^000000
 Weight :^777777 0^000000
