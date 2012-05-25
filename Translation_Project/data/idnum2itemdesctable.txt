@@ -3049,7 +3049,7 @@ Applicable Job :^777777 Knight, Crusader^000000
 
 1130#
 An one-handed sword topped with several extra edges for making wounds deeper and more unsightly.
-Increases damage against DemiHuman monster by 5%
+Increases damage against Demi-Human monster by 5%
 Enables use of ^008800Level 5 Double Attack^000000.
 Class :^777777 Sword^000000
 Attack :^777777 120^000000
@@ -3490,8 +3490,8 @@ Applicable Job :^777777 Swordman Class^000000
 
 1169#
 A gruesome sword used to behead criminals judged with the death penalty.
-Pierces Defense of DemiHuman monster.
-Increases damage inflicted on DemiHuman monster by 20%, but increases damage received from DemiHuman monster by 10%.
+Pierces Defense of Demi-Human monster.
+Increases damage inflicted on Demi-Human monster by 20%, but increases damage received from Demi-Human monster by 10%.
 Class :^777777 Two-handed Sword^000000
 Attack :^777777 155^000000
 Weight :^777777 220^000000
@@ -3550,8 +3550,8 @@ Applicable Job :^777777 Swordman Class^000000
 1174#
 ^000088Rental Items^000000
 A gruesome sword used to behead criminals judged with the death penalty.
-Pierces Defense of DemiHuman monster.
-Increases damage inflicted on DemiHuman monster by 20%, but increases damage received from DemiHuman monster by 10%.
+Pierces Defense of Demi-Human monster.
+Increases damage inflicted on Demi-Human monster by 20%, but increases damage received from Demi-Human monster by 10%.
 Impossible to refine this item.
 Class :^777777 Two-handed Sword^000000
 Attack :^777777 190^000000
@@ -3616,8 +3616,8 @@ Applicable Job :^777777 Swordman Class^000000
 
 1179#
 A gruesome sword used to behead criminals judged with the death penalty.
-Pierces Defense of DemiHuman monster.
-Increases damage inflicted on DemiHuman monster by 20%, but increases damage received from DemiHuman monster by 10%.
+Pierces Defense of Demi-Human monster.
+Increases damage inflicted on Demi-Human monster by 20%, but increases damage received from Demi-Human monster by 10%.
 Class :^777777 Two-handed Sword^000000
 Attack :^777777 155^000000
 Weight :^777777 220^000000
@@ -3668,10 +3668,10 @@ Applicable Job : ^777777Transcendent Swordman Class^000000
 #
 
 1183#
-A Two-handed Sword made to rush at the enemy's position, especially designed for battles against Demihumans.
+A Two-handed Sword made to rush at the enemy's position, especially designed for battles against Demi-Humans.
 STR + 2
-Increases Physical Attack Strength towards Demihuman monsters by 55%.
-Ignores Physical Defense from Demihuman monsters by 20%.
+Increases Physical Attack Strength towards Demi-Human monsters by 55%.
+Ignores Physical Defense from Demi-Human monsters by 20%.
 Indestructible.
 Class : ^777777Two-handed Sword^000000
 Attack Strength: ^777777200^000000
@@ -3682,9 +3682,9 @@ Applicable Job : ^777777Swordman Class^000000
 #
 
 1184#
-A Two-handed Sword made to rush at the enemy's position, especially designed for battles against Demihumans.
+A Two-handed Sword made to rush at the enemy's position, especially designed for battles against Demi-Humans.
 CRI + 20
-Increases Physical Attack Strength to Demihuman monsters by 55%.
+Increases Physical Attack Strength to Demi-Human monsters by 55%.
 Increases Critical damage by 20%.
 Indestructible.
 Class : ^777777Two-handed Sword^000000
@@ -3725,11 +3725,11 @@ Applicable Job :^777777 Trans Swordman Class^000000
 #
 
 1187#
-Increases physical attack against DemiHuman monster by 70%.
-Adds 25% defense bypassing on Demi-human monster.
+Increases physical attack against Demi-Human monster by 70%.
+Adds 25% defense bypassing on Demi-Human monster.
 Indestructible (except in upgrade attempts).
 [^333399Refine Rate 6~10^000000]
-Pierces Defense of DemiHuman monster by 5%.
+Pierces Defense of Demi-Human monster by 5%.
 ^ff0000[Slaughter]^000000 Lv 2
 [^333399Refine Rate 9~10^000000]
 Add a chance of auto casting ^008800Level 1 Concentration^000000 when dealing physical damage.
@@ -3822,8 +3822,8 @@ Applicable Job :^777777 Swordman Class^000000
 A gruesome sword used
 to behead criminals judged with the death penalty.
 Pierces Defense of
-Demihuman monsters.
-Increases damage inflicted on Demihuman monsters by 20%, but increases damage received by Demihuman monsters by 10%.
+Demi-Human monsters.
+Increases damage inflicted on Demi-Human monsters by 20%, but increases damage received by Demi-Human monsters by 10%.
 This item cannot be Dropped or Traded.
 Class :
 ^777777Two-handed Sword^000000
@@ -4144,9 +4144,9 @@ Applicable Job :^777777 Swordman Class, Mage Class, Archer Class, Merchant Class
 #
 
 1228#
-Military combat knife made for battles against DemiHuman monster.
-Add a 10% resistance against DemiHuman monster, but increases damage received from Demon monster by 10%.
-Pierces Defense of DemiHuman monster.
+Military combat knife made for battles against Demi-Human monster.
+Add a 10% resistance against Demi-Human monster, but increases damage received from Demon monster by 10%.
+Pierces Defense of Demi-Human monster.
 Class :^777777 Dagger^000000
 Attack :^777777 80^000000
 Weight :^777777 40^000000
@@ -4158,7 +4158,7 @@ Applicable Job :^777777 Swordman Class, Mage Class, Archer Class, Merchant Class
 1229#
 A domestic knife used for cooking by housewives.
 Critical Rate + 30%
-Increases damage against Demihuman monsters by 3%.
+Increases damage against Demi-Human monsters by 3%.
 Add a 50% additional chance of dropping Meat each time a Brute monster is killed.
 Class :^777777 Dagger^000000
 Attack :^777777 75^000000
@@ -4210,7 +4210,7 @@ Applicable Job :^777777 Assassin^000000
 A ceremonial dagger that possesses the power to defeat evil and is used in performing exorcisms.
 Pierces Defense of Demon monster.
 Add a 5% resistance against Demon monster.
-Increases damage from DemiHuman monster by 10%.
+Increases damage from Demi-Human monster by 10%.
 Class :^777777 Dagger^000000
 Attack :^777777 90^000000
 Weight :^777777 70^000000
@@ -4520,7 +4520,7 @@ Applicable Job :^777777 Assassin^000000
 
 1261#
 A lethal katar that has been perfectly designed to carry out quick assassinations.
-Increases damage inflicted on DemiHuman monster by 50%.
+Increases damage inflicted on Demi-Human monster by 50%.
 DEF + 3
 Flee Rate + 5
 Perfect Dodge + 2
@@ -4571,7 +4571,7 @@ Applicable Job :^777777 Assassin^000000
 
 1265#
 This katar, known for being effective against humans, is rumored to give a bestial roar when drenched in blood, hence its name.
-Pierces Defense of DemiHuman monster.
+Pierces Defense of Demi-Human monster.
 Flee Rate - 160, Perfect Dodge - 160
 Reduces natural HP and SP recovery by 100%.
 Class :^777777 Katar^000000
@@ -4584,7 +4584,7 @@ Applicable Job :^777777 Assassin^000000
 
 1266#
 A lethal katar that has been perfectly designed to carry out quick assassinations.
-Increases damage inflicted on DemiHuman monster by 50%.
+Increases damage inflicted on Demi-Human monster by 50%.
 DEF + 3
 Flee Rate + 5
 Perfect Dodge + 2
@@ -4600,7 +4600,7 @@ Applicable Job :^777777 Assassin^000000
 1267#
 ^000088Rental Items^000000
 A lethal katar that has been perfectly designed to carry out quick assassinations.
-Increases damage inflicted on DemiHuman monster by 70%.
+Increases damage inflicted on Demi-Human monster by 70%.
 DEF + 3
 Flee Rate + 5
 Perfect Dodge + 2, Increases Attack Speed by 5%.
@@ -4685,7 +4685,7 @@ Applicable Job :^777777 Assassin Cross^000000
 1273#
 ^000088Rental Items^000000
 This katar, known for being effective against humans, is rumored to give a bestial roar when drenched in blood, hence its name.
-Pierces Defense of DemiHuman monster.
+Pierces Defense of Demi-Human monster.
 Recovery HP +3 each 5 seconds.
 Impossible to refine this item.
 Class :^777777 Katar^000000
@@ -4760,10 +4760,10 @@ Applicable Job :^777777 Assassin^000000
 #
 
 1279#
-A particularly modified Katar created for battles against Demihumans. It makes for a battlefield full of blood and terrible crimes if equipped by a Master Assassin.
+A particularly modified Katar created for battles against Demi-Humans. It makes for a battlefield full of blood and terrible crimes if equipped by a Master Assassin.
 Str + 1, Dex + 1, Luk + 1
-Increases Physical Attack Strength towards Demihuman monsters by 70%.
-Ignores Physical Defense from Demihuman monsters by 20%.
+Increases Physical Attack Strength towards Demi-Human monsters by 70%.
+Ignores Physical Defense from Demi-Human monsters by 20%.
 Indestructible.
 Class : ^777777Katar^000000
 Attack Strength: ^777777130^000000
@@ -4774,9 +4774,9 @@ Applicable Job :^777777 Assassin^000000
 #
 
 1280#
-A particularly modified Katar created for battles against Demihumans. It can be used for terrible crimes if equipped by a Master Assassin.
+A particularly modified Katar created for battles against Demi-Humans. It can be used for terrible crimes if equipped by a Master Assassin.
 Str + 1, Dex + 1, Luk + 1
-Increases Physical Attack Strength towards Demihuman monsters by 70%.
+Increases Physical Attack Strength towards Demi-Human monsters by 70%.
 Increases Critical damage by 20%.
 Increases Attack Speed(delay after attacking reduces by 5%)
 Indestructible.
@@ -4789,11 +4789,11 @@ Applicable Job :^777777 Assassin^000000
 #
 
 1281#
-Increases physical attack against DemiHuman monster by 70%.
-Adds 20% defense bypassing on Demi-human monster.
+Increases physical attack against Demi-Human monster by 70%.
+Adds 20% defense bypassing on Demi-Human monster.
 Indestructible (except in upgrade attempts).
 [^333399Refine Rate 6~10^000000]
-Adds 5% defense bypassing on Demi-human monster.
+Adds 5% defense bypassing on Demi-Human monster.
 ^ff0000[Slaughter]^000000 Lv 1
 [^333399Refine Rate 9~10^000000]
 When dealing physical damage there's a chance that the weapon will awaken and grant max attack speed for 3 seconds.
@@ -4806,11 +4806,11 @@ Applicable Job :^777777 Assassin^000000
 #
 
 1282#
-Increases physical attack against DemiHuman monster by 70%.
-Increases critical attack against DemiHuman monster by 20%.
+Increases physical attack against Demi-Human monster by 70%.
+Increases critical attack against Demi-Human monster by 20%.
 Indestructible (except in upgrade attempts).
 [^333399Refine Rate 6~10^000000]
-Adds a 5% chance critical damage to DemiHuman monster.
+Adds a 5% chance critical damage to Demi-Human monster.
 ^ff0000[Slaughter]^000000 Lv 1
 [^333399Refine Rate 9~10^000000]
 When dealing physical damage there's a chance that the weapon will awaken and grant max attack speed for 3 seconds.
@@ -5080,12 +5080,12 @@ Applicable Job :^777777 Novice, Swordman Class, Merchant Class, Assassin^000000
 #
 
 1310#
-Increases physical attack against DemiHuman monster by 75%.
-Adds 20% defense bypassing on Demi-human monster.
+Increases physical attack against Demi-Human monster by 75%.
+Adds 20% defense bypassing on Demi-Human monster.
 Indestructible (except in upgrade attempts).
 [^333399Refine Rate 6~10^000000]
 Attack Speed + 5%.
-Adds 5% defense bypassing on Demi-human monster.
+Adds 5% defense bypassing on Demi-Human monster.
 ^ff0000[Slaughter]^000000 Lv 1
 [^333399Refine Rate 9~10^000000]
 Add 5% chance of auto casting ^008800Level 1 Critical Wound^000000 when dealing physical damage.
@@ -5381,8 +5381,8 @@ Applicable Job :^777777 Swordman Class, Merchant Class^000000
 
 1369#
 A huge guillotine blade welded to a handle for active decapitation.
-Causes ^880000Coma^000000 effect on DemiHuman monster.
-Regain 2 SP for each attack on a DemiHuman monster and 20 SP for each killed DemiHuman monster.
+Causes ^880000Coma^000000 effect on Demi-Human monster.
+Regain 2 SP for each attack on a Demi-Human monster and 20 SP for each killed Demi-Human monster.
 Class :^777777 Axe^000000
 Attack :^777777 215^000000
 Weight :^777777 300^000000
@@ -5526,10 +5526,10 @@ Applicable Job :^777777 Swordman Class, Merchant Class^000000
 #
 
 1379#
-A terrifying two-handed axe that is said to stimulate the nerves in order to kill Demihumans, once it's in the wearer's hands.
+A terrifying two-handed axe that is said to stimulate the nerves in order to kill Demi-Humans, once it's in the wearer's hands.
 STR + 3
-Increases Physical Attack Strength towards Demihuman monsters by 55%.
-Ignores physical defense from Demihuman monsters by 20%.
+Increases Physical Attack Strength towards Demi-Human monsters by 55%.
+Ignores physical defense from Demi-Human monsters by 20%.
 Indestructible.
 Class : ^777777Axe^000000
 Attack Strength: ^777777200^000000
@@ -5540,9 +5540,9 @@ Applicable Job :^777777 Swordman Class, Merchant Class^000000
 #
 
 1380#
-A terrifying two-handed axe that is said to stimulate the nerves in order to kill Demihumans, once it's in the wearer's hands.
+A terrifying two-handed axe that is said to stimulate the nerves in order to kill Demi-Humans, once it's in the wearer's hands.
 STR + 3
-Increases Physical Attack Strength towards Demihuman monsters by 55%.
+Increases Physical Attack Strength towards Demi-Human monsters by 55%.
 When attacking, has a chance to destroy your enemy's armor by 100% for 3 seconds.
 Indestructible.
 Class : ^777777Axe^000000
@@ -5565,12 +5565,12 @@ Applicable Job :^777777 Swordman Class, Merchant Class^000000
 #
 
 1382#
-Increases physical attack against DemiHuman monster by 70%.
-Adds 25% defense bypassing on Demi-human monster.
+Increases physical attack against Demi-Human monster by 70%.
+Adds 25% defense bypassing on Demi-Human monster.
 Indestructible (except in upgrade attempts).
 [^333399Refine Rate 6~10^000000]
 Add 5% chance of auto casting ^008800Level 1 Critical Wound^000000 when dealing physical damage.
-Adds 5% defense bypassing on Demi-human monster.
+Adds 5% defense bypassing on Demi-Human monster.
 ^ff0000[Slaughter]^000000 Lv 2
 [^333399Refine Rate 9~10^000000]
 Attack Speed + 10%.
@@ -5987,7 +5987,7 @@ Applicable Job :^777777 Trans Swordman Class^000000
 1421#
 A spear with end that looks like a hook. By pushing or pulling the target, it makes them difficult to move around.
 Every time you attack, 5% chance to cause ^880000Stun^000000 on the target.
-Increases damage done against DemiHuman type monsters by 20%.
+Increases damage done against Demi-Human type monsters by 20%.
 Enables use of ^008800Level 3 Pierce^000000.
 Class :^777777 Spear^000000
 Attack :^777777 140^000000
@@ -6039,10 +6039,10 @@ Applicable Job :^777777 Swordman Class^000000
 #
 
 1425#
-A special spear made for charging at the enemy's position. It is especially designed for battles against Demihumans.
+A special spear made for charging at the enemy's position. It is especially designed for battles against Demi-Humans.
 STR + 2
-Increases Physical Attack Strength towards Demihuman monsters by 95%.
-Ignores Physical Defense from Demihuman monsters by 20%.
+Increases Physical Attack Strength towards Demi-Human monsters by 95%.
+Ignores Physical Defense from Demi-Human monsters by 20%.
 If worn by Crusader or Paladin, Increase in attack speed(Delay after attacking reduces by 20%)
 Indestructible.
 Class : ^777777Spear^000000
@@ -6054,11 +6054,11 @@ Applicable Job :^777777 Swordman Class^000000
 #
 
 1426#
-Increases physical attack against DemiHuman monster by 95%.
-Adds 20% defense bypassing on Demi-human monster.
+Increases physical attack against Demi-Human monster by 95%.
+Adds 20% defense bypassing on Demi-Human monster.
 Indestructible (except in upgrade attempts).
 [^333399Refine Rate 6~10^000000]
-Pierces Defense of DemiHuman monster by 5%.
+Pierces Defense of Demi-Human monster by 5%.
 Attack Speed + 5%.
 ^ff0000[Slaughter]^000000 Lv 1
 [^333399Refine Rate 9~10^000000]
@@ -6367,7 +6367,7 @@ Applicable Job :^777777 Swordman Class^000000
 1467#
 A spear with a hooked blade that has proven its versatility in battle.
 Increases damage inflicted on Brute monster by 10%.
-Increases damage against DemiHuman monster by 5%.
+Increases damage against Demi-Human monster by 5%.
 Class :^777777 Spear^000000
 Attack :^777777 183^000000
 Weight :^777777 100^000000
@@ -6391,7 +6391,7 @@ Applicable Job :^777777 Swordman Class^000000
 
 1469#
 A legendary spear owned by the tragic soldier, Longinus.
-Increases damage inflicted on DemiHuman and Angel monster by 10%.
+Increases damage inflicted on Demi-Human and Angel monster by 10%.
 Class :^777777 Spear^000000
 Attack :^777777 180^000000
 Weight :^777777 250^000000
@@ -6510,7 +6510,7 @@ Applicable Job :^777777 Swordman Class^000000
 Auger shaped spear that is effective at attacking enemy's weak points.
 Ignores DEF of the target.
 Add a 2% chance of auto casting ^008800Level 5 Pierce^000000 on the enemy when attacking.
-Increases damage done against DemiHuman monster by 10%.
+Increases damage done against Demi-Human monster by 10%.
 Class :^777777 Spear^000000
 Attack :^777777 120^000000
 Weight :^777777 100^000000
@@ -6565,10 +6565,10 @@ Applicable Job :^777777 Swordman Class^000000
 #
 
 1482#
-A Two-handed Spear made to rush at the enemy's position, especially designed for battles against Demihumans.
+A Two-handed Spear made to rush at the enemy's position, especially designed for battles against Demi-Humans.
 Str + 2
-Increases Physical Attack Strength to Demihuman monsters by 25%.
-Ignores Physical Defense from Demihuman monsters.
+Increases Physical Attack Strength to Demi-Human monsters by 25%.
+Ignores Physical Defense from Demi-Human monsters.
 Indestructible.
 Class : ^777777Two Handed Spear^000000
 Attack Strength: ^777777160^000000
@@ -6613,11 +6613,11 @@ Applicable Job :^777777 Trans Swordman Class^000000
 #
 
 1486#
-Increases physical attack against DemiHuman monster by 70%.
-Adds 25% defense bypassing on Demi-human monster.
+Increases physical attack against Demi-Human monster by 70%.
+Adds 25% defense bypassing on Demi-Human monster.
 Indestructible (except in upgrade attempts).
 [^333399Refine Rate 6~10^000000]
-Pierces Defense of DemiHuman monster by 5%.
+Pierces Defense of Demi-Human monster by 5%.
 ^ff0000[Slaughter]^000000 Lv 1
 [^333399Refine Rate 9~10^000000]
 [^008800Lord Knight Class^000000]
@@ -7008,7 +7008,7 @@ Applicable Job :^777777 Acolyte Class^000000
 
 1527#
 A heavy and powerful iron mace with a rounded top.
-Increases damage against Undead, DemiHuman and ^996600Earth^000000 Property by 10%.
+Increases damage against Undead, Demi-Human and ^996600Earth^000000 Property by 10%.
 Class :^777777 Mace^000000
 Attack :^777777 165^000000
 Weight :^777777 90^000000
@@ -7136,7 +7136,7 @@ Applicable Job :^777777 Swordman Class, Acolyte Class, Merchant Class^000000
 A heavy and powerful iron mace with a rounded top.
 Increases damage against Undead Property by 40%.
 Increases damage inflicted on Demon monster by 40%.
-Increases damage against DemiHuman type monsters by 30%.
+Increases damage against Demi-Human type monsters by 30%.
 Impossible to refine this item.
 Class :^777777 Mace^000000
 Attack :^777777 193^000000
@@ -7200,10 +7200,10 @@ Applicable Job :^777777 Acolyte Class^000000
 
 1542#
 A deadly mace that is usually worn by the best fighter; it seems to be capable of damaging through an enemy's armor.
-It is especially designed for battles against Demihumans.
+It is especially designed for battles against Demi-Humans.
 STR + 1, DEX + 1
-Increases Physical Attack Strength towards Demihuman monsters by 75%.
-Ignores Physical Defense from Demihuman monsters by 20%.
+Increases Physical Attack Strength towards Demi-Human monsters by 75%.
+Ignores Physical Defense from Demi-Human monsters by 20%.
 Indestructible.
 Class : ^777777Mace^000000
 Attack Strength: ^777777105^000000
@@ -7215,9 +7215,9 @@ Applicable Job :^777777 Novice, Swordman Class, Merchant Class, Acolyte Class^00
 
 1543#
 A deadly mace that is usually worn by the best fighter; it seems to be capable of damaging through an enemy's armor.
-It is especially designed for battles against Demihumans.
+It is especially designed for battles against Demi-Humans.
 STR + 1, DEX + 1
-Increases Physical Attack Strength towards Demihuman monsters by 75%.
+Increases Physical Attack Strength towards Demi-Human monsters by 75%.
 When melee attacking, has a chance to inflict the ^FF0000Stun^000000 effect for 6 secs.
 Indestructible.
 Class : ^777777Mace^000000
@@ -7253,11 +7253,11 @@ Applicable Job :^777777 Novice, Swordman Class, Acolyte Class, Merchant Class^00
 #
 
 1546#
-Increases physical attack against DemiHuman monster by 75%.
-Adds 20% defense bypassing on Demi-human monster.
+Increases physical attack against Demi-Human monster by 75%.
+Adds 20% defense bypassing on Demi-Human monster.
 Indestructible (except in upgrade attempts).
 [^333399Refine Rate 6~10^000000]
-Adds 5% defense bypassing on Demi-human monster.
+Adds 5% defense bypassing on Demi-Human monster.
 Attack Speed + 5%.
 ^ff0000[Slaughter]^000000 Lv 1
 [^333399Refine Rate 9~10^000000]
@@ -7488,10 +7488,10 @@ Applicable Job :^777777 Priest, Sage, Star Gladiator^000000
 1565#
 A book containing names, used by the agents of death. There are times when the book of the dead is circulated in this world because they have dropped the book in the realm of the living. There are tons of names written in here, and there seems to be names of people you might know well ... It says Holg ... <Can not see clearly due to paper being torn>.
 MATK + 15%, STR + 3, INT + 3, LUK - 20.
-Add a 10% chance of auto casting ^880000Coma^000000 effect on DemiHuman monster.
+Add a 0.1% chance of auto casting ^880000Coma^000000 effect on Demi-Human monster.
 Attack Speed increased depending on the refinement rate of this weapon.
 [^008800Sage, Professor^000000]
-There is a small chance to cause damage and ^880000Curse^000000 status ailment to every enemies in the screen they are in.
+There is a 2% chance to cause damage and ^880000Curse^000000 status ailment to every enemies in the screen they are in.
 Class :^777777 Book^000000
 Attack :^777777 137^000000
 Weight :^777777 100^000000
@@ -7601,8 +7601,8 @@ Applicable Job :^777777 Priest, Sage, Star Gladiator^000000
 1574#
 A battlefield book written by ancient strategists from a far east country. It is still being studied by many militarists.
 STR + 2, INT + 1, MATK + 125
-Increases Physical Attack Strength towards Demihuman monsters by 75%.
-Ignores Physical Defense from Demihuman monsters by 20%.
+Increases Physical Attack Strength towards Demi-Human monsters by 75%.
+Ignores Physical Defense from Demi-Human monsters by 20%.
 Indestructible.
 Class : ^777777Book^000000
 Attack Strength: ^77777790^000000
@@ -7615,7 +7615,7 @@ Applicable Job :^777777 Priest, Sage, Star Gladiator^000000
 1575#
 A battlefield book written by ancient strategists from a far east country. It is still being studied by many militarists.
 STR + 1, INT + 2, MATK + 125
-Ignores Magical Defense from Demihuman monsters by 25%.
+Ignores Magical Defense from Demi-Human monsters by 25%.
 Indestructible.
 Class : ^777777Book^000000
 Attack Strength: ^77777790^000000
@@ -7627,10 +7627,10 @@ Applicable Job :^777777 Priest, Sage, Star Gladiator^000000
 
 1576#
 MATK + 155
-Increases physical attack against DemiHuman monster by 80%.
-Adds 25% defense bypassing on Demi-human monster.
+Increases physical attack against Demi-Human monster by 80%.
+Adds 25% defense bypassing on Demi-Human monster.
 Indestructible (except in upgrade attempts).
-+6 Upgrade : Ignore Magical Defense of Demihumans +5%, ^ff0000[Slaughter]^000000 Lv 1 (Damage bonus of Slaughter increases up to the upgrade level 14.)
++6 Upgrade : Ignore Magical Defense of Demi-Humans +5%, ^ff0000[Slaughter]^000000 Lv 1 (Damage bonus of Slaughter increases up to the upgrade level 14.)
 +9 Upgrade : When physically attacking, has a chance of adding Atk +200 for 3 seconds.
 Class :^777777 Book^000000
 Attack :^777777 90^000000
@@ -7642,11 +7642,11 @@ Applicable Job :^777777 Priest, Sage, Star Gladiator^000000
 
 1577#
 MATK + 155
-Increases physical attack against DemiHuman monster by 80%.
-Adds 25% defense bypassing on Demi-human monster.
+Increases physical attack against Demi-Human monster by 80%.
+Adds 25% defense bypassing on Demi-Human monster.
 Indestructible (except in upgrade attempts).
 [^333399Refine Rate 6~10^000000]
-Adds 5% defense bypassing on Demi-human monster.
+Adds 5% defense bypassing on Demi-Human monster.
 [^333399Refine Rate 9~10^000000]
 Increases MATK + 5%.
 Reduces casting time by 5%.
@@ -7674,7 +7674,7 @@ Applicable Job :^777777 Priest, Sage, Star Gladiator^000000
 1579#
 A book containing names, used by the agents of death. There are times when the book of the dead is circulated in this world because they have dropped the book in the realm of the living. There are tons of names written in here, and there seems to be names of people you might know well ... It says Holg ... <Can not see clearly due to paper being torn>.
 MATK + 15%, STR + 3, INT + 3, LUK - 20.
-Add a 10% chance of auto casting ^880000Coma^000000 effect on DemiHuman monster.
+Add a 0.1% chance of auto casting ^880000Coma^000000 effect on Demi-Human monster.
 Attack Speed increased depending on the refinement rate of this weapon.
 [^008800Sage, Professor^000000]
 There is a small chance to cause damage and ^880000Curse^000000 status ailment to every enemies in the screen they are in.
@@ -8197,9 +8197,9 @@ Applicable Job :^777777 Priest, Monk^000000
 
 1632#
 A Rod that has been modified for brave magicians who face enemies in battle.
-It is especially designed for battles against Demihumans.
+It is especially designed for battles against Demi-Humans.
 MATK + 125, INT + 4, DEX + 3
-Ignores Magic Defense from Demihuman monsters by 25%.
+Ignores Magic Defense from Demi-Human monsters by 25%.
 Enables a 5% chance to inflict the Stun effect when using magical attacks.
 Indestructible.
 Class : ^777777Rod^000000
@@ -8212,9 +8212,9 @@ Applicable Job :^777777 Mage Class, Acolyte Class, Soul Linker^000000
 
 1633#
 A Rod that has been modified for brave magicians who face enemies in battle.
-It is especially designed for battles against Demihumans.
+It is especially designed for battles against Demi-Humans.
 MATK + 125, INT + 3, DEX + 3
-Increases Magic Damage against Demihuman monsters by 15%.
+Increases Magic Damage against Demi-Human monsters by 15%.
 Enables a 5% chance to inflict the Stun effect when using magical attacks.
 Indestructible.
 Class : ^777777Rod^000000
@@ -8307,8 +8307,8 @@ Applicable Job :^777777 Novice, Mage Class, Acolyte Class, Soul Linker^000000
 
 1640#
 MATK+ 135
-Increases magical attack against DemiHuman monster by 15%.
-Adds 25% magical defense bypassing on Demi-human monster.
+Increases magical attack against Demi-Human monster by 15%.
+Adds 25% magical defense bypassing on Demi-Human monster.
 Indestructible (except in upgrade attempts).
 Each refine increases MATK + 1%.
 [^333399Refine Rate 6~10^000000]
@@ -9000,7 +9000,8 @@ Applicable Job :^777777 Archer Class, Thief, Rogue^000000
 
 1736#
 A slim and smooth bow which is speciallized for double attack.
-Add a 5% chance of auto casting ^008800Double Strafing^000000 on the enemy when attacking.
+Add a 1% chance of auto casting ^008800Double Strafing^000000 level 1 on the enemy when doing a Physical Attack.
+If the user has mastered the skill at Level 10, it will cast ^008800Level 10 Double Strafing^000000.
 Class :^777777 Bow^000000
 Attack :^777777 70^000000
 Weight :^777777 90^000000
@@ -9021,10 +9022,10 @@ Applicable Job :^777777 Sniper^000000
 #
 
 1738#
-A Crossbow that has been designed to deal more damage to Demihuman monsters. 
+A Crossbow that has been designed to deal more damage to Demi-Human monsters. 
 DEX + 2
-Increases Physical Attack Strength towards Demihuman monsters by 55%.
-Ignores Physical Defense from Demihuman monsters by 20%.
+Increases Physical Attack Strength towards Demi-Human monsters by 55%.
+Ignores Physical Defense from Demi-Human monsters by 20%.
 Indestructible.
 Class : ^777777Bow^000000
 Attack Strength: ^777777100^000000
@@ -9035,9 +9036,9 @@ Applicable Job :^777777 Archer Class, Thief Class^000000
 #
 
 1739#
-A Crossbow that has been designed to deal more damage to Demihuman monsters. 
+A Crossbow that has been designed to deal more damage to Demi-Human monsters. 
 DEX + 2, INT + 10
-Increases Physical Attack Strength towards Demihuman monsters by 55%.
+Increases Physical Attack Strength towards Demi-Human monsters by 55%.
 Indestructible.
 Class : ^777777Bow^000000
 Attack Strength: ^777777100^000000
@@ -9082,12 +9083,12 @@ Applicable Job :^777777 Archer Class, Thief, Rogue^000000
 #
 
 1743#
-Increases physical attack against DemiHuman monster by 55%.
-Adds 20% defense bypassing on Demi-human monster.
+Increases physical attack against Demi-Human monster by 55%.
+Adds 20% defense bypassing on Demi-Human monster.
 Increases your critical damage by 2 times the refine rate.
 Indestructible (except in upgrade attempts).
 [^333399Refine Rate 6~10^000000]
-Adds 5% defense bypassing on Demi-human monster.
+Adds 5% defense bypassing on Demi-Human monster.
 ^ff0000[Slaughter]^000000 Lv 1
 [^333399Refine Rate 9~10^000000]
 Increases damage of ^008800Double Strafing^000000 skill by 20%.
@@ -9645,8 +9646,8 @@ Applicable Job :^777777 Priest, Monk^000000
 1823#
 Battle Gloves used by combatants in the field of battle. Its wearer is never exhausted because it brings unlimited power once worn.
 STR + 2, AGI + 1
-Increases Physical Attack Strength towards Demihuman monsters by 95%.
-Ignores Physical Defense from Demihuman monsters by 20%.
+Increases Physical Attack Strength towards Demi-Human monsters by 95%.
+Ignores Physical Defense from Demi-Human monsters by 20%.
 Each physical attack adds the chance of auto casting ^FF0000Zen^000000 skill.
 Indestructible.
 Class : ^777777Claw^000000
@@ -9660,7 +9661,7 @@ Applicable Job :^777777 Priest, Monk^000000
 1824#
 Battle Gloves used by combatants in the field of battle. Its wearer is never exhausted because it brings unlimited power once worn.
 STR + 2, INT + 1
-Increases Physical Attack Strength towards Demihuman monsters by 95%.
+Increases Physical Attack Strength towards Demi-Human monsters by 95%.
 Reduces ^FF0000Guillotine Fist^000000 casting time by 25%.
 When attacking, and weapon awakening in consistent probability, 
 Has a chance of negating ^FF0000Guillotine Fist^000000 Variable Casting Time 100% for 6 secs.
@@ -9687,11 +9688,11 @@ Applicable Job :^777777 Champion^000000
 #
 
 1826#
-Increases physical attack against DemiHuman monster by 95%.
-Adds 25% defense bypassing on Demi-human monster.
+Increases physical attack against Demi-Human monster by 95%.
+Adds 25% defense bypassing on Demi-Human monster.
 Indestructible (except in upgrade attempts).
 [^333399Refine Rate 6~10^000000]
-Adds 5% defense bypassing on Demi-human monster.
+Adds 5% defense bypassing on Demi-Human monster.
 ^ff0000[Slaughter]^000000 Lv 1
 [^333399Refine Rate 9~10^000000]
 Add a chance of auto casting ^008800Level 1 Occult Impact^000000 when dealing physical damage.
@@ -9705,11 +9706,11 @@ Applicable Job :^777777 Priest, Monk^000000
 #
 
 1827#
-Increases physical attack against DemiHuman monster by 95%.
-Adds 25% defense bypassing on Demi-human monster.
+Increases physical attack against Demi-Human monster by 95%.
+Adds 25% defense bypassing on Demi-Human monster.
 Indestructible (except in upgrade attempts).
 [^333399Refine Rate 6~10^000000]
-Adds 5% defense bypassing on Demi-human monster.
+Adds 5% defense bypassing on Demi-Human monster.
 ^ff0000[Slaughter]^000000 Lv 1
 [^333399Refine Rate 9~10^000000]
 When casting the skill [Fury], there's a chance that the skills [Dangerous Soul Collect] and [Guillotine Fist] will temporarily have their cast time removed.
@@ -10040,10 +10041,10 @@ Applicable Job :^777777 Bard^000000
 
 1923#
 A guitar which was created to encourage armies amidst battle.  
-It looks useful for battles against Demihumans.
+It looks useful for battles against Demi-Humans.
 DEX + 2
-Increases Physical Attack Strength towards Demihuman monsters by 95%.
-Ignores Physical Defense from Demihuman monsters by 20%.
+Increases Physical Attack Strength towards Demi-Human monsters by 95%.
+Ignores Physical Defense from Demi-Human monsters by 20%.
 Indestructible.
 Class : ^777777Musical Instrument^000000
 Attack Strength: ^77777750^000000
@@ -10055,9 +10056,9 @@ Applicable Job :^777777 Bard^000000
 
 1924#
 A guitar which was created to encourage armies amidst battle.  
-It looks useful for battles against Demihumans.
+It looks useful for battles against Demi-Humans.
 DEX + 2
-Increases Physical Attack Strength towards Demihuman monsters by 95%.
+Increases Physical Attack Strength towards Demi-Human monsters by 95%.
 Increase Damage of Arrow Vulcan by 20%.
 Indestructible.
 Class : ^777777Musical Instrument^000000
@@ -10095,11 +10096,11 @@ Applicable Job :^777777 Clown^000000
 #
 
 1927#
-Increases physical attack against DemiHuman monster by 95%.
-Adds 20% defense bypassing on Demi-human monster.
+Increases physical attack against Demi-Human monster by 95%.
+Adds 20% defense bypassing on Demi-Human monster.
 Indestructible (except in upgrade attempts).
 [^333399Refine Rate 6~10^000000]
-Adds 5% defense bypassing on Demi-human monster.
+Adds 5% defense bypassing on Demi-Human monster.
 ^ff0000[Slaughter]^000000 Lv 1
 [^333399Refine Rate 9~10^000000]
 Add a chance of auto casting ^008800Level 5 Tarot Card^000000 on the monster when using skill Arrow Vulcan.
@@ -10470,10 +10471,10 @@ Applicable Job :^777777 Dancer^000000
 #
 
 1977#
-An especially made whip for battling against Demihumans; this whip is strong enough to cut their flesh.
+An especially made whip for battling against Demi-Humans; this whip is strong enough to cut their flesh.
 DEX + 2
-Increases Physical Attack Strength towards Demihuman monsters by 95%.
-Ignores Physical Defense from Demihuman monsters by 20%.
+Increases Physical Attack Strength towards Demi-Human monsters by 95%.
+Ignores Physical Defense from Demi-Human monsters by 20%.
 Indestructible.
 Class : ^777777Whip^00000
 Attack Strength: ^77777750^000000
@@ -10484,9 +10485,9 @@ Applicable Job :^777777 Dancer^000000
 #
 
 1978#
-An especially made whip for battling against Demihumans; this whip is strong enough to cut their flesh.
+An especially made whip for battling against Demi-Humans; this whip is strong enough to cut their flesh.
 DEX + 2
-Increases Physical Attack Strength towards Demihuman monsters by 95%.
+Increases Physical Attack Strength towards Demi-Human monsters by 95%.
 Increase Arrow Vulcan Damage by 20%.
 Indestructible.
 Class : ^777777Whip^000000
@@ -10525,11 +10526,11 @@ Applicable Job :^777777 Gypsy^000000
 #
 
 1981#
-Increases physical attack against DemiHuman monster by 95%.
-Adds 20% defense bypassing on Demi-human monster.
+Increases physical attack against Demi-Human monster by 95%.
+Adds 20% defense bypassing on Demi-Human monster.
 Indestructible (except in upgrade attempts).
 [^333399Refine Rate 6~10^000000]
-Adds 5% defense bypassing on Demi-human monster.
+Adds 5% defense bypassing on Demi-Human monster.
 ^ff0000[Slaughter]^000000 Lv 1
 [^333399Refine Rate 9~10^000000]
 Add a chance of auto casting ^008800Level 5 Tarot Card^000000 on the monster when using skill Arrow Vulcan.
@@ -10644,8 +10645,8 @@ Applicable Job :^777777 Priest, Monk^000000
 
 2002#
 MATK+ 210
-Increases magical attack against DemiHuman monster by 15%.
-Adds 25% magical defense bypassing on Demi-human monster.
+Increases magical attack against Demi-Human monster by 15%.
+Adds 25% magical defense bypassing on Demi-Human monster.
 Indestructible (except in upgrade attempts).
 Each refine increases MATK + 1%.
 [^333399Refine Rate 6~10^000000]
@@ -11289,8 +11290,8 @@ Applicable Job :^777777 Trans 2nd Class^000000
 2135#
 A small shield which is wearable with black arms.
 [^000088Shadow Guard & Shadow Walk Equip Set^000000]
-Add a high chance inflict ^880000Blind^000000 on the enemy When dealing physical damage.
-Adds FLEE + 20 for 10 sec when dealing physical damage.
+Add a 2% chance of inflicting Blind on the target when doing a melee attack.
+Add a 20% chance for when physically attacked, the user receive Flee +20 for 10 seconds.
 Class :^777777 Shield^000000
 Defense :^777777 52^000000
 Weight :^777777 80^000000
@@ -11312,7 +11313,7 @@ Applicable Job :^777777 Every Job^000000
 2137#
 ^000088Rental Items^000000
 A shield used by Gna, the messanger of Freyja while she served as a Valkyrie.
-Add a 30% resistance against DemiHuman monster.
+Add a 30% resistance against Demi-Human monster.
 MaxHP + 5%
 Add a 20% resistance against ^FF0000Fire^000000 and ^0000FFWater^000000 Property attacks.
 Class :^777777 Shield^000000
@@ -12527,7 +12528,7 @@ Applicable Job :^777777 Every Job Except Novice^000000
 
 2289#
 A hat which looks just like fecal matter that is guaranteed to end a date on a tragic note.
-Reduces damage from DemiHuman monster by 10%.
+Reduces damage from Demi-Human monster by 10%.
 Impossible to refine this item.
 Class :^777777 Headgear^000000
 Defense :^777777 0^000000
@@ -12546,7 +12547,7 @@ Applicable Job :^777777 Every Job^000000
 #
 
 2291#
-A black leather mask, shaped like butterfly wings, that increases damage inflicted upon DemiHuman monster by 3%.
+A black leather mask, shaped like butterfly wings, that increases damage inflicted upon Demi-Human monster by 3%.
 Class :^777777 Headgear^000000
 Defense :^777777 0^000000
 Equipped on :^777777 Mid^000000
@@ -13288,10 +13289,10 @@ Applicable Job :^777777 Every Job^000000
 2369#
 ^000088Cash Items^000000
 ...
-Reduces damage from DemiHuman monster by 10%.
+Reduces damage from Demi-Human monster by 10%.
 Impossible to refine this item. Indestructible.
 [^000088Freya's Clothes & Freya's Boots & Freya's Manteau & Freya's Crown Equip Set^000000]
-Reduce 10% damage taken from DemiHuman monster.
+Reduce 10% damage taken from Demi-Human monster.
 Enables use of ^008800Level 10 Frost Nova^000000.
 Maximum HP + 20%.
 Class :^777777 Armor^000000
@@ -13374,7 +13375,7 @@ Designed for brave warrior who faces against enemies at the forefront. It brings
 Reduces damage from Demi human monster by 2%.
 Max HP + 150. MDEF + 2.
 [^000088Battle Greaves & Captain's Manteau Equip Set^000000]
-Increases damage recieved from all Non-Demihuman monster by 3 times.
+Increases damage received from all Non-Demi-Human monster by 3 times.
 VIT + 3, Maximum HP + 12%,
 Increases Heal and Item recovery by 10%.
 When attacking physically, there is a chance to recover 6000 HP over 10 seconds.
@@ -13393,7 +13394,7 @@ MaxHP + 150. MDEF + 2.
 STR + 3, MaxHP + 12%,
 Increases Mammonite damage by 20%.
 Increases HP Restoration of ^FF0000Heal^000000 and ^FF0000Potion Pitcher^000000 by 10%.
-Increases damage from non-Demihuman monsters times 3.
+Increases damage from non-Demi-Human monsters times 3.
 Indestructible.
 Class :^777777 Armor^000000
 Defense :^777777 50^000000
@@ -13404,7 +13405,7 @@ Applicable Job :^777777 Merchant Class^000000
 
 2378#
 If you desire to move more quickly, this might help. It gives off multiple effects when compounded as a set.
-Reduces damage from Demihuman monsters by 2%.
+Reduces damage from Demi-Human monsters by 2%.
 MaxHP + 150, MDEF + 2, 
 ^ffffff000000^000000
 When equipped with Battle Greaves and Captain's Manteau,
@@ -13412,7 +13413,7 @@ AGI + 3. MaxHP + 12%,
 Increase in attack speed(delay after attacking reduces by 5%),
 Critical Rate + 5%,
 ASPD + 5%
-Increases damage from non-Demihuman monsters times 3.
+Increases damage from non-Demi-Human monsters times 3.
 When attacking physically has a chance of restoring 3,000 HP per second for 10 seconds.
 Class : ^777777Armor^000000
 Defense : ^77777741^000000
@@ -13423,13 +13424,13 @@ Applicable Job :^777777 Thief Class^000000
 
 2379#
 A Battle Robe that helps increase the possibility of survival. It gives off multiple effects when compounded as a set.
-Reduces damage from Demihuman monsters by 2%.
+Reduces damage from Demi-Human monsters by 2%.
 MaxHP + 150, MDEF + 2, 
 ^FFFFFF000000^000000
 When equipped with Combat Boots and Commander's Manteau,
 INT + 3. MaxHP + 12%.
 Adds 20% resistance to ^FF0000Stun^000000.
-Increases damage from all non-Demihuman monsters times 3.
+Increases damage from all non-Demi-Human monsters times 3.
 When receiving physical damage, has a chance of enchanting Armor with the Ghost property for 10 seconds.
 Class : ^777777Armor^000000
 Defense : ^77777736^000000
@@ -13441,13 +13442,13 @@ Applicable Job :^777777 Mage Class, Soul Linker^000000
 2380#
 Designed to be used by responsible warriors who take charge of the survival of the guild or party. 
 It gives off multiple effects when compounded as a set.
-Reduces damage from Demihuman monsters by 2%.
+Reduces damage from Demi-Human monsters by 2%.
 MaxHP + 150, MDEF + 2.
 ^FFFFFF000000^000000
 When equipped with Combat Boots and Commander's Manteau,
 INT + 3. MaxHP + 12%.
 Reduces ^FF0000Holy Light^000000 Variable Casting Time by 50%.
-Increases damage from all non-Demihuman monsters times 3.
+Increases damage from all non-Demi-Human monsters times 3.
 Increases HP Restoration of ^FF0000Heal^000000 and ^FF0000Sanctuary^000000 by 6% when they are cast by the wearer.
 When receiving physical damage, has a chance of enchanting Armor with the Ghost property for 10 seconds.
 Class : ^777777Armor^000000
@@ -13460,13 +13461,13 @@ Applicable Job :^777777 Acolyte Class^000000
 2381#
 If you desire to become an accurate and efficient warrior in battle, this might help. 
 It gives off multiple effects when compounded as a set.
-Reduces damage from Demihuman monsters by 2%.
+Reduces damage from Demi-Human monsters by 2%.
 MaxHP + 150, MDEF + 2.
 ^ffffff000000^000000
 When equipped with Combat Boots and Commander's Manteau,
 DEX + 3, MaxHP + 12%.
 Reduces long ranged Damage by 10% and cast delay by 25%.
-Increases damage from all non-Demihuman monsters times 3.
+Increases damage from all non-Demi-Human monsters times 3.
 Class : ^777777Armor^000000
 Defense : ^77777735^000000
 Weight : ^7777770^000000
@@ -13476,13 +13477,13 @@ Applicable Job :^777777 Archer Class^000000
 
 2382#
 If you are a true Gunslinger, you might want this suit! It gives off multiple effects when compounded as a set.
-Reduces damage from Demihuman monsters by 2%.
+Reduces damage from Demi-Human monsters by 2%.
 MHP + 150, MDEF + 2.
 ^ffffff000000^000000
 When equipped with Battle Boots and Sheriff's Manteau,
 DEX + 3, MaxHP + 12%.
 Reduces long ranged Damage by 10% and cast delay by 25%.
-Increases damage from all non-Demihuman monsters times 3.
+Increases damage from all non-Demi-Human monsters times 3.
 Class : ^777777Armor^000000
 Defense : ^77777725^000000
 Weight : ^7777770^000000
@@ -13620,7 +13621,7 @@ Applicable Job :^777777 Every Job^000000
 
 2394#
 HP + 20%
-Add a 7% resistance against DemiHuman monster.
+Add a 7% resistance against Demi-Human monster.
 [^000088Glorious Shoes & Glorious Muffler Equip Set^000000]
 ATK, MATK +5%. Can't be frozen.
 Increases Heal, Sanctuary, and Potion Pitcher effectiveness by 3%.
@@ -13942,9 +13943,12 @@ Applicable Job :^777777 Every Rebirth Job except High Novice^000000
 
 2426#
 This shadow walker is made of dark force. The creator of this shoes put a spell to protect the wearer when the danger is near.
-Add a 5% chance of auto casting ^008800Level 2 Cloaking^000000 on the user when the user receives Magical Damage.
+Add a 10% chance of auto casting ^008800Level 3 Cloaking^000000 on the user when the user receives Magical Damage.
 If the player has ^008800Level 4 Cloaking^000000 or above, higher level skill is used.
 MDEF + 10
+[^000088Shadow Cuard [1] Combo^000000]
+Add a 2% chance of inflicting Blind on the target when doing a melee attack.
+Add a 20% chance for when physically attacked, the user receive Flee +20 for 10 seconds.
 Class :^777777 Footgear^000000
 Defense :^777777 0^000000
 Weight :^777777 200^000000
@@ -13964,9 +13968,9 @@ Applicable Job :^777777 Every Job^000000
 2428#
 ^000088Cash Items^000000
 ...
-Reduces damage from DemiHuman monster by 5%.
+Reduces damage from Demi-Human monster by 5%.
 [^000088Freya's Clothes & Freya's Boots & Freya's Manteau & Freya's Crown Equip Set^000000]
-Reduce 10% damage taken from DemiHuman monster.
+Reduce 10% damage taken from Demi-Human monster.
 Enables use of ^008800Level 10 Frost Nova^000000.
 Maximum HP + 20%.
 Impossible to refine this item.
@@ -14036,7 +14040,7 @@ Applicable Job :^777777 Every Rebirth Job except High Novice^000000
 
 2435#
 A Greave that optimizes the quality of one's ability for battle. 
-Reduces damage from Demihuman monsters by 1%.
+Reduces damage from Demi-Human monsters by 1%.
 MaxHP + 100. MDEF + 1.
 Class : ^777777Footwear^000000
 Defense : ^77777715^000000
@@ -14047,7 +14051,7 @@ Applicable Job :^777777 Swordman Class, Merchant Class, Thief Class, Taekwon, St
 
 2436#
 Shoes that are comfortable and solidly made for battle.
-Reduces damage from Demihuman monsters by 1%.
+Reduces damage from Demi-Human monsters by 1%.
 MaxHP + 100. MDEF + 1.
 Class : ^777777Footwear^000000
 Defense : ^7777779^000000
@@ -14058,7 +14062,7 @@ Applicable Job :^777777 Mage Class, Acolyte Class, Archer Class, Soul Linker^000
 
 2437#
 They don't look any different than other boots, but they are designed exclusively for Gunslingers.
-Reduces damage from Demihuman monsters by 1%.
+Reduces damage from Demi-Human monsters by 1%.
 MaxHP + 100. MDEF + 1.
 Class : ^777777Footwear^000000
 Defense : ^7777779^000000
@@ -14138,7 +14142,7 @@ Applicable Job :^777777 Every Job^000000
 
 2444#
 HP + 10%
-Add a 4% resistance against DemiHuman monster.
+Add a 4% resistance against Demi-Human monster.
 [^000088Glorious Shoes & Glorious Muffler Equip Set^000000]
 ATK, MATK +5%. Can't be frozen.
 Increases Heal, Sanctuary, and Potion Pitcher effectiveness by 3%.
@@ -14366,7 +14370,7 @@ Applicable Job :^777777 Every Job^000000
 Let the ass-kicking commence!
 STR + 1, INT + 1, DEX + 1.
 MaxHP + 10%, MaxSP + 5%.
-Reduce 2% damage taken from DemiHuman monster.
+Reduce 2% damage taken from Demi-Human monster.
 [^000088No Fear Underwear & No Fear Belt Set^000000]
 Cannot be frozen, Increase EXP Gain by 5%.
 Class :^777777 Footgear^000000
@@ -14431,7 +14435,7 @@ Applicable Job :^777777 Warlock^000000
 2471#
 An item said to be worn by a priest who in ancient times saved countless lives on the battlefield.
 Max HP + 500.
-Increases resistance to Demihuman enemies by 10%,
+Increases resistance to Demi-Human enemies by 10%,
 but increases damage from all other enemies by 10%.
 Class :^777777 Footgear^000000
 Defense :^777777 12^000000
@@ -14951,9 +14955,9 @@ Applicable Job :^777777 Trans Mage Class, Trans Archer Class, Trans Acolyte Clas
 2533#
 ^000088Cash Items^000000
 ...
-Reduces damage from DemiHuman monster by 15%.
+Reduces damage from Demi-Human monster by 15%.
 [^000088Freya's Clothes & Freya's Boots & Freya's Manteau & Freya's Crown Equip Set^000000]
-Reduce 10% damage taken from DemiHuman monster.
+Reduce 10% damage taken from Demi-Human monster.
 Enables use of ^008800Level 10 Frost Nova^000000.
 Maximum HP + 20%.
 Impossible to refine this item.
@@ -15012,7 +15016,7 @@ Applicable Job :^777777 Rebirth 2nd Class or above^000000
 
 2538#
 A dignified, splendid Manteau that is provided to any warrior who brings great honor from the battlefield. 
-Reduces damage from Demihuman monsters by 1%.
+Reduces damage from Demi-Human monsters by 1%.
 MaxHP + 50. MDEF + 1.
 Class : ^777777Garment^000000
 Defense : ^77777728^000000
@@ -15023,7 +15027,7 @@ Applicable Job :^777777 Swordman Class, Merchant Class, Thief Class, Taekwon, St
 
 2539#
 A Manteau that is provided to superior commander who has a outstanding ability of supporting in rear base.
-Add a 1% resistance against Demihuman monster.
+Add a 1% resistance against Demi-Human monster.
 Max HP + 50. MDEF + 1.
 Class :^777777 Garment^000000
 Defense :^777777 20^000000
@@ -15034,7 +15038,7 @@ Applicable Job :^777777 Mage Class, Acolyte Class, Archer Class, Soul Linker^000
 
 2540#
 A Manteau imbued with tension and mystery spirit of the desolate wilderness.
-Add a 1% resistance against Demihuman monster.
+Add a 1% resistance against Demi-Human monster.
 Max HP + 50. MDEF + 1.
 Class :^777777 Garment^000000
 Defense :^777777 20^000000
@@ -15128,7 +15132,7 @@ Applicable Job :^777777 Every Job^000000
 2548#
 ^000088Rental Items^000000
 A warm scarf that is worn around the neck and shoulders.
-Add a 10% resistance against DemiHuman monster.
+Add a 10% resistance against Demi-Human monster.
 MaxHP + 10%
 Resistance against ^0000FFWater^000000, ^FF0000Fire^000000, ^777777Holy, Shadow^000000 Property by 5%.
 Class :^777777 Garment^000000
@@ -15140,7 +15144,7 @@ Applicable Job :^777777 Every Jobs except Novice^000000
 
 2549#
 HP + 5%
-Add a 5% resistance against DemiHuman monster.
+Add a 5% resistance against Demi-Human monster.
 [^000088Glorious Shoes & Glorious Muffler Equip Set^000000]
 ATK, MATK +5%. Can't be frozen.
 Increases Heal, Sanctuary, and Potion Pitcher effectiveness by 3%.
@@ -15524,7 +15528,7 @@ Applicable Job : ^777777Every Job^000000
 //2589#
 //Large, black wings of a fallen dark angel.
 //LUK + 2.
-//Increases tolerance to Demihuman attacks by 10%.
+//Increases tolerance to Demi-Human attacks by 10%.
 //Increases resistance to the Shadow Property by 30%.
 //Increases resistance to the Holy Property by 30%.
 //Class : ^777777Garment^000000
@@ -16806,8 +16810,12 @@ Applicable Job :^777777 Acolyte Class^000000
 
 2723#
 Battlegrounds Reward Item.
-ATK + 5%, MATK + 5%, DEF + 6, Maximum HP + 600
-Add 1% chance of auto casting ^880000Stone^000000 on the enemy when attacking.
+ATK + 5%, MATK + 5%, MDEF + 6, Maximum HP + 600
+Add 1% chance of auto casting ^880000Stone^000000 on the enemy when receiving Physical Damage.
+[^000088Glorious Ring Combo^000000]
+Increase Physical Damage by 5%.
+Increase Magic by 3%.
+Increase Heal skills by 5%.
 Class :^777777 Accessory^000000
 Defense :^777777 1^000000
 Weight :^777777 0^000000
@@ -17201,7 +17209,7 @@ Applicable Job :^777777 Every Job^000000
 2760#
 ^000088Rental Items^000000
 A ring that has special power in each shape.
-Increases 15% experience from ^000088DemiHuman Monster^000000.
+Increases 15% experience from ^000088Demi-Human Monster^000000.
 Class :^777777 Accessory^000000
 Defense :^777777 0^000000
 Weight :^777777 0^000000
@@ -18956,7 +18964,7 @@ Weight :^777777 1^000000
 #
 
 4035#
-Increase damage on DemiHuman monster by 20%.
+Increase damage on Demi-Human monster by 20%.
 Class :^777777 Card^000000
 Compound on :^777777 Weapon^000000
 Weight :^777777 1^000000
@@ -19128,7 +19136,7 @@ Weight :^777777 1^000000
 #
 
 4058#
-Reduce damage from DemiHuman monster by 30%.
+Reduce damage from Demi-Human monster by 30%.
 Class :^777777 Card^000000
 Compound on :^777777 Shield^000000
 Weight :^777777 1^000000
@@ -19632,7 +19640,7 @@ Weight :^777777 1^000000
 #
 
 4125#
-Increase damage on DemiHuman, Brute, Plant and Insect monster by 7%.
+Increase damage on Demi-Human, Brute, Plant and Insect monster by 7%.
 Class :^777777 Card^000000
 Compound on :^777777 Weapon^000000
 Weight :^777777 1^000000
@@ -19849,7 +19857,7 @@ Weight :^777777 1^000000
 #
 
 4154#
-Add a chance of gaining 'Candy' or 'Candy Cane' each time a DemiHuman monster is killed.
+Add a chance of gaining 'Candy' or 'Candy Cane' each time a Demi-Human monster is killed.
 Candy and Candy Cane restore 50% more HP.
 Class :^777777 Card^000000
 Compound on :^777777 Accessory^000000
@@ -20035,7 +20043,7 @@ Weight :^777777 1^000000
 #
 
 4175#
-Add a 2% chance of auto casting ^008800Level 1 Envenom^000000 on an enemy when the user receives Physical Damage.
+Add a 2% chance of auto casting ^008800Level 1 Envenom^000000 on an enemy when doing a Physical Attack.
 Class :^777777 Card^000000
 Compound on :^777777 Accessory^000000
 Weight :^777777 1^000000
@@ -20278,7 +20286,7 @@ Weight :^777777 1^000000
 
 4203#
 ATK + 15
-Add a 5% chance of auto casting ^008800Level 3 Fireball^000000 on an enemy when the user receives Physical Damage.
+Add a 5% chance of auto casting ^008800Level 3 Fireball^000000 on an enemy when doing a Physical Attack.
 If the user has mastered the skill at Level 10, it will cast ^008800Level 10 Fire Ball^000000.
 Class :^777777 Card^000000
 Compound on :^777777 Weapon^000000
@@ -20334,7 +20342,7 @@ Weight :^777777 1^000000
 #
 
 4210#
-Add a 2% chance of auto casting ^008800Level 1 Intimidate^000000 on an enemy when the user receives Physical Damage.
+Add a 2% chance of auto casting ^008800Level 1 Intimidate^000000 on an enemy when doing a Physical Attack.
 [^008800Thief Class^000000]
 Flee Rate + 20
 [^000088The Paper & Wild Rose & Shinobi & Dancing Dragon Card Combo^000000]
@@ -20353,8 +20361,8 @@ Weight :^777777 1^000000
 #
 
 4212#
-Add a 2% chance of auto casting ^008800Level 1 Bash^000000 on an enemy when the user receives Physical Damage.
-The ^008800Bash^000000 skill shoves the enemy 5 cells back.
+Add a 2% chance of auto casting ^008800Level 1 Bash^000000 on an enemy when doing a Physical Attack.
+The target gets knocked back by 5 cells when ^008800Bash^000000 is used.
 Receive 100% more damage from Munaks.
 [^000088Munak & Hyegun Card Combo^000000]
 Class :^777777 Card^000000
@@ -20566,17 +20574,18 @@ Weight :^777777 1^000000
 #
 
 4237#
-Add a 0.3% chance of auto casting ^008800Level 3 Impositio Manus^000000 on the user when the user receives Physical Damage.
+Add a 0.3% chance of auto casting ^008800Level 3 Impositio Manus^000000 on the user when doing a Physical Attack.
 [^000088+ Owl Baron^000000]
-Add a 2% chance of auto casting ^008800Level 5 Lightning Bolt^000000 on an enemy when the user receives Physical Damage.
+Add a 2% chance of auto casting ^008800Level 5 Lightning Bolt^000000 on an enemy when doing a Physical Attack.
 Class :^777777 Card^000000
 Compound on :^777777 Accessory^000000
 Weight :^777777 1^000000
 #
 
 4238#
-Add a 3% chance of auto casting ^008800Level 1 Lex Aeterna^000000 on an enemy when the user receives Physical Damage.
+Add a 3% chance of auto casting ^008800Level 1 Lex Aeterna^000000 on an enemy when doing a Physical Attack.
 [^000088Owl Duke Card Combo^000000]
+Add a 2% chance of auto casting ^008800Level 5 Lightning Bolt^000000 on an enemy when doing a Physical Attack.
 Class :^777777 Card^000000
 Compound on :^777777 Accessory^000000
 Weight :^777777 1^000000
@@ -20635,8 +20644,8 @@ Weight :^777777 1^000000
 #
 
 4245#
-Receive 10% more Experience Points from DemiHuman monsters.
-Receive 20% more damage from DemiHuman monster.
+Receive 10% more Experience Points from Demi-Human monsters.
+Receive 20% more damage from Demi-Human monster.
 Class :^777777 Card^000000
 Compound on :^777777 Footgear^000000
 Weight :^777777 1^000000
@@ -20644,7 +20653,7 @@ Weight :^777777 1^000000
 
 4246#
 Inflict 10% more damage with Critical attacks.
-Critical Rate + 7 on DemiHuman monster.
+Critical Rate + 7 on Demi-Human monster.
 [^000088+ Solider & Permeter & Freezer & Heater^000000]
 Add a 0.3% chance of auto casting ^008800Level 3 Weapon Perfection^000000 on the enemy when attacking.
 HP Recovery + 50%
@@ -20731,7 +20740,7 @@ Weight :^777777 1^000000
 #
 
 4256#
-Every time you kill a DemiHuman monster, you can receive a "Box of Panting".
+Every time you kill a Demi-Human monster, you can receive a "Box of Panting".
 Class :^777777 Card^000000
 Compound on :^777777 Accessory^000000
 Weight :^777777 1^000000
@@ -21364,7 +21373,7 @@ Weight :^777777 1^000000
 #
 
 4329#
-Gain 5 SP each time a DemiHuman monster is killed by a Physical Melee Damage.
+Gain 5 SP each time a Demi-Human monster is killed by a Physical Melee Damage.
 Drain 5 SP as the weapon is unequipped.
 Class :^777777 Card^000000
 Compound on :^777777 Weapon^000000
@@ -21629,7 +21638,7 @@ Weight :^777777 1^000000
 #
 
 4360#
-Critical Rate + 10 on DemiHuman monster.
+Critical Rate + 10 on Demi-Human monster.
 Class :^777777 Card^000000
 Compound on :^777777 Weapon^000000
 Weight :^777777 1^000000
@@ -22246,7 +22255,7 @@ Weight :^777777 1^000000
 
 4435#
 ^000088Recover 50 HP^000000, When killing a monster.
-Increase Physical and Magical Damage on DemiHuman monster by 1%.
+Increase Physical and Magical Damage on Demi-Human monster by 1%.
 [^000088Ragged Zombie Card Combo^000000]
 Class :^777777 Card^000000
 Compound on :^777777 Footgear^000000
@@ -22254,11 +22263,11 @@ Weight :^777777 1^000000
 #
 
 4436#
-Add a Critical Rate + 5 to the DemiHuman monster when attacking.
+Add a Critical Rate + 5 to the Demi-Human monster when attacking.
 Increase Physical or Magical Damage by 1%.
 Every time you attack, small chance to cause ^880000External Bleeding^000000 status ailment.
 [^000088+ Zombie Slaughter^000000]
-Gain 2 SP every killing a DemiHuman monster.
+Gain 2 SP every killing a Demi-Human monster.
 Class :^777777 Card^000000
 Compound on :^777777 Accessory^000000
 Weight :^777777 1^000000
@@ -22299,7 +22308,7 @@ Weight :^777777 1^000000
 
 4441#
 MATK + 10%, Maximum SP - 50%
-Increases damage inflicted on Demihuman and Angel monster by 50%.
+Increases damage inflicted on Demi-Human and Angel monster by 50%.
 Class :^777777 Card^000000
 Compound on :^777777 Footgear^000000
 Weight :^777777 1^000000
@@ -22450,7 +22459,7 @@ Weight :^777777 1^000000
 
 4461#
 DEX + 1, AGI + 1.
-When dealing physical damage, there's a chance that for 4 seconds you will recieve CRIT + 20.
+When dealing physical damage, there's a chance that for 4 seconds you will receive CRIT + 20.
 Class :^777777 Card^000000
 Compound on :^777777 Headgear^000000
 Weight :^777777 1^000000
@@ -22555,7 +22564,7 @@ Weight :^777777 1^000000
 #
 
 4474#
-Increases magic damage against Demihuman monsters by 10%.
+Increases magic damage against Demi-Human monsters by 10%.
 Class :^777777 Card^000000
 Compound on :^777777 Weapon^000000
 Weight :^777777 1^000000
@@ -24836,8 +24845,8 @@ Applicable Job :^777777 Every Job^000000
 
 5121#
 This mask, which is symbolic of Zherlthsh, mistress of the Glast Heim Underground Prison, makes its wearer feel like looking down on normal human peons.
-Inflicts 5% more damage on DemiHuman monster.
-Reduce 5% of the damage taken from DemiHuman monster.
+Inflicts 5% more damage on Demi-Human monster.
+Reduce 5% of the damage taken from Demi-Human monster.
 Class :^777777 Headgear^000000
 Defense :^777777 3^000000
 Equipped on :^777777 Upper, Mid^000000
@@ -24982,7 +24991,7 @@ Applicable Job :^777777 Swordman Class^000000
 
 5132#
 A hat, made especially to look like a certain monster that looks like an angel, but it hates the whole human race.
-Reduce damage taken from DemiHuman monster by 10%.
+Reduce damage taken from Demi-Human monster by 10%.
 Class :^777777 Headgear^000000
 Defense :^777777 5^000000
 Equipped on :^777777 Upper^000000
@@ -25034,7 +25043,7 @@ Applicable Job :^777777 Every Job^000000
 5137#
 A doll made to resemble Alice.
 It feels like it's saying "May the force be with you, master!", "Go get em' tiger!" on the top of your head.
-Increase damage on DemiHuman monster by 10%.
+Increase damage on Demi-Human monster by 10%.
 Inflict the ^880000Sleep^000000 status on yourself by a low chance.
 STR + 1
 Impossible to refine this item.
@@ -25097,7 +25106,7 @@ Applicable Job :^777777 Every Job Except Novice^000000
 5142#
 A gorgeous and strong helm of an east country general.
 VIT + 1
-Reduces damage from DemiHuman monster by 5%.
+Reduces damage from Demi-Human monster by 5%.
 Class :^777777 Headgear^000000
 Defense :^777777 8^000000
 Equipped on :^777777 Upper, Mid^000000
@@ -25396,7 +25405,7 @@ Applicable Job :^777777 Every Job^000000
 5170#
 A high class hat with an amazingly stylish look. When the feathers are added, it simply adds to its splendor.
 MDEF + 1
-Reduce 10% damage taken from DemiHuman monster.
+Reduce 10% damage taken from Demi-Human monster.
 Class :^777777 Headgear^000000
 Defense :^777777 1^000000
 Equipped on :^777777 Upper^000000
@@ -25420,7 +25429,7 @@ Applicable Job :^777777 Every Rebirth Job except High Novice^000000
 
 5172#
 A wonderful light green hat slanted slightly to one side. It is rumored to symbolize the bravery of a soldier.
-Reduce 10% damage taken from DemiHuman monster.
+Reduce 10% damage taken from Demi-Human monster.
 Impossible to refine this item.
 Class :^777777 Headgear^000000
 Defense :^777777 0^000000
@@ -25754,7 +25763,7 @@ Applicable Job :^777777 Every Job^000000
 Hat of Pumpkin is a very unique item which makes the wearer look like Pumpkin Jack.
 All Stats + 2
 Add a 5% resistance against ^880000 Demon monster^000000.
-Gain a candy item when killing monsters of DemiHuman type by low chance.
+Gain a candy item when killing monsters of Demi-Human type by low chance.
 Class :^777777 Headgear^000000
 Defense :^777777 3^000000
 Equipped on :^777777 Upper^000000
@@ -26506,7 +26515,7 @@ Applicable Job :^777777 Every Job Except Novice^000000
 ^000088Rental Items^000000
 A hair band that gives one the appearance of having rabbit ears, a lasting symbol of extremely good luck.
 MDEF + 5
-Bonus : Reduces damage from DemiHuman monster by 10%.
+Bonus : Reduces damage from Demi-Human monster by 10%.
 Impossible to refine this item.
 Class :^777777 Headgear^000000
 Defense :^777777 10^000000
@@ -26708,7 +26717,7 @@ Applicable Job :^777777 Every Job^000000
 5283#
 A hat with cute little chick on it. It's hopping action is so cute.
 Allows usage ^008800Level 2 Double Attack^000000, and if you already know higher than ^008800Level 2 Double Attack^000000, then the appropriate level will be used instead.
-Reduce damage from DemiHuman monster by 3%.
+Reduce damage from Demi-Human monster by 3%.
 LUK + 2, Maximum HP/SP + 50
 Impossible to refine this item.
 Class :^777777 Headgear^000000
@@ -26747,8 +26756,7 @@ Applicable Job :^777777 Every Job^000000
 5286#
 Looks like that it has wings of Pecopeco. Can make you move as fast as Pecopeco.
 Increase Movement Speed.
-Increases ASPD by 5%.
-(After attack delay decreases by 5%)
+Decrease ASPD by 10%.
 Increases Variable casting time by 25%.
 Premium Users: All Stats + 1
 Class : ^777777Headgear^000000
@@ -26970,9 +26978,9 @@ Applicable Job :^777777 Every Job^000000
 5306#
 ^000088Cash Items^000000
 Crown of Goddess Freyja. Transparent crystal in the middle shines in various colors.
-Reduces damage from DemiHuman monster by 5%.
+Reduces damage from Demi-Human monster by 5%.
 [^000088Freya's Clothes & Freya's Boots & Freya's Manteau & Freya's Crown Equip Set^000000]
-Reduce 10% damage taken from DemiHuman monster.
+Reduce 10% damage taken from Demi-Human monster.
 Enables use of ^008800Level 10 Frost Nova^000000.
 Maximum HP + 20%.
 Impossible to refine this item.
@@ -27037,7 +27045,7 @@ Applicable Job :^777777 Every Job^000000
 
 5312#
 An ancient helm of Ayothaya's fighter. The braver actually can wear.
-STR + 1, Increase damage on DemiHuman monster by 5%.
+STR + 1, Increase damage on Demi-Human monster by 5%.
 Class :^777777 Headgear^000000
 Defense :^777777 5^000000
 Equipped on :^777777 Upper^000000
@@ -27059,7 +27067,7 @@ Applicable Job :^777777 Every Job^000000
 
 5314#
 A mask for playing Hockey when wear it and then feel like hold weapon.
-Increase damage on DemiHuman monster by 5%.
+Increase damage on Demi-Human monster by 5%.
 Class :^777777 Headgear^000000
 Defense :^777777 1^000000
 Equipped on :^777777 Mid, Lower^000000
@@ -27197,7 +27205,7 @@ Applicable Job :^777777 Every Job^000000
 
 5326#
 ^000088Rental Items^000000
-A black leather mask, shaped like butterfly wings, that increases damage inflicted upon DemiHuman monster by 7%.
+A black leather mask, shaped like butterfly wings, that increases damage inflicted upon Demi-Human monster by 7%.
 Class :^777777 Headgear^000000
 Defense :^777777 1^000000
 Equipped on :^777777 Mid^000000
@@ -27361,7 +27369,7 @@ Applicable Job :^777777 Every Job^000000
 
 5340#
 So hot! A headgear with the figure of Kafra Defolty! Numerous users are using Kafra storage more than 20 times a day, fascinated by her smiling face.
-Reduces damage from Demihuman monster by 5%.
+Reduces damage from Demi-Human monster by 5%.
 Add a chance of auto casting ^008800Level 10 Angelus^000000 on the user when the user receives Physical Damage.
 Impossible to refine this item.
 Class :^777777 Headgear^000000
@@ -27374,7 +27382,7 @@ Applicable Job :^777777 Every Job^000000
 
 5341#
 So hot! A headgear with the figure of Kafra Glaris! Fascinated by her mature appearance, her advocates call her a teacher.
-Reduces damage from Demihuman monster by 5%.
+Reduces damage from Demi-Human monster by 5%.
 Recover +50 HP when defeating a monster with a magical attack.
 Impossible to refine this item.
 Class :^777777 Headgear^000000
@@ -27387,7 +27395,7 @@ Applicable Job :^777777 Every Job^000000
 
 5342#
 So hot! A headgear with the figure of Kafra Sorin! Her cute appearance made the price of this hat rise at the auction place.
-Reduces damage from Demihuman monster by 5%.
+Reduces damage from Demi-Human monster by 5%.
 When physically attacking there is a chance that for 10 seconds you'll receive ATK +50.
 Impossible to refine this item.
 Class :^777777 Headgear^000000
@@ -27400,7 +27408,7 @@ Applicable Job :^777777 Every Job^000000
 
 5343#
 So hot! A headgear with the figure of Kafra Telling! She is such an active and hard-working lady. So she became the most favorite Kafra among users.
-Reduces damage from Demihuman monster by 5%.
+Reduces damage from Demi-Human monster by 5%.
 Increases the effectiveness HP using potion pitcher by 10%.
 Impossible to refine this item.
 Class :^777777 Headgear^000000
@@ -27413,7 +27421,7 @@ Applicable Job :^777777 Every Job^000000
 
 5344#
 So hot! A headgear with the figure of Kafra Bennit! She has a boyish look, but her hobby is knitting and reading romance novels. She is fully supported by male users who like the short-cut style.
-Reduces damage from Demihuman monster by 5%.
+Reduces damage from Demi-Human monster by 5%.
 When physically attacking there is a chance that for 30 seconds you'll gain ASPD +5%.
 Impossible to refine this item.
 Class :^777777 Headgear^000000
@@ -27426,7 +27434,7 @@ Applicable Job :^777777 Every Job^000000
 
 5345#
 So hot! A headgear with the figure of Kafra W! There is a rumor that an assassin association wants to scout her, because there are so many guys who become frightened and faint when she calls them.
-Reduces damage from Demihuman monster by 5%.
+Reduces damage from Demi-Human monster by 5%.
 Increases physical and magical damage to the undead monster by 5%.
 Impossible to refine this item.
 Class :^777777 Headgear^000000
@@ -27617,7 +27625,7 @@ Applicable Job :^777777 Every Job^000000
 5363#
 A helm worn by the Abysmal Knight. While strong against powerful blows, it's weak against frail attacks.
 Increases 10% resistance from Boss monster when the user receives physical attack.
-Reduced 10% resistance from Demihuman monster when the user receives physical attack.
+Reduced 10% resistance from Demi-Human monster when the user receives physical attack.
 Class :^777777 Headgear^000000
 Defense :^777777 2^000000
 Equipped on :^777777 Upper^000000
@@ -27787,8 +27795,8 @@ Applicable Job :^777777 Every Job^000000
 
 5379#
 A hat that looks like a balloon full of air.
-Each refine increases your MATK.
-MATK + 2%, MDEF + 2
+Each two refine upgrades increase your MATK by 1%.
+MATK + 2%.
 Class :^777777 Headgear^000000
 Defense :^777777 3^000000
 Equipped on :^777777 Upper^000000
@@ -28140,7 +28148,7 @@ Applicable Job :^777777 Every Job^000000
 
 5410#
 A hat in the form of an upside-down paperbag, to celebrate the festival.
-Reduces damage from Demihuman monster by 4%.
+Reduces damage from Demi-Human monster by 4%.
 Add a 4% resistance against ^880000Stun^000000, MaxHP + 100
 Class :^777777 Headgear^000000
 Defense :^777777 6^000000
@@ -28295,7 +28303,7 @@ Applicable Job :^777777 Every Job^000000
 
 5423#
 ...
-Reduces damage from DemiHuman enemies by 10%.
+Reduces damage from Demi-Human enemies by 10%.
 DEX + 3, Impossible to refine this item.
 Class :^777777 Headgear^000000
 Defense :^777777 5^000000
@@ -28344,7 +28352,7 @@ Applicable Job :^777777 Every Job^000000
 
 5428#
 ...
-Add a 12% resistance against DemiHuman monster.
+Add a 12% resistance against Demi-Human monster.
 Class :^777777 Headgear^000000
 Defense :^777777 0^000000
 Equipped on :^777777 Upper, Mid, Lower^000000
@@ -28593,7 +28601,7 @@ Applicable Job :^777777 Every Job Except Novice^000000
 5451#
 A helmet that exists in Legends, only the Champions of RWC are fit to wear it.
 Attack Speed is increased by 10%. ALL STAT + 3
-Increases damage from DemiHuman monster by 5%.
+Increases damage from Demi-Human monster by 5%.
 Impossible to refine this item.
 (All transfer methods except Kafra Storage are locked)
 Class :^777777 Headgear^000000
@@ -28606,7 +28614,7 @@ Applicable Job :^777777 Every Job^000000
 5452#
 A helmet that exists in Legends, only the Runner-Ups of RWC are fit to wear it.
 Attack Speed is increased by 7%. ALL STAT + 2
-Increases damage from DemiHuman monster by 3%.
+Increases damage from Demi-Human monster by 3%.
 Impossible to refine this item.
 (All transfer methods except Kafra Storage are locked)
 Class :^777777 Headgear^000000
@@ -28619,7 +28627,7 @@ Applicable Job :^777777 Every Job^000000
 5453#
 A helmet that exists in Legends, only the 3rd Placing of RWC are fit to wear it.
 Attack Speed is increased by 5%. ALL STAT + 2
-Increases damage from DemiHuman monster by 1%.
+Increases damage from Demi-Human monster by 1%.
 Impossible to refine this item.
 (All transfer methods except Kafra Storage are locked)
 Class :^777777 Headgear^000000
@@ -28724,7 +28732,7 @@ Applicable Job :^777777 Every Job^000000
 Spiked Scarf.
 VIT + 1.
 Increase physical damage from Demi Human monster by 1%.
-Reduces damage from Demihuman monster by 1%.
+Reduces damage from Demi-Human monster by 1%.
 Class :^777777 Headgear^000000
 Defense :^777777 1^000000
 Equipped on :^777777 Lower^000000
@@ -29071,7 +29079,7 @@ Applicable Job :^777777 Every Job^000000
 
 5492#
 A black cap that is usually worn by boys attending schools that require uniforms.
-Increase damage on DemiHuman monster by 5%.
+Increase damage on Demi-Human monster by 5%.
 Class :^777777 Headgear^000000
 Defense :^777777 5^000000
 Equipped on :^777777 Upper^000000
@@ -29573,8 +29581,8 @@ Applicable Job :^777777 Every Job^000000
 5535#
 ...
 VIT + 1, DEX + 1, MDEF + 3.
-Reduce 5% damage taken from DemiHuman monster.
-Increases damage inflicted on DemiHuman monster by 3%.
+Reduce 5% damage taken from Demi-Human monster.
+Increases damage inflicted on Demi-Human monster by 3%.
 Class :^777777 Headgear^000000
 Defense :^777777 3^000000
 Equipped on :^777777 Upper^000000
@@ -29801,7 +29809,7 @@ Applicable Job :^777777 Every Job^000000
 
 5553#
 Limited Promo! Summer Festival Bunny Band! 4 weeks rental item.
-MDEF + 4, Reduces damage from Demihuman monsters by 9%.
+MDEF + 4, Reduces damage from Demi-Human monsters by 9%.
 Class :^777777 Headgear^000000
 Equipped on :^777777 Upper^000000
 Defense :^777777 7^000000
@@ -29940,7 +29948,7 @@ Applicable Job :^777777 Every Job^000000
 
 5565#
 ...
-Increase damage on DemiHuman monster by 10%.
+Increase damage on Demi-Human monster by 10%.
 Class :^777777 Headgear^000000
 Defense :^777777 5^000000
 Equipped on :^777777 Upper, Mid, Lower^000000
@@ -29951,7 +29959,7 @@ Applicable Job :^777777 Every Job^000000
 
 5566#
 ...
-Increase damage on DemiHuman monster by 2%.
+Increase damage on Demi-Human monster by 2%.
 Class :^777777 Headgear^000000
 Defense :^777777 1^000000
 Equipped on :^777777 Upper, Mid, Lower^000000
@@ -30658,7 +30666,7 @@ Applicable Job :^777777 Every Job^000000
 A hat adorned with an Alice doll.
 When worn, it seems like Alice is cheering you on from the top of your head.
 ''Be strong, master!''
-+10% damage against Demihuman monsters, and has low chance of casting Sleep on its wearer.
++10% damage against Demi-Human monsters, and has low chance of casting Sleep on its wearer.
 STR + 1.
 Cannot be upgraded.
 Cannot be Dropped, or Tradable
@@ -30689,7 +30697,7 @@ Applicable Job : ^777777 Every Job^000000
 
 5625#
 A hat adorned with a cute chick that brings feelings of joy to those that see it hopping.
-Adds 3% resistance to Demihuman and Animal Class monsters.
+Adds 3% resistance to Demi-Human and Animal Class monsters.
 Cannot be upgraded.
 Enables Level 2 Double Attack.
 MHP and SP +50
@@ -30931,7 +30939,7 @@ Jobs: ^777777Mage Classes, and Soul Linker Job^000000
 5643#
 A sturdy, decorative hat worn by military generals in a far east country.
 VIT + 1.
-Reduce Demihuman monster damage by 5%.
+Reduce Demi-Human monster damage by 5%.
 Cannot be Dropped, or Tradable
 Can be placed in Kafra Storage
 Class : ^777777Headgear^000000
@@ -30989,7 +30997,7 @@ Applicable Job : ^777777 Every Job^000000
 5647#
 ^000088Rental Item^000000
 A hairband that gives one the appearance of having rabbit ears, a lasting symbol of extremely good luck.
-Reduces damage from Demihuman monsters by 10%.
+Reduces damage from Demi-Human monsters by 10%.
 MDEF + 5
 This item cannot be Dropped or Traded.
 Class : ^777777Headgear^000000
@@ -31054,7 +31062,7 @@ Applicable Job : ^777777All Except Novice^000000
 5652#
 ^000088Rental Item^000000
 A headgear made from the horns of Baphomet.
-Inflicts 12% more damage to Demihumans.
+Inflicts 12% more damage to Demi-Humans.
 Increases ATK based on the wearer's Job Lvl.
 This item cannot be Dropped or Traded.
 Class : ^777777Headgear^000000
@@ -31415,7 +31423,7 @@ Applicable Job :^777777 Every Job^000000
 5688#
 ...
 [^000088Event Bonus, will NOT work outside of Event^000000]
-ALL STATUS + 5, Add a 5% resistance against DemiHuman monster, HP/SP Recovery + 10%.
+ALL STATUS + 5, Add a 5% resistance against Demi-Human monster, HP/SP Recovery + 10%.
 Class :^777777 Headgear^000000
 Defense :^777777 2^000000
 Equipped on :^777777 Upper^000000
@@ -31480,7 +31488,7 @@ Applicable Job :^777777 Every Job^000000
 It's what's inside the man that makes him who he really is. Got the Balls for it?
 STR + 1, INT + 1, DEX + 1.
 MaxHP + 700.
-Reduce 2% damage taken from DemiHuman monster.
+Reduce 2% damage taken from Demi-Human monster.
 [^000088No Fear Shoes & No Fear Belt Set^000000]
 Cannot be frozen, Increase EXP Gain by 5%.
 Class :^777777 Headgear^000000
@@ -31494,7 +31502,7 @@ Applicable Job :^777777 Every Job Except Novice^000000
 5694#
 No Fear hat shaped signs that are written.
 VIT + 1, MaxHP + 100.
-Reduces damage from DemiHuman monster by 2%.
+Reduces damage from Demi-Human monster by 2%.
 Class :^777777 Headgear^000000
 Defense :^777777 1^000000
 Equipped on :^777777 Upper^000000
@@ -31901,7 +31909,7 @@ Required Level : ^7777771^000000
 
 5772#
 This is the hat worn by great Admirals of the navy fleet that defends the port of Alberta. Only those who have spent a lot of time helping the people of Alberta can earn this honorable hat.
-10% reduced damage from Demi-human.
+10% reduced damage from Demi-Human.
 Item Class : ^777777Headgear^000000 Defense : ^7777771^000000
 Location : ^777777Upper^000000 Weight : ^77777750^000000
 Required Level : ^77777795^000000
@@ -31910,7 +31918,7 @@ Applicable Job : ^777777All Jobs^000000
 
 5773#
 This is a navy blue beret worn by the elite soldiers of the Navy of Alberta. It is very effective when battling pirates on the high seas.
-10% reduced damage from Demi-human.
+10% reduced damage from Demi-Human.
 Item Class : ^777777Headgear^000000 Defense : ^7777771^000000
 Location : ^777777Upper^000000 Weight : ^77777750^000000
 Required Level : ^77777795^000000
@@ -31919,7 +31927,7 @@ Applicable Job : ^777777All Jobs^000000
 
 5774#
 A bandana usually worn by the first mate of a pirate ship. It commands respect from the crew and is effective when dealing with other pirates.
-10% reduced damage from Demi-human.
+10% reduced damage from Demi-Human.
 Item Class : ^777777Headgear^000000 Defense : ^7777771^000000
 Location : ^777777Upper^000000 Weight : ^77777750^000000
 Required Level : ^77777795^000000
@@ -32186,7 +32194,7 @@ Weight : ^7777770^000000
 
 5800#
 A blushing impression of a bridegroom.
-Reduces damage from DemiHuman monster by 3%.
+Reduces damage from Demi-Human monster by 3%.
 Class :^777777 Headgear^000000
 Defense :^777777 0^000000
 Equipped on :^777777 Mid^000000
@@ -32196,7 +32204,7 @@ Applicable Job :^777777 Every Job^000000
 
 5801#
 Pretty red ribbon. You can feel the sweetness of love.
-All Stats + 2, Reduce 10% damage taken from DemiHuman monster.
+All Stats + 2, Reduce 10% damage taken from Demi-Human monster.
 Add a 3% chance of auto casting ^008800Level 5 Heal^000000 on the enemy when attacking.
 (A chance of auto casting ^008800Level 10 Heal^000000 if ^008800Level 10 Heal^000000 is learned.)
 Class :^777777 Headgear^000000
@@ -32331,8 +32339,8 @@ Applicable Job :^777777 Every Job^000000
 #
 
 5814#
-An headgear which is made of many kinds of property rings. It looks very luxurious and charming. Reduce all damage from Demi-humans by 10%,
-Reduce damage from Water, Fire, Wind by 5%, Reduce damage from Ghost property monsters by 10%, Increase damage against Ghost property Demi-humans by 50%.
+An headgear which is made of many kinds of property rings. It looks very luxurious and charming. Reduce all damage from Demi-Humans by 10%,
+Reduce damage from Water, Fire, Wind by 5%, Reduce damage from Ghost property monsters by 10%, Increase damage against Ghost property Demi-Humans by 50%.
 30 days Rental Item.
 Item Class : ^777777Headgear^000000 Defense : ^7777772^000000
 Location : ^777777Upper,Mid,Lower^000000 Weight : ^7777770^000000
@@ -32421,7 +32429,7 @@ Applicable Job :^777777 Every Job^000000
 ...
 LUK + 4
 MaxHP + 100, MaxSP + 100.
-Reduce 7% damage taken from DemiHuman monster.
+Reduce 7% damage taken from Demi-Human monster.
 Reduces damage from undead monsters by 7%.
 Class :^777777 Headgear^000000
 Defense :^777777 2^000000
@@ -32663,7 +32671,7 @@ Required Level : ^77777750^000000
 5851#
 ^00008830 days Rental Item.^000000
 A hat that holds spirit of sun.
-Reduce Demi-human damage by 10%.
+Reduce Demi-Human damage by 10%.
 Add chance to cast Lv1 ¡°Sight¡± skill or Lv1 ¡°Sight Thrasher¡± when being hit by physical or magical attacks.
 Item Class : ^777777Headgear^000000 Defense : ^7777771^000000
 Location : ^777777Upper,Middle^000000 Weight : ^7777770^000000
@@ -35269,7 +35277,7 @@ Weight : ^7777770^000000
 #
 
 6425#
-recieved a proof that have liberated a spirit. You can get rewards if brings to the magician
+received a proof that have liberated a spirit. You can get rewards if brings to the magician
 Weight : ^7777770^000000
 #
 
@@ -42292,14 +42300,14 @@ Weight :^777777 0^000000
 9026#
 An egg in which a Zherlthsh Cute Pet rests. Can be hatched by using a ^33CC33Pet Incubator^000000.
 Increases your magic attack power by 2%.
-Increases magical damage to the DemiHuman by 2%.
+Increases magical damage to the Demi-Human by 2%.
 Class :^777777 Monster Egg^000000
 Weight :^777777 0^000000
 #
 
 9027#
 An egg in which an Alice Cute Pet rests. Can be hatched by using a ^33CC33Pet Incubator^000000.
-MDEF + 1,Reduces damage from DemiHuman enemies by 1%.
+MDEF + 1,Reduces damage from Demi-Human enemies by 1%.
 Class :^777777 Monster Egg^000000
 Weight :^777777 0^000000
 #
@@ -42320,7 +42328,7 @@ Weight :^777777 0^000000
 
 9030#
 An egg in which a Chung E Cute Pet rests. Can be hatched by using a ^33CC33Pet Incubator^000000.
-DEF + 1, Reduces damage from DemiHuman enemies by 1%.
+DEF + 1, Reduces damage from Demi-Human enemies by 1%.
 Class :^777777 Monster Egg^000000
 Weight :^777777 0^000000
 #
@@ -42424,7 +42432,7 @@ Weight :^777777 0^000000
 
 9046#
 An egg that has Cute-pet Goblin Leader sleeping in it. Can be hatched by using a ^33CC33Pet Incubator^000000.
-Increases damage against DemiHuman monster by 3%.
+Increases damage against Demi-Human monster by 3%.
 Class :^777777 Monster Egg^000000
 Weight :^777777 0^000000
 #
@@ -49283,7 +49291,7 @@ Applicable Job :^777777 Ninja^000000
 
 13012#
 A famous sword that is said to be sharp enough to divide oceans or cut through the air to make it bleed water.
-Critical Rate + 10 on DemiHuman monster.
+Critical Rate + 10 on Demi-Human monster.
 Class :^777777 Dagger^000000
 Attack :^777777 95^000000
 Weight :^777777 70^000000
@@ -49295,7 +49303,7 @@ Applicable Job :^777777 Ninja^000000
 
 13013#
 A famous sword that is said to be sharp enough to divide oceans or cut through the air to make it bleed water.
-Critical Rate + 10 on DemiHuman monster.
+Critical Rate + 10 on Demi-Human monster.
 Class :^777777 Dagger^000000
 Attack :^777777 95^000000
 Weight :^777777 70^000000
@@ -49388,9 +49396,9 @@ Applicable Job :^777777 Every Job^000000
 
 13021#
 ^000088Rental Items^000000
-Military combat knife made for battles against DemiHuman monster.
-Reduces damage from DemiHuman monster by 10%, but increases damage received from Demon monster by 10%.
-Pierces Defense of DemiHuman monster.
+Military combat knife made for battles against Demi-Human monster.
+Reduces damage from Demi-Human monster by 10%, but increases damage received from Demon monster by 10%.
+Pierces Defense of Demi-Human monster.
 Drain SP 3%, Maximum SP + 10%
 Impossible to refine this item.
 Class :^777777 Dagger^000000
@@ -49580,10 +49588,10 @@ Applicable Job :^777777 Assassin Cross^000000
 #
 
 13036#
-A dagger especially used for assassinations such as killing Demihumans.
+A dagger especially used for assassinations such as killing Demi-Humans.
 Str + 1, Agi + 1
-Increases Physical Attack Strength towards Demihuman monsters by 75%.
-Ignores Physical Defense from Demihuman monsters by 20%.
+Increases Physical Attack Strength towards Demi-Human monsters by 75%.
+Ignores Physical Defense from Demi-Human monsters by 20%.
 If worn by Ninja, Rogue, or Stalker Class characters, it adds MATK + 90.
 Indestructible.
 Class : ^777777Dagger^000000
@@ -49595,9 +49603,9 @@ Applicable Job :^777777 Novice, Swordman Class, Archer Class, Merchant Class, Th
 #
 
 13037#
-A dagger especially used for assassinations such as killing Demihumans.
+A dagger especially used for assassinations such as killing Demi-Humans.
 STR + 1, AGI + 1
-Increases Physical Attack Strength towards Demihuman monsters by 75%.
+Increases Physical Attack Strength towards Demi-Human monsters by 75%.
 Has a chance of enchanting compounded weapons with the Occult Impaction skill effect for 6 sec. when attacking.
 If worn by Ninja, Rogue, Stalker Class characters, it adds MATK + 90.
 Indestructible.
@@ -49655,12 +49663,12 @@ Applicable Job :^777777 Novice, Swordman Class, Mage Class, Archer Class, Mercha
 #
 
 13042#
-Increases physical attack against DemiHuman monster by 75%.
-Pierces Defense of DemiHuman monster by 20%.
+Increases physical attack against Demi-Human monster by 75%.
+Pierces Defense of Demi-Human monster by 20%.
 Add a chance of auto casting ^008800Level 1 Lex Devina^000000 on an enemy when attacking.
 Indestructible (except in upgrade attempts).
 [^333399Refine Rate 6~10^000000]
-Pierces Defense of DemiHuman monster by 5%.
+Pierces Defense of Demi-Human monster by 5%.
 ^ff0000[Slaughter]^000000 Lv 1
 [^333399Refine Rate 9~10^000000]
 When using the skill backstab, there's a high chance to cause bleeding to everyone in a 5x5 area.
@@ -49814,7 +49822,7 @@ A military combat
 knife designed for
 killing humanoids.
 Reduces damage from and increases tolerance to
-Demihuman monsters
+Demi-Human monsters
 by 10%, but increases
 damage inflicted by
 Devil monsters by 10%.
@@ -50134,11 +50142,11 @@ Applicable Job :^777777 Gunslinger^000000
 #
 
 13108#
-A Pistol made for short and medium ranged battles against Demihumans.
+A Pistol made for short and medium ranged battles against Demi-Humans.
 It seems to be capable of doing damage even through a bulletproof vest.
 DEX +2, HIT -10
-Increases Physical Attack Strength towards Demihuman monsters by 55%.
-Ignores Physical Defense from Demihuman monsters by 20%.
+Increases Physical Attack Strength towards Demi-Human monsters by 55%.
+Ignores Physical Defense from Demi-Human monsters by 20%.
 When attacking, and weapon awakening in consistent probability, Has a chance of Increasing Attack Speed by 100% for 3 seconds.
 Indestructible.
 Class : ^777777Pistol^000000
@@ -50161,11 +50169,11 @@ Applicable Job :^777777 Gunslinger^000000
 #
 
 13110#
-Increases physical attack against DemiHuman monster by 55%.
-Adds 20% defense bypassing on Demi-human monster.
+Increases physical attack against Demi-Human monster by 55%.
+Adds 20% defense bypassing on Demi-Human monster.
 Indestructible (except in upgrade attempts).
 [^333399Refine Rate 6~10^000000]
-Adds 5% defense bypassing on Demi-human monster.
+Adds 5% defense bypassing on Demi-Human monster.
 ^ff0000[Slaughter]^000000 Lv 1
 [^333399Refine Rate 9~10^000000]
 Add a chance of auto casting ^008800Level 1 Flip the Coin^000000 when using skill Rapid Shower.
@@ -50499,11 +50507,11 @@ Applicable Job :^777777 Gunslinger^000000
 #
 
 13171#
-A Rifle made for short and medium ranged battles against Demihumans, that enables a reduction to the targeting delay;
+A Rifle made for short and medium ranged battles against Demi-Humans, that enables a reduction to the targeting delay;
 as it is designed to limit the trembling of the shooter's hands.
 DEX +2, HIT +10, CRI +10
-Increases Physical Attack Strength towards Demihuman monsters by 75%.
-Ignores Physical Defense from Demihuman monsters by 20%.
+Increases Physical Attack Strength towards Demi-Human monsters by 75%.
+Ignores Physical Defense from Demi-Human monsters by 20%.
 Reduce Tracking skill Variable Casting Time by 25%.
 Indestructible.
 Class : ^777777Rifle^000000
@@ -50515,10 +50523,10 @@ Applicable Job :^777777 Gunslinger^000000
 #
 
 13172#
-A specialized Gatling Gun made for battles against Demihumans; occasionally, it shoots high-powered bullets.
+A specialized Gatling Gun made for battles against Demi-Humans; occasionally, it shoots high-powered bullets.
 DEX + 2
-Increases Physical Attack Strength towards Demihuman monsters by 35%.
-Ignores Physical Defense from Demihuman monsters by 20%.
+Increases Physical Attack Strength towards Demi-Human monsters by 35%.
+Ignores Physical Defense from Demi-Human monsters by 20%.
 Has a chance of adding 80 ATK for 6 seconds,
 but due to the recoil will drain 120 HP every second.
 Indestructible.
@@ -50531,11 +50539,11 @@ Applicable Job :^777777 Gunslinger^000000
 #
 
 13173#
-A Shotgun that has a great attack in short ranged battles against Demihumans.
+A Shotgun that has a great attack in short ranged battles against Demi-Humans.
 It shows a wide variety of strength between each attack.
 DEX + 2, Inflicts splash attack.
-Increases Physical Attack Strength towards Demihuman monsters by 55%.
-Ignores Physical Defense from Demihuman monster by 20%.
+Increases Physical Attack Strength towards Demi-Human monsters by 55%.
+Ignores Physical Defense from Demi-Human monster by 20%.
 Has a chance of adding 80 ATK for 6 seconds,
 but drains 100 HP every second.
 Indestructible.
@@ -50548,10 +50556,10 @@ Applicable Job :^777777 Gunslinger^000000
 #
 
 13174#
-A Grenade Launcher that shows great fire-power in battles against Demihumans.
+A Grenade Launcher that shows great fire-power in battles against Demi-Humans.
 DEX + 2
-Increases Physical Attack Strength towards Demihuman monsters by 35%.
-Ignores Physical Defense from Demihuman monsters by 20%.
+Increases Physical Attack Strength towards Demi-Human monsters by 35%.
+Ignores Physical Defense from Demi-Human monsters by 20%.
 Has a chance of adding 300 ATK for 9 seconds,
 but drains 120 HP every second.
 Indestructible.
@@ -50575,11 +50583,11 @@ Applicable Job :^777777 Gunslinger^000000
 #
 
 13176#
-Increases physical attack against DemiHuman monster by 75%.
-Adds 20% defense bypassing on Demi-human monster.
+Increases physical attack against Demi-Human monster by 75%.
+Adds 20% defense bypassing on Demi-Human monster.
 Increases 30% damage of skill Triple Action.
 [^333399Refine Rate 6~10^000000]
-Adds 5% defense bypassing on Demi-human monster.
+Adds 5% defense bypassing on Demi-Human monster.
 ^ff0000[Slaughter]^000000 Lv 1
 [^333399Refine Rate 9~10^000000]
 Decreases casting time of skill Tracking by 25%
@@ -50593,12 +50601,12 @@ Applicable Job :^777777 Gunslinger^000000
 #
 
 13177#
-Increases physical attack against DemiHuman monster by 35%.
-Adds 20% defense bypassing on Demi-human monster.
+Increases physical attack against Demi-Human monster by 35%.
+Adds 20% defense bypassing on Demi-Human monster.
 Increases 30% damage of skill Triple Action.
 Indestructible (except in upgrade attempts).
 [^333399Refine Rate 6~10^000000]
-Adds 5% defense bypassing on Demi-human monster.
+Adds 5% defense bypassing on Demi-Human monster.
 ^ff0000[Slaughter]^000000 Lv 1
 [^333399Refine Rate 9~10^000000]
 Increases physical damage by 1% times the refine of the weapon.
@@ -50611,13 +50619,13 @@ Applicable Job :^777777 Gunslinger^000000
 #
 
 13178#
-Increases physical attack against DemiHuman monster by 55%.
-Adds 20% defense bypassing on Demi-human monster.
+Increases physical attack against Demi-Human monster by 55%.
+Adds 20% defense bypassing on Demi-Human monster.
 Splash Attack.
 Increases 30% damage of skill Triple Action.
 Indestructible (except in upgrade attempts).
 [^333399Refine Rate 6~10^000000]
-Adds 5% defense bypassing on Demi-human monster.
+Adds 5% defense bypassing on Demi-Human monster.
 ^ff0000[Slaughter]^000000 Lv 1
 [^333399Refine Rate 9~10^000000]
 Increases the damage of Crowd Control Shot by 2% times the refine of the weapon.
@@ -51250,10 +51258,10 @@ Applicable Job :^777777 Ninja^000000
 #
 
 13305#
-Huuma Shuriken that holds great strength and brings extraordinary power in battles against Demihumans.
+Huuma Shuriken that holds great strength and brings extraordinary power in battles against Demi-Humans.
 STR + 2, DEX + 1
-Increases Physical Attack Strength towards Demihuman monsters by 95%.
-Ignores Physical Defense from Demihuman monsters by 20%.
+Increases Physical Attack Strength towards Demi-Human monsters by 95%.
+Ignores Physical Defense from Demi-Human monsters by 20%.
 Indestructible.
 Class : ^777777Huuma^000000
 Attack Strength: ^77777755^000000
@@ -51264,9 +51272,9 @@ Applicable Job :^777777 Ninja^000000
 #
 
 13306#
-Huuma Shuriken that holds great strength and brings extraordinary power in battles against Demihumans.
+Huuma Shuriken that holds great strength and brings extraordinary power in battles against Demi-Humans.
 STR + 2, DEX + 1
-Increases Physical Attack Strength towards Demihuman monsters by 95%.
+Increases Physical Attack Strength towards Demi-Human monsters by 95%.
 Has a chance of increasing Attack Strength to ^FF0000Throw Huuma Shuriken^000000 and ^FF0000Killing Stroke^000000 by 100% for 10 seconds.
 Indestructible.
 Class : ^777777Huuma^000000
@@ -51278,14 +51286,14 @@ Applicable Job :^777777 Ninja^000000
 #
 
 13307#
-Increases physical attack against DemiHuman monster by 95%.
-Adds 20% defense bypassing on Demi-human monster.
+Increases physical attack against Demi-Human monster by 95%.
+Adds 20% defense bypassing on Demi-Human monster.
 MATK + 90
 Adds a 5% chance double damage for 10 seconds the skills
 ^008800Level 1 Final Strike and Level 1 Throw Huuma Shuriken ^000000 When dealing physical damage.
 Indestructible (except in upgrade attempts).
 [^333399Refine Rate 6~10^000000]
-Pierces Defense of DemiHuman monster by 5%.
+Pierces Defense of Demi-Human monster by 5%.
 ^ff0000[Slaughter]^000000 Lv 2
 [^333399Refine Rate 9~10^000000]
 Add 100% chance of auto casting ^008800Level 10 Heal^000000 when using skill Final Strike.
@@ -51513,7 +51521,7 @@ Applicable Job :^777777 Swordman Class, Merchant Class, Thief Class^000000
 13407#
 ^000088Rental Items^000000
 An one-handed sword topped with several extra edges for making wounds deeper and more unsightly.
-Increases damage against DemiHuman monster by 40%
+Increases damage against Demi-Human monster by 40%
 ...
 Impossible to refine this item.
 Class :^777777 Sword^000000
@@ -51556,10 +51564,10 @@ Applicable Job :^777777 Swordman Class, Merchant Class, Thief Class^000000
 #
 
 13410#
-A sword favored by gladiators, it is especially designed for battles against Demihumans.
+A sword favored by gladiators, it is especially designed for battles against Demi-Humans.
 STR + 1, DEX + 1
-Increases Physical Attack Strength towards Demihuman monsters by 75%.
-Ignores Physical Defense from Demihuman monsters by 20%.
+Increases Physical Attack Strength towards Demi-Human monsters by 75%.
+Ignores Physical Defense from Demi-Human monsters by 20%.
 Indestructible.
 Class : ^777777One Handed Sword^000000
 Attack Strength: ^777777115^000000
@@ -51570,10 +51578,10 @@ Applicable Job :^777777 Novice, Swordman Class, Merchant Class, Thief Class^0000
 #
 
 13411#
-A sword favored by gladiators, it is especially designed for battles against Demihumans.
+A sword favored by gladiators, it is especially designed for battles against Demi-Humans.
 STR + 1, DEX + 1
 MATK + 74
-Increases Physical Attack Strength towards Demihuman monsters by 75%.
+Increases Physical Attack Strength towards Demi-Human monsters by 75%.
 Indestructible.
 Class : ^777777One Handed Sword^000000
 Attack Strength: ^777777115^000000
@@ -51634,12 +51642,12 @@ Applicable Job :^777777 Novice, Swordman Class, Merchant Class, Thief Class^0000
 #
 
 13416#
-Increases physical attack against DemiHuman monster by 75%.
-Pierces Defense of DemiHuman monster by 20%.
+Increases physical attack against Demi-Human monster by 75%.
+Pierces Defense of Demi-Human monster by 20%.
 Add a chance of auto casting ^008800Level 1 Lex Devina^000000 on an enemy when attacking.
 Indestructible (except in upgrade attempts).
 [^333399Refine Rate 6~10^000000]
-Pierces Defense of DemiHuman monster by 5%.
+Pierces Defense of Demi-Human monster by 5%.
 ^ff0000[Slaughter]^000000 Lv 1
 [^333399Refine Rate 7~10^000000]
 Attack Speed + 10%.
@@ -53708,7 +53716,7 @@ Weight :^777777 1^000000
 
 13717#
 A box containing 5 Abrasive.
-For 5 minutes, the player will recieve +30 Critical Rate. This rate is doubled by Katar weapons.
+For 5 minutes, the player will receive +30 Critical Rate. This rate is doubled by Katar weapons.
 ^ffffff_^000000
 ^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
 ^ffffff_^000000
@@ -53717,7 +53725,7 @@ Weight :^777777 1^000000
 
 13718#
 A box containing 10 Abrasive.
-For 5 minutes, the player will recieve +30 Critical Rate. This rate is doubled by Katar weapons.
+For 5 minutes, the player will receive +30 Critical Rate. This rate is doubled by Katar weapons.
 ^ffffff_^000000
 ^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
 ^ffffff_^000000
@@ -54997,7 +55005,7 @@ Weight :^777777 1^000000
 A box contains a Hockey mask available during a week.
 ^ffffff_^000000
 A mask for playing Hockey when wear it and then feel like hold weapon.
-Increase damage on DemiHuman monster by 5%.
+Increase damage on Demi-Human monster by 5%.
 ^ffffff_^000000
 ^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
 ^ffffff_^000000
@@ -55062,7 +55070,7 @@ A box contains 1 Baby Chick.
 ^ffffff_^000000
 A hat with cute little chick on it. It's hopping action is so cute.
 Allows usage ^008800Level 2 Double Attack^000000, and if you already know higher than ^008800Level 2 Double Attack^000000, then the appropriate level will be used instead.
-Reduce damage from DemiHuman monster by 3%.
+Reduce damage from Demi-Human monster by 3%.
 Impossible to refine this item.
 MaxHP, MaxSP + 50, LUK + 2.
 ^ffffff_^000000
@@ -55907,7 +55915,7 @@ Weight :^777777 1^000000
 A box which contains 1 Deporte Doll Hat.
 ^ffffff_^000000
 So hot! A headgear with the figure of Kafra Defolty! Numerous users are using Kafra storage more than 20 times a day, fascinated by her smiling face.
-Reduces damage from Demihuman monster by 5%.
+Reduces damage from Demi-Human monster by 5%.
 Add a chance of auto casting ^008800Level 10 Angelus^000000 on the user when the user receives Physical Damage.
 Impossible to refine this item. Slot [1]
 ^ffffff_^000000
@@ -55920,7 +55928,7 @@ Weight :^777777 1^000000
 A box which contains 1 Glarice Doll Hat.
 ^ffffff_^000000
 So hot! A headgear with the figure of Kafra Glaris! Fascinated by her mature appearance, her advocates call her a teacher.
-Reduces damage from Demihuman monster by 5%.
+Reduces damage from Demi-Human monster by 5%.
 Recover +50 HP when defeating a monster with a magical attack.
 Impossible to refine this item. Slot [1]
 ^ffffff_^000000
@@ -55933,7 +55941,7 @@ Weight :^777777 1^000000
 A box which contains 1 Sorin Doll Hat.
 ^ffffff_^000000
 So hot! A headgear with the figure of Kafra Sorin! Her cute appearance made the price of this hat rise at the auction place.
-Reduces damage from Demihuman monster by 5%.
+Reduces damage from Demi-Human monster by 5%.
 When physically attacking there is a chance that for 10 seconds you'll receive ATK +50.
 Impossible to refine this item. Slot [1]
 ^ffffff_^000000
@@ -55946,7 +55954,7 @@ Weight :^777777 1^000000
 A box which contains 1 Tailring Doll Hat.
 ^ffffff_^000000
 So hot! A headgear with the figure of Kafra Telling! She is such an active and hard-working lady. So she became the most favorite Kafra among users.
-Reduces damage from Demihuman monster by 5%.
+Reduces damage from Demi-Human monster by 5%.
 Increases the effectiveness HP using potion pitcher by 10%.
 Impossible to refine this item. Slot [1]
 ^ffffff_^000000
@@ -55959,7 +55967,7 @@ Weight :^777777 1^000000
 A box which contains 1 Vinit Doll Hat.
 ^ffffff_^000000
 So hot! A headgear with the figure of Kafra Bennit! She has a boyish look, but her hobby is knitting and reading romance novels. She is fully supported by male users who like the short-cut style.
-Reduces damage from Demihuman monster by 5%.
+Reduces damage from Demi-Human monster by 5%.
 When physically attacking there is a chance that for 30 seconds you'll gain ASPD +5%.
 Impossible to refine this item. Slot [1]
 ^ffffff_^000000
@@ -55972,7 +55980,7 @@ Weight :^777777 1^000000
 A box which contains 1 W Doll Hat.
 ^ffffff_^000000
 So hot! A headgear with the figure of Kafra W! There is a rumor that an assassin association wants to scout her, because there are so many guys who become frightened and faint when she calls them.
-Reduces damage from Demihuman monster by 5%.
+Reduces damage from Demi-Human monster by 5%.
 Increases physical and magical damage to the undead monster by 5%.
 Impossible to refine this item. Slot [1]
 ^ffffff_^000000
@@ -58358,7 +58366,7 @@ Weight :^777777 1^000000
 ^000088Rental Items for 7 days^000000
 A box contains 1 "Bloody Ring". Please take a care because is fragile!
 A ring that has special power in each shape.
-Increases 15% experience from ^000088DemiHuman Monster^000000.
+Increases 15% experience from ^000088Demi-Human Monster^000000.
 ^ffffff_^000000
 ^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
 ^ffffff_^000000
@@ -58468,7 +58476,7 @@ Weight :^777777 1^000000
 ^000088Rental Items for 15 days^000000
 A box contains 1 "Bloody Ring". Please take a care because is fragile!
 A ring that has special power in each shape.
-Increases 15% experience from ^000088DemiHuman Monster^000000.
+Increases 15% experience from ^000088Demi-Human Monster^000000.
 ^ffffff_^000000
 ^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
 ^ffffff_^000000
@@ -58706,7 +58714,7 @@ Weight :^777777 1^000000
 14284#
 A box contains 1 "Neo Muffler". Available for one week.
 A warm scarf that is worn around the neck and shoulders.
-Add a 10% resistance against DemiHuman monster.
+Add a 10% resistance against Demi-Human monster.
 MaxHP + 10%
 Resistance against ^0000FFWater^000000, ^FF0000Fire^000000, ^777777Holy^000000, ^777777Shadow^000000 Property by 5%.
 ^ffffff_^000000
@@ -58718,7 +58726,7 @@ Weight :^777777 1^000000
 14285#
 A box contains 1 "Neo Valkyrja's Shield". Available for one week.
 A shield used by Gna, the messanger of Freyja while she served as a Valkyrie.
-Add a 30% resistance against DemiHuman monster.
+Add a 30% resistance against Demi-Human monster.
 MaxHP + 5%
 Add a 20% resistance against ^FF0000Fire^000000 and ^0000FFWater^000000 Property attacks.
 ^ffffff_^000000
@@ -60462,7 +60470,7 @@ Weight :^777777 1^000000
 
 14536#
 An abrasive that adds sharpness to a weapon.
-For 5 minutes, the player will recieve +30 Critical Rate. This rate is doubled by Katar weapons.
+For 5 minutes, the player will receive +30 Critical Rate. This rate is doubled by Katar weapons.
 ^ffffff_^000000
 Weight :^777777 1^000000
 #
@@ -60993,7 +61001,7 @@ Weight :^777777 30^000000
 A dark armor covered in sharp bones.
 STR + 1, MDEF + 3
 Adds a 1% chance to cause ^880000External Bleeding^000000 status ailment all players in a 5x5 area around you.
-When dealing physical damage, bypasses 10% defense on demihuman and brute type monsters.
+When dealing physical damage, bypasses 10% defense on Demi-Human and brute type monsters.
 Class :^777777 Armor^000000
 Defense :^777777 60^000000
 Weight :^777777 100^000000
@@ -64199,7 +64207,7 @@ A box that contains:
 ^6A5ACD1 Baphomet Horns^000000
 Duration: 7 Days after opening.
 A headgear made from the horns of Baphomet.
-Inflicts 12% more damage to Demihumans.
+Inflicts 12% more damage to Demi-Humans.
 Increases ATK based on the wearer's Job Lvl.
 This item cannot be Dropped or Traded.
 Class : ^777777Headgear^000000 Defense : ^7777775^000000
@@ -64228,8 +64236,8 @@ Duration: 7 Days after opening.
 A gruesome sword used
 to behead criminals judged with the death penalty.
 Pierces Defense of
-Demihuman monsters.
-Increases damage inflicted on Demihuman monsters by 20%, but increases damage received by Demihuman monsters by 10%.
+Demi-Human monsters.
+Increases damage inflicted on Demi-Human monsters by 20%, but increases damage received by Demi-Human monsters by 10%.
 This item cannot be Dropped or Traded.
 Class :
 ^777777Two-handed Sword^000000
@@ -64904,8 +64912,8 @@ Weight : ^77777710^000000
 16575#
 A box contains 1 2011 Pagdayaw in it.
 ^ffffff_^000000
-An headgear which is made of many kinds of property rings. It looks very luxurious and charming. Reduce all damage from Demi-humans by 10%,
-Reduce damage from Water, Fire, Wind by 5%, Reduce damage from Ghost property monsters by 10%, Increase damage against Ghost property Demi-humans by 50%.
+An headgear which is made of many kinds of property rings. It looks very luxurious and charming. Reduce all damage from Demi-Humans by 10%,
+Reduce damage from Water, Fire, Wind by 5%, Reduce damage from Ghost property monsters by 10%, Increase damage against Ghost property Demi-Humans by 50%.
 30 days Rental Item.
 Item Class : ^777777Headgear^000000 Defense : ^7777772^000000
 Location : ^777777Upper,Mid,Lower^000000 Weight : ^7777770^000000
@@ -65844,7 +65852,7 @@ cheering you on from
 the top of your head.
 ''Be strong, master!''
 +10% damage against
-Demihuman monsters,
+Demi-Human monsters,
 and has low chance of
 casting Sleep on
 its wearer.
@@ -65871,7 +65879,7 @@ A sturdy, decorative
 hat worn by military
 generals in a far
 east country. Vit +1.
-Reduce Demihuman
+Reduce Demi-Human
 monster damage by 5%.
 Cannot be Dropped,
 or Tradable
@@ -65892,7 +65900,7 @@ A sturdy, decorative
 hat worn by military
 generals in a far
 east country. Vit +1.
-Reduce Demihuman
+Reduce Demi-Human
 monster damage by 5%.
 Cannot be Dropped,
 or Tradable
@@ -71355,7 +71363,7 @@ Applicable Job : ^777777 All jobs except Novices^000000
 18510#
 
 These are the bloodstained wings of a fallen angel acquired from the Betrayal of Emperium event.
-Reduce 10% damage from Demi-humans.
+Reduce 10% damage from Demi-Humans.
 Can't be refined.
 Item Class : ^777777Headgear^000000 Defense : ^7777771^000000
 Location : ^777777Upper ^000000 Weight : ^7777770^000000
@@ -72250,7 +72258,7 @@ Applicable Job :^777777 Every Job^000000
 18630#
 
 A cute doll of a drooping Alicel from the Robot Factory.
-Increases damage to Demihuman and Demon monsters by 10%.
+Increases damage to Demi-Human and Demon monsters by 10%.
 If refined to +7 or higher, has a low chance of adding 100% Aspd for 7 seconds.
 ^FF0000Created by Allysia^000000
 ^FFFFFF_^000000

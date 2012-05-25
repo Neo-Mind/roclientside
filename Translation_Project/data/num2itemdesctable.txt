@@ -30819,10 +30819,10 @@ Weight : ^7777771^000000
 #
 
 12578#
-¿¢Á± È·µ¶¸Â°¡ ºº°òÀÌ ºÇ»Â ²Ä¶¿ÁóÀ´ ÀÀÃàÇØ »ã±Æ¼õÀµ µ». µü·¥ ´óÃ¼ Àç´ı°¡ È°ÇèÀÌ ÀÖ»Ù¿í ÇÑ»Ù.
-µ¶°ëÇÏ·é 10µĞ¿£ 3ÃÊ·¹»Ù NSKÀÇ 6%·¦ È·µ¶ÇÑ»Ù.
-¶ö³­Å© ´óÅÂ°¡³­»Â È°¿ú¿¡ ¶ßº°ÇÏÁö ±Ê»Â»Ù.
-^000088Ä¼·¯ÅÍ¿¡ ÀüÅõµÒ»É´óÅÂ¿¡ ºÇ·é ±ÆÀÌÅÛ È°¿úºº ´ç¹óÁı»Ï»Ù.^000000
+Potion contains verious recovery herb juice. Effective for faster wound healing.
+Recovers 6% of MaxHP every 3 seconds for 10 minutes.
+Not available in berserk condition.
+^000088When player's character becomes combat ineffective, the item buff effect will wear off.^000000
 Weight : ^7777771^000000
 #
 
@@ -30833,16 +30833,16 @@ Weight : ^7777770^000000
 #
 
 12580#
-¿ÔÆæ ·¹¶ıÇĞÈ·ÀÇ °À¸£ °¬¾··¦ ÅëÇÑ È·²ÉÀÇ ²ÃÇèÀÛ.
-'¼ëÁ¡°¡³­ ÆÇ·Å, ¾·ÀÔ ÁßÀÎ ±ÆÀÌÅÛÀ´ ¿Ë´öÇÒ ³ö ÀÖ»Â' ·¹¶ıÀÌ »ã¾ä ÁÖ¶®³­¸Î, ¿Ë´öºÈ ¼ëÁ¡ÀÇ À§Ä¡·¦ ±Ë ³ö ÀÖ»Ù.
-^000088´ç°ëÀÚ¿¡ ³­ ÀÖ»Â ·Ê°¡ °­¸ÁÀÖ»Â ¼ëÁ¡·· ¿Ë´öÇÕ»Ï»Ù.^000000
+Trial product which has been researched from the Geffen Magic Academy for such a long time.
+A magical scroll which is able to 'search what items are on sale and what items are on purchasing' can locate the searched vendor.
+^000088Able to search open vendors only in the same map you're located.^000000
 Weight : ^7777771^000000
 #
 
 12581#
-¿ÔÆæ ·¹¶ıÇĞÈ·ÀÇ »õ°í ÁøÈ­ÇÑ °¬¾· ³µ¿ú!
-'¼ëÁ¡°¡³­ ÆÇ·Å, ¾·ÀÔ ÁßÀÎ ±ÆÀÌÅÛÀ´ ¿Ë´öÇÒ ³ö ÀÖ»Â' ·¹¶ıÀÌ »ã¾ä ²µÅ©¸Ñ¸Î, ¿Ë´öºÈ ·ºÅ©·¦ ÅëÇØ ¶¿¿ÇÀ´ Á÷Á¢ ¾··ÅÇÏ¿Å¼ª ÆÇ·Åºº ¿¡»ÉÇÏ»Ù!
-^000088´ç°ëÀÚ¿¡ ³­ ÀÖ»Â ·Ê°¡ °­¸ÁÀÖ»Â ¼ëÁ¡·· ¿Ë´öÇÕ»Ï»Ù.^000000
+Advanced product from the Geffen Magic Academy than before!
+A magical scroll is able to 'search what items are on sale and what items are on purchasing'. Able to sell or buy items from the searched link!
+^000088Able to search open vendors only in the same map you're located.^000000
 Weight : ^7777771^000000
 #
 
@@ -30887,9 +30887,9 @@ Weight : ^7777771^000000
 #
 
 12591#
-¿ÔÆæ ·¹¶ıÇĞÈ·ÀÇ »õ°í ÁøÈ­ÇÑ °¬¾· ³µ¿ú!
-'¼ëÁ¡°¡³­ ÆÇ·Å, ¾·ÀÔ ÁßÀÎ ±ÆÀÌÅÛÀ´ ¿Ë´öÇÒ ³ö ÀÖ»Â' ·¹¶ıÀÌ »ã¾ä ²µÅ©¸Ñ¸Î, ¿Ë´öºÈ ·ºÅ©·¦ ÅëÇØ ¶¿¿ÇÀ´ Á÷Á¢ ¾··ÅÇÏ¿Å¼ª ÆÇ·Åºº ¿¡»ÉÇÏ»Ù!
-^000088´ç°ëÀÚ¿¡ ³­ ÀÖ»Â ·Ê°¡ °­¸ÁÀÖ»Â ¼ëÁ¡·· ¿Ë´öÇÕ»Ï»Ù. ÀÌ ±ÆÀÌÅÛÀµ ÀÌµ¥Æ® ¾â¿£ÀÌ Á±¸áºÇ·é ´èÁ¦ºË»Ï»Ù.^000000
+Advanced product from the Geffen Magic Academy than before!
+A magical scroll is able to 'search what items are on sale and what items are on purchasing'. Able to sell or buy items from the searched link!
+^000088Able to search open vendors only in the same map you're located. This item will be deleted after event ends.^000000
 Weight : ^7777771^000000
 #
 
@@ -31155,8 +31155,13 @@ HP, SP 3% È¸º¹.
 #
 
 12654#
-±â°£ ÇÑÁ¤ Ãµ»ç ¸ğ¾çÀÇ ²Ù·¯¹Ì. ¿­¾îº¸¸é ¹«¾ğ°¡ ³ª¿Ã °Í °°´Ù.
-¹«°Ô : ^7777771^000000
+A box given to friends of new recruits that contains 1 Halter Lead. Once opened, the item inside expires after 30 days.
+^ff0000This item is account bound.^000000
+An animal halter lead that summons a creature to ride on.
+Mount creatures increase movement speed by 25%.
+Cannot attack while on a mount.
+^ff0000When this item expires, so does the mount.^000000
+Weight : ^7777771^000000
 #
 
 12658#
