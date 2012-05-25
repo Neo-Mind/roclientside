@@ -3643,7 +3643,7 @@ Applicable Job :^777777 Swordman Class^000000
 1181#
 This is known as the sword of a brave man from the orient. 
 Perfect Dodge +10.
-If player is Job Level 70 (If player is a Rune Knight job level needs to be 50) has a chance of receiving ATK + 50 for 10 seconds when physically attacked.
+If player is Job Level 70 (If player is a Rune Knight job level needs to be 50) has a chance of receiving ATK + 50 for 10 seconds when receiving Physical Damage.
 If upgrade level is 9 +, skill cast time and after-casting delay decreases by 20%.
 Class : ^777777Two-handed Sword^000000
 Attack Strength: ^777777250^000000
@@ -11291,7 +11291,7 @@ Applicable Job :^777777 Trans 2nd Class^000000
 A small shield which is wearable with black arms.
 [^000088Shadow Guard & Shadow Walk Equip Set^000000]
 Add a 2% chance of inflicting Blind on the target when doing a melee attack.
-Add a 20% chance for when physically attacked, the user receive Flee +20 for 10 seconds.
+Add a 20% chance for when receiving physical damange, the user receive Flee +20 for 10 seconds.
 Class :^777777 Shield^000000
 Defense :^777777 52^000000
 Weight :^777777 80^000000
@@ -13394,7 +13394,7 @@ MaxHP + 150. MDEF + 2.
 STR + 3, MaxHP + 12%,
 Increases Mammonite damage by 20%.
 Increases HP Restoration of ^FF0000Heal^000000 and ^FF0000Potion Pitcher^000000 by 10%.
-Increases damage from non-Demi-Human monsters times 3.
+Increases damage from Non-Demi-Human monsters times 3.
 Indestructible.
 Class :^777777 Armor^000000
 Defense :^777777 50^000000
@@ -13406,14 +13406,14 @@ Applicable Job :^777777 Merchant Class^000000
 2378#
 If you desire to move more quickly, this might help. It gives off multiple effects when compounded as a set.
 Reduces damage from Demi-Human monsters by 2%.
-MaxHP + 150, MDEF + 2, 
+MaxHP + 150, MDEF + 2.
 ^ffffff000000^000000
 When equipped with Battle Greaves and Captain's Manteau,
-AGI + 3. MaxHP + 12%,
+AGI + 3. MaxHP + 12%.
 Increase in attack speed(delay after attacking reduces by 5%),
 Critical Rate + 5%,
-ASPD + 5%
-Increases damage from non-Demi-Human monsters times 3.
+ASPD + 5%.
+Increases damage from Non-Demi-Human monsters times 3.
 When attacking physically has a chance of restoring 3,000 HP per second for 10 seconds.
 Class : ^777777Armor^000000
 Defense : ^77777741^000000
@@ -13425,12 +13425,12 @@ Applicable Job :^777777 Thief Class^000000
 2379#
 A Battle Robe that helps increase the possibility of survival. It gives off multiple effects when compounded as a set.
 Reduces damage from Demi-Human monsters by 2%.
-MaxHP + 150, MDEF + 2, 
+MaxHP + 150, MDEF + 2. 
 ^FFFFFF000000^000000
 When equipped with Combat Boots and Commander's Manteau,
 INT + 3. MaxHP + 12%.
 Adds 20% resistance to ^FF0000Stun^000000.
-Increases damage from all non-Demi-Human monsters times 3.
+Increases damage from all Non-Demi-Human monsters times 3.
 When receiving physical damage, has a chance of enchanting Armor with the Ghost property for 10 seconds.
 Class : ^777777Armor^000000
 Defense : ^77777736^000000
@@ -13448,7 +13448,7 @@ MaxHP + 150, MDEF + 2.
 When equipped with Combat Boots and Commander's Manteau,
 INT + 3. MaxHP + 12%.
 Reduces ^FF0000Holy Light^000000 Variable Casting Time by 50%.
-Increases damage from all non-Demi-Human monsters times 3.
+Increases damage from all Non-Demi-Human monsters times 3.
 Increases HP Restoration of ^FF0000Heal^000000 and ^FF0000Sanctuary^000000 by 6% when they are cast by the wearer.
 When receiving physical damage, has a chance of enchanting Armor with the Ghost property for 10 seconds.
 Class : ^777777Armor^000000
@@ -13467,7 +13467,7 @@ MaxHP + 150, MDEF + 2.
 When equipped with Combat Boots and Commander's Manteau,
 DEX + 3, MaxHP + 12%.
 Reduces long ranged Damage by 10% and cast delay by 25%.
-Increases damage from all non-Demi-Human monsters times 3.
+Increases damage from all Non-Demi-Human monsters times 3.
 Class : ^777777Armor^000000
 Defense : ^77777735^000000
 Weight : ^7777770^000000
@@ -13483,7 +13483,7 @@ MHP + 150, MDEF + 2.
 When equipped with Battle Boots and Sheriff's Manteau,
 DEX + 3, MaxHP + 12%.
 Reduces long ranged Damage by 10% and cast delay by 25%.
-Increases damage from all non-Demi-Human monsters times 3.
+Increases damage from all Non-Demi-Human monsters times 3.
 Class : ^777777Armor^000000
 Defense : ^77777725^000000
 Weight : ^7777770^000000
@@ -13948,7 +13948,7 @@ If the player has ^008800Level 4 Cloaking^000000 or above, higher level skill is
 MDEF + 10
 [^000088Shadow Cuard [1] Combo^000000]
 Add a 2% chance of inflicting Blind on the target when doing a melee attack.
-Add a 20% chance for when physically attacked, the user receive Flee +20 for 10 seconds.
+Add a 20% chance for when receiving physical damage, the user receive Flee +20 for 10 seconds.
 Class :^777777 Footgear^000000
 Defense :^777777 0^000000
 Weight :^777777 200^000000
