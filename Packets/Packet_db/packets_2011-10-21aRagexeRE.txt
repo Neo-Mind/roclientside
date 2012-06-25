@@ -38,3 +38,4 @@
 0x0202,90,useskilltoposinfo,2:4:6:8:10
 0x089C,6,getcharnamerequest,2
 0x088F,6,solvecharname,2
+0x08D7,28,battlegroundreg,2:4 //Added to prevent disconnections
