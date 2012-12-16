@@ -38,7 +38,7 @@ BGM Off#
 /effect: Effects On or Off#
 /where: Shows your present location#
 /skip: Turns Frame Skip On or Off#
-/v (0~127): Controls the volume of the Sound Effects #
+/v (0~127): Controls the volume of the Sound Effects#
 /bv (0~127): Controls the volume of the BGM#
 /ex (Character Name): Blocks whispering from the Character#
 /ex: View a list of Characters you have Blocked#
@@ -141,9 +141,9 @@ Ppl#
 [Alt] + [End]: Turns HP/SP Bar On or Off#
 [Alt] + [Home]: Turns Ground Cursor On or Off#
 [Insert]: Makes you sit or stand. (Hotkey to toggle between /sit and /stand)#
-Congratulations! You are the MVP! Your reward item is #
+Congratulations! You are the MVP! Your reward item is#
 !!#
-Congratulations! You are the MVP! Your reward EXP Points are #
+Congratulations! You are the MVP! Your reward EXP Points are#
 acquired!#
 You are the MVP, but you can't take the reward because you are over your weight limit.#
 There is no such character name or the user is offline.#
@@ -155,8 +155,8 @@ You got %s (%d).#
 [Alt] + [=]: Fix the interval error between letters.#
 [F10]: To toggle Chat Window size; [Alt] + [F10]: Toggle Chat Window On or Off#
 How to Whisper: Enter a Character's Name on the left side of chat window and type your message on the right side. The Tab key helps you move between these boxes.#
-/!,/?,/ho,/lv,/lv2,/swt,/ic,/an,/ag,/$,/¡¦.,/thx,/wah,/sry,/heh,/swt2,/hmm,/no1,/??,/omg,/oh,/X,/hp,/go,/sob,/gg,/kis,/kis2,/pif,/ok: Emotion icons corresponding to Alt + (1~9) Ctrl + (-=\\)#
-How to Speak to Party: Add % in front of every message.(Example: \%Hello\)#
+/!,/?,/ho,/lv,/lv2,/swt,/ic,/an,/ag,/$,/â€¦.,/thx,/wah,/sry,/heh,/swt2,/hmm,/no1,/??,/omg,/oh,/X,/hp,/go,/sob,/gg,/kis,/kis2,/pif,/ok: Emotion icons corresponding to Alt + (1~9) Ctrl + (-=\\)#
+How to Speak to Party: Add %in front of every message.(Example: \%Hello\)#
 You haven't learned enough Basic Skills to Trade.#
 You haven't learned enough Basic Skills to use Emotion icons.#
 You haven't learned enough Basic Skills to Sit.#
@@ -259,7 +259,7 @@ Critical Attack#
 Assigned Guild#
 Status Points to allocate#
 Magical Attack#
-Magical Defense #
+Magical Defense#
 Flee Rate#
 Attack Speed#
 Server is jammed due to over population. Please try again shortly.#
@@ -302,10 +302,10 @@ E-mail Address (Case Sensitive).#
 Character Deletion has failed because you have entered an incorrect e-mail address.#
 Enter Second Serial Cord of your Social Security number.#
 Character Deletion has failed because you have entered an incorrect SSN.#
-You can't sell more than 15 types of Items at one time. #
+You can't sell more than 15 types of Items at one time.#
 You are underaged and cannot join this server.#
-HP/SP will not be restored when your carried weight is over 50% of the Weight Limit.#
-You can't use Skills or Attack while your carried weight is over 90% of your Weight Limit.#
+HP/SP will not be restored when your carried weight is over 50%of the Weight Limit.#
+You can't use Skills or Attack while your carried weight is over 90%of your Weight Limit.#
 Your HP/SP are now being restored naturally.#
 Attack and Skills are now available.#
 Your Game's Exe File is not the latest version.#
@@ -367,7 +367,7 @@ Secession Reason: %s#
 You have failed to disband the guild.#
 Disband Reason: %s#
 This ID has been removed.#
-Price: #
+Price:#
 %s has been expelled from our guild.#
 Expulsion Reason: %s#
 You can't put this item on.#
@@ -457,9 +457,9 @@ You are prohibited to log in until %s.#
 6900#
 http://iro.raganrokonline.com#
 Kill %s#
-Very Strong #
-Very Very Strong #
-Very Very Very Strong #
+Very Strong#
+Very Very Strong#
+Very Very Very Strong#
 The Reason of Expulsion#
 Attack Speed is up.#
 Attack Speed is down.#
@@ -654,7 +654,7 @@ Weapon destroyed.#
 Weapon has just been released from destroyed status.#
 Invisibility initiated.#
 Invisibility canceled.#
-Sorry. It is delayed due to the process of payment. Please re-connect in a minute #
+Sorry. It is delayed due to the process of payment. Please re-connect in a minute#
 You must unequip ammunition first.#
 Arrow List#
 Cart List#
@@ -694,7 +694,7 @@ Internet Cafe Time Plan has been ended. Would you like to continue the game with
 #
 Your lack of zeny or your zeny limit have prevented you from performing this action.#
 Your character has fainted. Push the ESC key to restart.#
- - %d obtained.#
+- %d obtained.#
 Spell List#
 /minimize#
 This item has been damaged.#
@@ -819,11 +819,11 @@ System process disabled [GM mode] [/sc OFF]#
 (%s) wishes to be friends with you. Would you like to accept?#
 Your Friend List is full.#
 (%s)'s Friend List is full.#
-You have become friends with (%s). #
+You have become friends with (%s).#
 (%s) does not want to be friends with you.#
 This character will be blocked to use until %s.#
 Price will be fixed at 10,000,000 zeny, even if you enter higher price.#
-(Down below) #
+(Down below)#
 (Below)#
 (Average)#
 (Above)#
@@ -854,7 +854,7 @@ Display window docking disabled. [/wi OFF]#
 You have won %d times and have lost %d times in PVP. Current points %d.#
 A manner point has been successfully aligned.#
 You are in a PK area. Please beware of sudden attack.#
-Game Guard update has been failed when either Virus or Spyware conflicted with. Please, Uninstall Spyware and Virus protection program before you log in. #
+Game Guard update has been failed when either Virus or Spyware conflicted with. Please, Uninstall Spyware and Virus protection program before you log in.#
 Program has encountered an error related to Windows compatibility. Please start the game again.#
 You have been blocked from chatting, using skills and items.#
 Login is temporarily unavailable while this character is being deleted.#
@@ -951,7 +951,7 @@ Please enter Away Message.#
 /desp#
 /dice#
 /pk: Shows top 10 Slayers in the server.#
-[POINT] You have been rewarded with % Slayer rank points. Your point total is %d.#
+[POINT] You have been rewarded with %Slayer rank points. Your point total is %d.#
 Evolution Available#
 You have decided to delete this Homunculus ^ff0000^ff0000. When deleted, the homunculus and its history will be deleted and they cannot be restored in the future. Would you like to continue?#
 Save Homunculus status as a file.#
@@ -1123,7 +1123,7 @@ Soul Linker (Male)#
 Soul Linker (Female)#
 Please check the connection, more than 2 accounts are connected with Internet Cafe Time Plan.#
 Your account is using monthly payment. (Remaining day: %d day)#
-Your account is using time limited. (Remaining time : %d hour % minute % second)#
+Your account is using time limited. (Remaining time : %d hour %minute %second)#
 This item cannot be mailed.#
 You cannot accept any more items. Please try again later.#
 Male#
@@ -1610,9 +1610,9 @@ Anyone#
 You dropped %s (%d).#
 [%s] Quest - defeated [%s] progress (%d/%d)#
 The Quest %s has been removed.#
-[%s] has #
-%d' EXP #
-%d' Job EXP #
+[%s] has#
+%d' EXP#
+%d' Job EXP#
  gained.#
  has lost.#
 From [%s], '%d' coins were stolen.#
@@ -1622,7 +1622,7 @@ Experience Message Display#
 Party Experience Message Display#
 Quest Info Message Display#
 Battlefield Message Display#
-[%s] is #
+[%s] is#
 casting [%s].#
 Activate lock function.#
 Deactivate lock function.#
@@ -1719,7 +1719,7 @@ Guild alliance application is not possible..#
 Guild hostility application is not possible.#
 Adding friends is not possible in this map.#
 Buying Store Window#
-Price :#
+Price : #
 Money : #
 Purchase Zeny Limit#
 Please register the item first that has to be purchased.#
@@ -1793,8 +1793,8 @@ You will not be disconnect from the game.#
 It is available only for 12 hours.#
 Your account is blocked due to illegal use of the game account.#
 Your account is blocked because there may exist a bug with your account.#
-Increases base exp and job exp gained by killing monsters up to 75% for 30 minutes.#
-Increases base exp and job exp gained by killing monsters up to 50% for 30 minutes.#
+Increases base exp and job exp gained by killing monsters up to 75%for 30 minutes.#
+Increases base exp and job exp gained by killing monsters up to 50%for 30 minutes.#
 No sales information.#
 Failed to search any further.#
 The selected item does not exist.#
@@ -1858,16 +1858,16 @@ Total#
 Free cache: %s C#
 Used cache: %s C#
 You cannot summon a monster in this area.#
-The cache usage has exceeded the total amount of #
+The cache usage has exceeded the total amount of#
 Content has been saved in [SaveData_ExMacro%d]#
-%d seconds left until you can use #
-~[Ã¢]À» ÀåÂøÇÑ »óÅÂ¿©¾ß ÇÕ´Ï´Ù.#
+%d seconds left until you can use#
+~ [Windows] must be equipped with.#
 Available only on the dragon.#
 Unable to proceed due to exceeding capacity.#
 Real name has not been verified. Go to name verification site.#
 Please select slot you are going to save.#
 Congratulation %s,  Acquired '%s' !#
-~±×·ç¹Ì»óÅÂ¿¡¼­´Â »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù#
+~ Gloomy state can not be used in#
 Purchased products has exceeded the total price.#
 Cannot join a party in this map.#
 Cannot leave a party in this map.#
@@ -1876,9 +1876,9 @@ Real Name#
 ID Number#
 E-mail#
 Invalid input#
-~»ó´ë¹æ¿¡°Ô Á¦´Ï Áö±Ş¿¡ ½ÇÆĞÇß½À´Ï´Ù.#
-~ÇØ´ç Á÷¾÷ÀÌ ¾Æ´Õ´Ï´Ù.#
-~ÇØ´ç ¼ºº°ÀÌ ¾Æ´Õ´Ï´Ù.#
+~ Jenny to the other party has failed to pay.#
+~ Its job is not#
+~ That gender is not a#
 User information identification is successful.#
 Name does not match. Please rewrite.#
 ID number does not match. Please rewrite.#
@@ -1890,22 +1890,22 @@ Secured authentication is successful.#
 Succeeded in creating 2nd password.#
 2nd password has been deleted.#
 2nd password has been corrected.#
-~Password is incorrect.(%dÈ¸³²À½)#
+~Password is incorrect.(%d Hoenameum)#
 Failed to create 2nd password.#
 Failed to delete 2nd password.#
 Failed to correct 2nd password.#
 Unable to use restricted number in 2nd password.#
 Unable to use your KSSN number.#
-~ÀÌ¹Ì ÆĞ½º¿öµå°¡ Á¸ÀçÇÕ´Ï´Ù.#
+~There is already a password.#
 Security Code#
-°èÁ¤º¸¾ÈÀ» À§ÇÏ¿© Ãß°¡ÀûÀÎ ÆĞ½º¿öµå ¼³Á¤À» ±ÇÀåÇÕ´Ï´Ù.#
-º¸¾È ÆĞ½º¿öµå »ç¿ëÀ» ÇÏÁö ¾Ê½À´Ï´Ù.#
-º¸¾È ÆĞ½º¿öµå »ç¿ë¼³Á¤¿¡ ½ÇÆĞÇß½À´Ï´Ù.#
-º¸¾È ÆĞ½º¿öµå¸¦ »ç¿ëÇÕ´Ï´Ù. ´ÙÀ½·Î±×ÀÎºÎÅÍ Àû¿ëµË´Ï´Ù.#
-º¸¾È ÆĞ½º¿öµå »ç¿ë ¼³Á¤¿¡ ½ÇÆĞÇß½À´Ï´Ù.#
-°èÁ¤º¸¾ÈÀ» À§ÇÏ¿© Ãß°¡ÀûÀÎ ÆĞ½º¿öµå¸¦ ¼³Á¤ÇÕ´Ï´Ù.#
-¾Æ·¡ÀÇ ¼ıÀÚ¹öÆ°À» ¸¶¿ì½º¸¦ ÀÌ¿ëÇÏ¿© 4ÀÚ¸®¸¦ Å¬¸¯ÇÏ¼¼¿ä.#
-3È¸ÀÌ»ó Àß¸øµÈÆĞ½º¿öµå ÀÔ·ÂÀ¸·Î, Á¾·áµË´Ï´Ù.#
+Account for the additional password security settings are recommended.#
+Do not use secure password.#
+Use the set security password failed.#
+Use secure passwords. Will be applied to your next login.#
+Use the set security password failed.#
+Added to the security of your account password is set.#
+The numbers below the 4-digit by using the mouse button click.#
+As input an incorrect password three times or more, will be terminated.#
 ITEM#
 SKILL#
 TACTIC#
@@ -1916,52 +1916,52 @@ BUFF#
 AUTO EQUIPED#
 1st. ATTACK#
 ATTACK#
-Next attack time : #
+Next attack time :#
 When died#
 When invited to a party#
 Pickup Item#
 Over 85% Weight#
-ÁøÇàÁßÀÌ´ø ÀÛ¾÷(NPC´ëÈ­,Á¦Á¶...)À» Á¾·áÈÄ¿¡ ´Ù½Ã ½ÃµµÇÏ¼¼¿ä.#
- ¸ó½ºÅÍ »ç³ÉÀ» ÅëÇØ ¾òÀ» ¼ö ÀÖ´Â Job°æÇèÄ¡°¡ %dºĞ°£ %.2f¹è·Î Áõ°¡ÇÕ´Ï´Ù.#
-SaveData_ExMacro%d#
- ¼³Á¤ÇÑ ³»¿ëÀÌ [%s]¿¡ ÀúÀåµË´Ï´Ù.#
-º¸¾È·¹º§#
-ÇöÀç Ä³¸¯ÅÍ´Â ÆÄÆ¼ ¶Ç´Â ±æµå¿¡ °¡ÀÔµÇ¾î ÀÖ¾î¼­ »èÁ¦°¡ ºÒ°¡´ÉÇÕ´Ï´Ù.#
-º®ÀÌ³ª ¹°Ã¼ ±ÙÃ³¿¡¼­¸¸ »ç¿ë ÇÒ ¼ö ÀÖ½À´Ï´Ù.#
-%s : ·¹º§ %d %s ÆÄÆ¼±¸ÇÕ´Ï´Ù.#
-Å¾½Â ÁßÀÎ »óÅÂ¿¡¼­´Â °í»ß ¾ÆÀÌÅÛÀ» »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.#
-ÀÌ ½ºÅ³Àº 1%ÀÇ °æÇèÄ¡°¡ ÇÊ¿äÇÕ´Ï´Ù.#
-°æ   Çè   Ä¡ : #
-µå   ·Ó   À² : #
-»ç¸ÁÆä³ÎÆ¼ : #
-%d%% (PC¹æ %d%% + TPLUS %d%% + ÇÁ¸®¹Ì¾ö %d%% + %s¼­¹ö %d%%)#
- ÇÕÃ¢½ºÅ³À» ½ÃÀüÇÒ ÆÄÆ¼¿øÀÇ SP·®ÀÌ ºÎÁ·ÇÕ´Ï´Ù.#
-»ó´ë Ä³¸¯ÅÍÀÇ ¼ÒÁö ¾ÆÀÌÅÛ Á¾·ùÀÇ ÇÑ°è·® ÃÊ°ú·Î °Å·¡°¡ ºÒ°¡´ÉÇÕ´Ï´Ù.#
-»ó´ë Ä³¸¯ÅÍÀÇ ÇØ´ç ¾ÆÀÌÅÛÀÇ ¼ÒÁö ÇÑ°è·® ÃÊ°ú·Î °Å·¡°¡ ºÒ°¡´ÉÇÕ´Ï´Ù.#
-ÇØ´ç ¾ÆÀÌÅÛÀÇ ¼ÒÁö ÇÑ°è·® ÃÊ°ú·Î ±¸ÀÔÀÌ ºÒ°¡´ÉÇÕ´Ï´Ù.#
-±¤°í µî·Ï ´ë±âÁßÀÔ´Ï´Ù.#
-¾Æ·¡ÀÇ ÆÄÀÏ°ú ÅØ½ºÆ®³»¿ëÀ» ÇÔ²²¶ó±×³ª·ÎÅ© °ø½ÄÈ¨ÆäÀÌÁö -> °í°´¼¾ÅÍ -> ¹®ÀÇÇÏ±â¸¦ÀÌ¿ëÇÏ¿© º¸³»ÁÖ½Ã±â ¹Ù¶ø´Ï´Ù.#
-ºô¸µ½Ã½ºÅÛ¿¡ ¿À·ù°¡ ¹ß»ıÇŞ½À´Ï´Ù(%d)#
-·é ¾ÆÀÌÅÛ ¼ÒÀ¯ °³¼ö°¡ ÃÊ°ú µÇ¾î ±¸¸Å°¡ ½ÇÆĞ ÇÏ¿´½À´Ï´Ù.#
-°³º° ¾ÆÀÌÅÛ °³¼ö°¡ ÃÊ°ú µÇ¾î ±¸¸Å°¡ ½ÇÆĞ ÇÏ¿´½À´Ï´Ù.#
-¾Ë ¼ö ¾ø´Â ¿À·ù°¡ ¹ß»ıÇÏ¿© ±¸¸Å°¡ ½ÇÆĞ ÇÏ¿´½À´Ï´Ù.#
-Àá½Ã ÈÄ ´Ù½Ã ½ÃµµÇØ ÁÖ½Ê½Ã¿À.#
- Äí³ªÀÌ ¾ÆÀÌÅÛÀ» ÀåÂø ÇÑ »óÅÂ¿¡¼­¸¸ »ç¿ë °¡´ÉÇÕ´Ï´Ù.#
-¸ğÁıÇÒ ÃÖ¼Ò·¹º§°ªÀ» ÀÔ·ÂÇØÁÖ¼¼¿ä.#
-Á¸´Ù±âÈ¹»çNPC ¿¡°Ô ¾ÆÀÌÅÛÀÌ ¼ö·ÉÀÌ ºÒ°¡´ÉÇÕ´Ï´Ù. ¼ÒÁöÃ¢ÀÇ ¿©À¯°ø°£À» È®º¸ÇØÁÖ¼¼¿ä.#
-ÀÌ ½ºÅ³Àº °ø¼ºÀü¿¡¼­¸¸ »ç¿ë °¡´ÉÇÕ´Ï´Ù.#
-ÀÌ ½ºÅ³Àº ÇÃ·¹ÀÌ¾î¿¡°Ô¸¸ »ç¿ë °¡´ÉÇÕ´Ï´Ù.#
-Âø¿ëÀÌ ±İÁö µÈ »óÅÂ·Î Âø¿ë ÇÒ ¼ö ¾ø½À´Ï´Ù.#
-ÇöÀç À§Ä¡¿¡¼­´Â »óÁ¡ ¹× Ã¤ÆÃ¹æÀÇ »ı¼ºÀÌ ºÒ°¡´ÉÇÕ´Ï´Ù.#
+Any work in progress (NPC dialog, manufacturing ...) quit and try again.#
+ Monster Job hunting experience that you can get through the doubling of %d is %.2 f minutes.#
+SaveData_ExMacro %d#
+ set contents [%s] is stored in#
+Security level#
+The current character is a party or join the guild can not be deleted.#
+Objects can be used only near the wall.#
+%s:%d %s party to obtain level.#
+The reins of the state board items that are not available.#
+This skill requires the experience of one percent.#
+10000000000000000 experimental values??: #
+Rob de rate: #
+Death Penalty: #
+%d%%(PC room%d%%+ TPLUS%d%%+ Premium%d%%+%s server%d%%)#
+ Amount of party members to cast the skill Chorus SP is low.#
+Possession of a character relative to the transaction exceeds hangyeryang kinds of items is not possible.#
+Hangyeryang relative excess of the characters deal with possession of the item is not possible.#
+Possession of the item purchased is not possible to exceed hangyeryang.#
+Waiting for an AD.#
+With the following files and text content Ragnarok Official Website -> Support -> Contact Us to submit your comments by:#
+Has caused an error in billing system haetseup (%d)#
+Rune items are owned by more than the number of failed purchases.#
+Is the number of individual items purchased exceeds failed.#
+An unknown error has occurred and the purchase failed.#
+Please try again later.#
+ Kunayi item is only available in one state to mount.#
+ Please try to recruit a minimum level value.#
+Jondagihoeksa will not be receiving the item to the NPC. Please secure a hold of the window space.#
+This skill is only available in the siege.#
+This skill is available only to the player.#
+Forbidden to wear the state can not be worn.#
+Current location of the shop and chat room creation is disabled.#
 Elapsed time: %d:%d:%d / %d:%d:%d#
-Speed : X 1/4 #
-Speed : X 1/2 #
-Speed : X 1   #
-Speed : X 2   #
-Speed : X 4   #
-Speed : X 8   #
-Speed : X 16  #
-Speed : ¾Ë¼ö¾øÀ½#
+Speed : X 1/4#
+Speed : X 1/2#
+Speed : X 1  #
+Speed : X 2  #
+Speed : X 4  #
+Speed : X 8  #
+Speed : X 16 #
+Speed : Unknown#
 Service Info : %s#
 Character Name : %s#
 Map Name : %s#
@@ -1970,11 +1970,11 @@ Play Time: %02d: %02d: %02d#
 No Replay File.#
 Server No Matching#
 Replay Option Setting#
-ÆÄÀÏ ÀÌ¸§À» ÀÔ·ÂÇÏ¼¼¿ä.#
+Enter the file name.#
 Set Replay Save Data#
 Set Rec Option#
-%.1f %% Pos¢Ñ:%d:%d:%d#
-%.1f %% Pos¢Ñ:ÀÌµ¿ºÒ°¡#
+%.1f %%Pos?:%d:%d:%d#
+%.1f %%Pos?:????#
 Start#
 Stop#
 Input FileName -> Start#
@@ -1985,14 +1985,14 @@ Time#
 Party & Friends#
 Chat#
 Shortcuts#
-ÀÚµ¿ ÆÄÀÏ¸í »ı¼º#
-ÆÄÀÏ Áßº¹ Ã¤Å©#
-µ¿ÀÏÇÑ ÆÄÀÏÀÌ Á¸Àç ÇÕ´Ï´Ù.#
+Automatic filename generation#
+Duplicate File Checking a#
+There are the same file.#
 Record Start#
  is Saved.#
 Weight : %3d / %3d#
 Total : %s C#
-[¼ö¸®°Ë]must be equipped.#
+[Surigeom]must be equipped.#
 Base Lv. %d#
 Job Lv. %d#
 Zeny : %s#
@@ -2004,184 +2004,184 @@ NoCtrl#
 Battleground#
 (Character/Total Slot)#
 Premium Service#
-Premium #
+Premium#
 Service#
 Billing Service#
-Billing #
+Billing#
 Command List#
 LEVEL#
 MAP#
 JOB#
 Not Available#
-[¼öÈ£ Ãµ»çÀÇ º¸È£] ¸¸·¾ÀÏ °æ¿ì »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.#
-Á¤¸» ÀÌµ¿ÇÏ½Ã°Ú½À´Ï±î?#
-Ä³¸¯ÅÍ ½½·Ô ÀÌµ¿¿¡ ½ÇÆĞÇß½À´Ï´Ù.#
-Ä³¸¯ÅÍ ÀÌ¸§ÀÌ Àß¸ø µÇ¾ú½À´Ï´Ù.#
-Äù½ºÆ®º¸±âÃ¢#
- Ã»¼Ò³â º¸È£¹ı¿¡ µû¶ó, Àá½Ã ÈÄ 0½Ã ºÎÅÍ 6½Ã ±îÁö ¸¸ 16¼¼ ¹Ì¸¸ °í°´´ÔµéÀÇ °ÔÀÓ ÀÌ¿ëÀÌ Á¦ÇÑµË´Ï´Ù.#
-Ã»¼Ò³â º¸È£¹ı¿¡ µû¶ó, 0½Ã ºÎÅÍ 6½Ã ±îÁö ^ff0000¸¸ 16¼¼ ¹Ì¸¸ °í°´´ÔµéÀÇ °ÔÀÓ ÀÌ¿ëÀÌ Á¦ÇÑ^000000µÇ¸ç, °ÔÀÓÀ» Á¾·áÇÕ´Ï´Ù.#
-Ä³¸¯ÅÍ ÀÌ¸§À» º¯°æÇÏ±â À§ÇØ¼­´Â ±æµå¿¡¼­ Å»Åğ ÇØ¾ß ÇÕ´Ï´Ù.#
-Ä³¸¯ÅÍ ÀÌ¸§À» º¯°æÇÏ±â À§ÇØ¼­´Â ÆÄÆ¼¿¡¼­ Å»Åğ ÇØ¾ß ÇÕ´Ï´Ù.#
-¾Ë ¼ö ¾ø´Â ¿À·ù·Î Ä³¸¯ÅÍ ÀÌ¸§ º¯°æÀÌ ½ÇÆĞ ÇÏ¿´½À´Ï´Ù.#
-ÀÌ¹Ì Ä³¸¯ÅÍ ½½·Ôº¯°æÀÌ °¡´ÉÇÑ »óÅÂÀÔ´Ï´Ù.(%d)#
-ÀÌ¹Ì Ä³¸¯ÅÍ ÀÌ¸§º¯°æÀÌ °¡´ÉÇÑ »óÅÂÀÔ´Ï´Ù.(%d)#
-º¯°æÇÏ·Á´Â ÀÌ¸§ÀÇ ±æÀÌ°¡ ÃÖ´ëÅ©±â¸¦ ÃÊ°úÇÏ¿© Ä³¸¯ÅÍ ÀÌ¸§ º¯°æÀÌ ½ÇÆĞ ÇÏ¿´½À´Ï´Ù.#
-»ç¿ëÇÒ ¼ö ¾ø´Â ´Ü¾î°¡ Æ÷ÇÔµÇ¾î Ä³¸¯ÅÍ ÀÌ¸§ º¯°æÀÌ ½ÇÆĞ ÇÏ¿´½À´Ï´Ù.#
-ÀÌ¸§ º¯°æÀÌ ±İÁöµÈ »óÅÂÀÌ¹Ç·Î Ä³¸¯ÅÍ ÀÌ¸§ º¯°æÀÌ ½ÇÆĞ ÇÏ¿´½À´Ï´Ù.#
-¿Ï·á#
- %dºĞ°£ ¾òÀ» ¼ö ÀÖ´Â °æÇèÄ¡°¡ %d%% Áõ°¡ÇÕ´Ï´Ù.#
-¼ÒÈ¯±îÁö %02dÃÊ³²¾Ò½À´Ï´Ù.#
-ÆÄÆ¼ÀåÀÌ ´ç½ÅÀ» %s (%s) ·Î ¼ÒÈ¯ÇÕ´Ï´Ù.¼ÒÈ¯½Ã %d zeny°¡ ¼Ò¸ğµË´Ï´Ù.#
-¼ÒÈ¯´ë»ó#
+[Guardian Angel of Protection is not available if manrepil#
+I really want to move?#
+Failed to move the character slot.#
+Character name is invalid.#
+Kweseuteubogichang#
+Depending on the protection of youth, and 0:00 to 6:00 while under the age of 16 of your game use is limited.#
+Depending on the protection of youth, 0:00 to 6:00 ^ff0000 under the age of 16 ^000000 limit your use of the game and the game ends.#
+To change the character name should withdraw from the guild.#
+To change the character name should withdraw from the party.#
+Character Name changes to an unknown error failed.#
+Is ready to change character slots already. (%D)#
+Is ready to change character names already. (%D)#
+Want to change the length of the name exceeds the maximum dimensions and character name change failed.#
+Contain words that you can not use the character name change failed.#
+Name change because it is forbidden to change the character name has failed.#
+Complete#
+ minutes to get%d%d%%will increase with experience.#
+To summon chonamatseupnida%02d.#
+The party you%s (%s) is summoned to. Summoned at%d zeny is consumed.#
+Summon the target#
 Block List#
-ÆÄÆ¼ ±¤°í¸¦ µî·ÏÇÏ±â À§ÇØ %dÁ¦´Ï°¡ ¼Ò¸ğµË´Ï´Ù.#
-ÆÄÆ¼ ±¤°í¸¦ ÇÏ±â À§ÇÑ Á¦´Ï°¡ ºÎÁ·ÇÕ´Ï´Ù.#
-)´Ô ÆÄÆ¼ °¡ÀÔ½ÂÀÎ#
-)´Ô ÆÄÆ¼ °¡ÀÔ°ÅºÎ#
-)´Ô ÀåºñÃ¢º¸±â#
-ÇÑ±Û18±ÛÀÚ,¿µ¹®36±ÛÀÚ ÀÔ·Â°¡´É#
-Áö¿øÇÏ±â#
-1:1´ëÈ­ÇÏ±â#
-Â÷´ÜÇÏ±â#
-ÆÄÆ¼Àå¿¡°Ô ¼ÒÈ¯µÇ±â À§ÇÑ Á¦´Ï°¡ ºÎÁ·ÇÕ´Ï´Ù.#
-¸Ş¸ğ¶õ¿¡ ÆÄÆ¼±¤°í¸¦ ½áÁÖ¼¼¿ä.#
-ÆÄÆ¼Àå¸¸ÀÌ ÆÄÆ¼±¤°í¸¦ µî·ÏÇÒ¼öÀÖ½À´Ï´Ù.#
-ÀÌ¹Ì Áö¿øÇÑ ÆÄÆ¼±¤°íÀÔ´Ï´Ù.#
-³»¿ë#
-Àåºñ#
-°³ÀÎ#
- ¾ÆÀÌÅÛ ¹ö¸®±â Àá±İ#
-ÆÄÆ¼¿ø Ã£±â ¾Ë¶÷#
-ÆÄÆ¼°á¼º#
-ÆÄÆ¼Å»Åğ#
-ÆÄÆ¼ÃÊ´ë#
-ÆÄÆ¼ ÀÌ¸§ µî·Ï#
-ÃÊ´ëÇÒ Ä³¸¯ÅÍ ÀÌ¸§#
-´Ô²² ÆÄÆ¼°¡ÀÔ ¿äÃ»À» º¸³Â½À´Ï´Ù.#
-´Ô²²¼­ ÆÄÆ¼°¡ÀÔÀ» °ÅÀıÇß½À´Ï´Ù.#
-´Ô²²¼­ ÆÄÆ¼°¡ÀÔÀ» ¼ö¶ôÇß½À´Ï´Ù.#
-ÀÌ¹Ì ÆÄÆ¼¸ğÁıÁßÀÔ´Ï´Ù.#
-ÀÌÀü °Ë»ö°ú °°Àº Á¶°ÇÀÔ´Ï´Ù.#
-±æµå Å»Åğ ÈÄ »ç¿ë °¡´ÉÇÕ´Ï´Ù.#
-ÆÄÆ¼ Å»Åğ ÈÄ »ç¿ë °¡´ÉÇÕ´Ï´Ù.#
-¼ÒÈ¯ À¯Àú°¡ ¼ÒÈ¯ÀÌ ¾ÈµÇ´Â ¸Ê¿¡ ÀÖ½À´Ï´Ù.#
-ÆÄÆ¼ÀåÀÌ ÀÖ´Â ¸Ê¿¡¼­´Â ¼ÒÈ¯ÀÌ ¾ÈµË´Ï´Ù.#
-¼ÒÈ¯°ÅºÎµÇ¾ú½À´Ï´Ù.#
-¼ÒÈ¯À» ÇÒ ¼ö ¾ø½À´Ï´Ù.#
-ÆÄÆ¼ÃÊ´ë´Â ÆÄÆ¼Àå¸¸ °¡´ÉÇÕ´Ï´Ù.#
-°Ë»öÇÒ ¾ÆÀÌÅÛ¸í ÀÔ·Â :#
-Ä³¸¯ÅÍ¸íÀ» ÀÔ·ÂÇÏ¼Å¾ß ÇÕ´Ï´Ù.#
-ÆÄÆ¼ÀÌ¸§À» ÀÔ·ÂÇÏ¼Å¾ß ÇÕ´Ï´Ù.#
-±æµå µµ¿ì¹Ì#
-°¡ÀÔµÇ¾î ÀÖ´Â ±æµå°¡ ¾ø½À´Ï´Ù.#
-±æµå °á¼º#
-»ı¼ºÇÒ ±æµå ÀÌ¸§#
-±æµå °á¼º µµ¿ò¸»#
-±æµå ½Ã½ºÅÛÀÌ¶õ#
-±æµåÀÌ¸§À» ÀÔ·ÂÇÏ¼Å¾ß ÇÕ´Ï´Ù.#
-Áö¿øÇÑ ÆÄÆ¼¿¡¼­ °ÅºÎ´çÇß½À´Ï´Ù.#
-¼­ºñ½º ¼±ÅÃ.#
-Å»Ãâ °¡´ÉÇÑ Áö¿ª.#
+To register a party ads Jenny is consumed%d#
+Jenny party for advertising is low.#
+) Nimes join the party approval#
+) Nimes join the party denied#
+) Nimes Equipment Window View#
+18 Hangul letters, 36 letters in English can be entered#
+To support#
+1:01 Conversation#
+Block#
+Jenny, to be summoned to the party is insufficient.#
+Notes section, write to the party advertising.#
+Ten thousand and two party party ads may be registered.#
+Is already party advertising supported.#
+For#
+Equip#
+Private#
+ Drop an item lock#
+Find party alarm#
+Party formed a#
+Party withdrew#
+Party invitation#
+Party Name Registration#
+Invite a character name#
+Your request has been sent to you join the party.#
+Nimkkeseo refused to join the party.#
+Nimkkeseo Party has accepted.#
+Recruitment is already a party.#
+Are the same conditions as the previous search.#
+After leaving the guild is available.#
+Withdrawal is available after the party.#
+Map, the user should not have summoned recall.#
+Do not recall the party with maps.#
+Summons has been denied.#
+Can not be summoned.#
+Party invitations can be bought to the party.#
+Enter the search ahyitemmyeong:#
+You must enter a character name.#
+You must enter the name of the party.#
+Guild Companion#
+Can not be joined in the guild.#
+Guild formed#
+Create a guild name#
+Help organize guild#
+# What is the guild system
+You must enter the name of your guild.#
+Supported at the party was rejected.#
+Select Service:#
+Possible escape area.#
 Replay File List#
 File info#
 File List#
-%s ¾ÆÀÌÅÛÀº °Å·¡°¡ ºÒ°¡´É ÇÕ´Ï´Ù.#
-±æµåÇØÃ¼#
-ÇØÃ¼ÇÒ ±æµå ÀÌ¸§#
-Á¢¼ÓÇÏÁö ¾Ê¾Ò°Å³ª Á¸ÀçÇÏÁö ¾Ê´Â Ä³¸¯ÅÍÀÔ´Ï´Ù.#
-ÆÈÄÜ È£Ãâ¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.#
-%d%% ( ±âº» 100%% + ÇÁ¸®¹Ì¾ö %d%% + %s¼­¹ö %d%% )#
-ÇØ´ç À¯Àú´Â ÇöÀç °ø¼ºÀü¿¡ Âü°¡ÇÏ°í ÀÖ½À´Ï´Ù.#
-µ¿ÀÏÇÑ ¸Ê¿¡¼­¸¸ ÆÄÆ¼Àå º¯°æÀÌ °¡´ÉÇÕ´Ï´Ù.#
-ÇöÀç Áö¿ª¿¡¼­´Â ÆÄÆ¼Àå º¯°æÀÌ ºÒ°¡´ÉÇÕ´Ï´Ù.#
-±×¸®Æù ³»¸®±â#
+%s Items will not be a deal.#
+Disband the guild#
+Disband the guild name#
+Not connected or non-existent characters.#
+Falcon failed to call.#
+%d%%(default 100%%+ Premium%d%%+%s server%d%%)#
+That user is currently participating in the siege.#
+It is possible to change the same maepeseoman party.#
+In the current regional party can not be changed.#
+Gryphon making#
 Delete: %d/%d - %d:%d:%d#
-ÇöÀç °ø¼ºÀü¿¡ Âü¿© ÁßÀÌ¹Ç·Î ±æµåÃÊ´ë¸¦ ÇÏ½Ç ¼ö ¾ø½À´Ï´Ù.#
-ÀüÀå¿¡ ÀÔÀå ´ë±â¸¦ ½ÅÃ»ÇÏ¼Ì½À´Ï´Ù.#
-ÀÎ¿øÀÌ °¡µæ Ã¡½À´Ï´Ù.#
-È®ÀÎµÇÁö ¾ÊÀº ÀüÀå¸íÀÔ´Ï´Ù.#
-È®ÀÎµÇÁö ¾ÊÀº ½ÅÃ»Å¸ÀÔÀÔ´Ï´Ù.#
-ÃÖ´ë ÀÎ¿øÀ» ÃÊ°úÇÏ¿´½À´Ï´Ù.#
-ÀÔÀå ·¹º§ÀÌ ¸ÂÁö ¾Ê½À´Ï´Ù.#
-Áßº¹ ½ÅÃ»ÇÏ¼Ì½À´Ï´Ù.#
-ÀçÁ¢¼ÓÈÄ ´Ù½Ã ½ÅÃ»ÇÏ¿© ÁÖ½Ã±â ¹Ù¶ø´Ï´Ù.#
-Á÷¾÷ÀÌ ¸ÂÁö ¾Ê½À´Ï´Ù.#
-ÆÄÆ¼ÀåÀÌ³ª ±æµåÀå¸¸ÀÌ ½ÅÃ»ÇÒ ¼ö ÀÖ½À´Ï´Ù.#
-ÀüÀåÀ» ÀÌ¿ë ÁßÀÎ ÆÀ¿øÀÌ ÀÖ¾î ½ÅÃ»ÀÌ ºÒ°¡´É ÇÕ´Ï´Ù.#
-ÀüÀå ÀÔÀå ´ë±â°¡ Ãë¼ÒµÇ¾ú½À´Ï´Ù.#
-Àß¸øµÈ ÀüÀå¸í ÀÔ´Ï´Ù.#
-ÀüÀå ÀÔÀå ´ë±â ¼øÀ§¿¡ ¾ø½À´Ï´Ù.#
-¼±ÅÃÇÏ½Å ÀüÀåÀº ÇöÀç ÀÌ¿ëÇÏ½Ç ¼ö ¾øÀ¸¹Ç·Î ´ë±â°¡ Ãë¼ÒµË´Ï´Ù.#
-ÀüÀå ÀÔÀåÀ» Ãë¼ÒÇÏ¿´½À´Ï´Ù.#
-ÀüÀå¿¡ ÀÔÀåÇÏ½Ã°Ú½À´Ï±î?#
-ÀüÀå ÀÔÀå ½ÅÃ» ½Ã½ºÅÛ#
-ÀÔÀå ½ÅÃ» ¹× ÀüÀåÀ¸·ÎÀÇ °ø°£ÀÌµ¿ ºÒ°¡ »óÈ²#
-1. ¿©·¯ Á¾·ùÀÇ ÀüÀåÀ» µ¿½Ã¿¡ ½ÅÃ»ÇÒ ¼ö ¾ø½À´Ï´Ù.#
-2. °³ÀÎ / ÆÄÆ¼ / ±æµå ÀüÀåÀ» µ¿½Ã¿¡ ½ÅÃ»ÇÒ ¼ö ¾ø½À´Ï´Ù.#
-3. ÆÄÆ¼ ÀüÀå ½ÅÃ»Àº ÆÄÆ¼Àå¸¸ ½ÅÃ»ÇÒ ¼ö ÀÖÀ¸¸ç,#
-¿ÀÇÁ¶óÀÎÁßÀÌ°Å³ª ¿ÀÇÁ¶óÀÎ µÈ ÆÄÆ¼¿øÀº ´ë±â¿­¿¡¼­ ´©¶ôµË´Ï´Ù.#
-4. ÀüÀå ½ÅÃ»Àº ÀüÀå ¸ÊÀ» Á¦¿ÜÇÑ ¸ğµç °÷¿¡¼­ ½ÅÃ» °¡´ÉÇÏ³ª,#
-ÀÔÀåÇÑ À§Ä¡°¡ ¸¶À», ÇÊµå, ÀÏ¹İ ´øÀüÀÌ ¾Æ´Ò °æ¿ì º¹±Í ½Ã Ä³¸¯ÅÍ ÀúÀå ÁÂÇ¥·Î ÀÌµ¿ µË´Ï´Ù.#
-5. ÀüÀåÀÇ º¸»ó ¹× ±âÅ¸ ¼­ºñ½º´Â °¢ ¸¶À»¿¡ À§Ä¡ÇÑ ÀüÀå ¸ğº´°üÀ» ÅëÇØ ÀüÀå ´ë±â½Ç¿¡¼­ ÀÌ¿ëÇØ ÁÖ½Ê½Ã¿À.#
-ÀüÀå ÀÔÀå ½ÅÃ» µµ¿ò¸»#
-%s ÀüÀåÀÌ ½ÃÀÛµË´Ï´Ù.#
-ÀüÀåÀ¸·Î ÀÌµ¿ÇÏ½Ã°Ú½À´Ï±î?#
-[ÁÖÀÇ]#
-ÇöÀç À§Ä¡°¡ ¸¶À», ÇÊµå È¤Àº ÀÏ¹İ´øÀüÀÌ#
-¾Æ´Ò °æ¿ì ÀüÀå Á¾·á ÈÄ ÀúÀåµÈ À§Ä¡·Î#
-µÇµ¹¾Æ°¡°Ô µË´Ï´Ù.#
-´Ù¸¥ ÀÌÀÇ ¿äÃ» °á°ú¸¦ ±â´Ù¸®°í ÀÖ½À´Ï´Ù.#
-ÀüÀå ÀÔÀå ¿äÃ»#
-¼ö¶ô´ë±â½Ã°£:%dÃÊ#
-ÀÔÀå ´ë±â »óÅÂ#
-ÀüÀå ¸íÄª: %s#
-ÀüÀå ÇÊ¿ä ÀÎ¿ø: %d#
-³» ´ë±â¼ø¹ø: %d#
-¸íÄª :#
-¸ñÇ¥ :#
-ÀüÀåÀÇ ÀÎ¿ø ±¸¼º :#
-Âü¿©Á¶°Ç :#
-º¸»ó(½Â) :#
-º¸»ó(¹«) :#
-º¸»ó(ÆĞ) :#
-ÀüÀåÀ» °³ÀÎÀ¸·Î ½ÅÃ» ÇÏ¼Ì½À´Ï´Ù. ¸Â½À´Ï±î?#
-ÀüÀåÀ» ÆÄÆ¼·Î ½ÅÃ» ÇÏ¼Ì½À´Ï´Ù. ¸Â½À´Ï±î?#
-ÀüÀåÀ» ±æµå·Î ½ÅÃ» ÇÏ¼Ì½À´Ï´Ù. ¸Â½À´Ï±î?#
+Invited to participate in the guild because the current siege can not be.#
+Have signed up on the battlefield, waiting for admission.#
+Students are full.#
+Unresolved is the name of the battlefield.#
+Unresolved is the type of application.#
+Sleeps exceeded.#
+Entry level is not correct.#
+Have received a request for a duplicate.#
+Jaejeopsokhu, please re-apply.#
+Occupation is not correct.#
+Ten thousand and two party or guildmaster may apply.#
+Team members are using the battlefield is not possible to apply it.#
+Standby position battle has been canceled.#
+Jeonjangmyeong is wrong.#
+No waiting in order of battle positions.#
+Length of your choice, so the atmosphere is currently available will be canceled.#
+Position was clear the battlefield.#
+Are you sure you want to join a battleground?#
+Battlefield application system perspective#
+Admission application and can not move the battlefield situation, the space#
+A. Different types of battle can not be applied simultaneously.#
+Two. Personal / party / guild battle can not be applied simultaneously.#
+Three. Party, the party bought the battlefield application may apply,#
+Off-line or off-line in the queue, the party is missing.#
+Four. Battlefield battlefield maps application can apply everywhere except a,#
+Ipjanghan position villages, fields, dungeons, if not the general store when returning characters will be moved to the coordinates.#
+5 Length of the compensation and other services in each town through the battlefield battlefield recruiters in the waiting room please use#
+Request help battle position#
+%s battle begins.#
+Do you want to go to war?#
+[Note]#
+Current position villages, fields, or the general dungeon#
+If you are not saved to the location of the battlefield after the end of#
+Will go back.#
+Requests are waiting for the results of others.#
+Battlefield position request#
+Accept standby time:%d seconds#
+Standby position#
+Battlefield name:%s#
+Persons required length:%d#
+Turn my standby:%d#
+Name:#
+Goal:#
+Persons of the battlefield configuration:#
+Participation conditions:#
+Compensation (W):#
+Compensation (D):#
+Compensation (L):#
+Individuals have signed up to the battlefield. Is that correct?#
+Parties have signed up to the battlefield. Is that correct?#
+Guild have signed up to the battlefield. Is that correct?#
 Battleground List#
 %d VS %d#
-Base LV %d ÀÌÇÏ#
-Base LV %d ÀÌ»ó#
+Base LV %d More than#
+Base LV %d More than#
 Base LV %d ~ %d#
-Á¦ÇÑ ¾øÀ½#
-[ÇØ´ç ¸Ê¿¡¼­´Â ½ÅÃ»ÇÏ½Ç ¼ö ¾ø½À´Ï´Ù.]#
-[ÀüÀå Àç½ÅÃ»±îÁö ¾à 1ºĞÀÇ ´ë±â½Ã°£À» ÇÊ¿ä·Î ÇÕ´Ï´Ù.]#
-[ÆÄÆ¼¿¡ ¸ÕÀú °¡ÀÔÇÏ¼Å¾ß ÇÕ´Ï´Ù.]#
-[ÆÄÆ¼Àå¸¸ ½ÅÃ» °¡´ÉÇÕ´Ï´Ù.]#
-[Á¢¼ÓµÇ¾îÀÖ´Â ÆÄÆ¼ÀÎ¿ø¼ö°¡ ¸¹½À´Ï´Ù.]#
-[±æµå¿¡ ¸ÕÀú °¡ÀÔÇÏ¼Å¾ß ÇÕ´Ï´Ù.]#
-[±æµåÀå¸¸ ½ÅÃ» °¡´ÉÇÕ´Ï´Ù.]#
-[Á¢¼ÓµÇ¾îÀÖ´Â ±æµåÀÎ¿ø¼ö°¡ ¸¹½À´Ï´Ù.]#
-ÀÌµ¿¿¹¾à#
+Protection#
+[The maps may not apply.]#
+[Length about 1 minute wait time to reapply, you will require.]#
+[You must sign up first to the party.]#
+[A party may apply to bought.]#
+[Adults There are many parties that are connected.]#
+[Guild must sign up first.]#
+[Guild bought application is available.]#
+[Guild Adults will often connected.]#
+Moving Book#
 Move#
 Rename#
 Make Character#
 http://ro.game.gnjoy.com/#
 (%s) Server#
 Item Merge#
-°°Àº Á¾·ùÀÇ ¾ÆÀÌÅÛÀ» 2°³ ÀÌ»ó ¼±ÅÃÇØÁÖ¼¼¿ä.#
+Two or more of the same type Please select an item.#
 Item merge is successful.#
-¾ÆÀÌÅÛ ÇÕÄ¡±â´Â ÇÑ¹ø¿¡ 1Á¾·ù¾¿¸¸ °¡´ÉÇÕ´Ï´Ù.#
+Combining items will be only one kind at a time.#
 You cannot have more than 30,000 stacked items.#
 Rotate left#
 Rotate right#
-(%s)´ÔÀÇ ÀÌÀü¼­¹ö Á¤º¸º¸±â#
-±âÁ¸ ¼­¹ö Á¤º¸#
-^ff0000±âÁ¸ ¼­¹ö : ^0000ff#
-^ff0000±âÁ¸ Ä³¸¯¸í : ^0000ff#
+(%s) to view the old server information#
+Existing server information#
+^ff0000 existing server: ^0000ff#
+^ff0000 existing kaerikmyeong: ^0000ff#
 Show monster HP bar when attacking.#
 Hide monster HP bar when attacking..#
-º´ÇÕ °¡´ÉÇÑ ¾ÆÀÌÅÛÀÌ Á¸ÀçÇÏÁö ¾Ê½À´Ï´Ù#
-º´ÇÕ °¡´ÉÇÑ ¾ÆÀÌÅÛÀÌ Á¸ÀçÇÏÁö ¾Ê½À´Ï´Ù.#
+Merge does not exist as an item#
+Merge items available does not exist.#
 Act#
 Pen#
 Rec#
@@ -2195,130 +2195,130 @@ Required Items#
 Time Limit#
 Deadline#
 Search#
-¸ñÇ¥·Î ¾È³»#
-±æ Á¤º¸#
-°Ë»ö Á¤º¸#
-º¸±â ¸ğµå º¯°æ#
-¾È³» Áö½Ã »ö»ó º¯°æ#
+Leads to the goal#
+Road Information#
+Find information#
+Change the view mode#
+Change the color of the instructions guide#
 Exit#
-±âº» UI·Î º¯°æ#
-°£Æí UI·Î º¯°æ#
-µµ¿ò¸»#
+Change the default UI#
+Simple changes to UI#
+Help#
 ALL#
 Map#
 Npc#
 Mob#
-°Ë»ö ´Ü¾î ¼³Á¤ (Ex: ´Ü¾î ´Ü¾î ...#
+Set the search word (Ex: word word ...#
 Scroll#
-´øÀüÀÌµ¿ ½ºÅ©·Ñ »ç¿ë Àû¿ë#
+Moving scrolling dungeons apply#
 Service#
-À§Ä¡ ÀÌµ¿ ¼­ºñ½º Çã¿ë#
+Mobile services are allowed#
 Plane#
-ºñ°øÁ¤ ÀÌµ¿ Àû¿ë#
->> ¸ñÇ¥ Á¤º¸¸¦ ÀĞÁö ¸øÇÔ!#
-<< ¾È³»Áß >>#
-<< °Ë»öÁß... >>#
+Applied to move airships#
+Failure to read the >> target information.#
+Annaejung# >> <<
+Searching ... <<# >>
 -----------#
 Navigation#
-== °Ë»ö °á°ú(%d)==#
+== Search Results(%d)==#
 Npc)%s:%s#
 Mob)%s:%s#
 Map)%s#
-======== °á°ú Á¤º¸ ==========#
-°Å¸®   : %d Sell %d WarpMove#
-¸ñÇ¥¸Ê: %s(%s)#
-¸ñÇ¥   : %s(%d, %d)#
-º¸½º#
-ÀÏ¹İ#
-¸ñÇ¥   : %s(%s)#
-¸ñÇ¥: (%d, %d)#
-======= ±æ ¾È³» Á¤º¸ =======#
-%2d) Item:%s => %s »ç¿ë!#
+======== The resulting information ==========#
+Distance : %d Sell %d WarpMove#
+Mokpyomaep: %s(%s)#
+Goal: %s(%d, %d)#
+Boss#
+General#
+Goal: %s(%s)#
+Goals: (%d, %d)#
+======= Route guidance information =======#
+%2d) Item:%s => %s Use!#
 %2d) %s(%d,%d)=>(%d,%d)#
 E%2d) %s(%d,%d)=>(%d,%d)#
 E%2d) %s#
-¾È³»Áß ÀÔ´Ï´Ù! Á¾·á ÇÏ½Ã°Ú½À´Ï±î?#
-³»ºñ°ÔÀÌ¼Ç µµ¿ò¸»#
-------------------- ¸í·É¾î --------------------#
+Is annaejung! Are you sure you want to quit?#
+Navigation help:#
+------------------- Instruction --------------------#
 1. /navigation      /navi#
-  ex)/navi prontera 100 100 -> ¸ÊÀÌ¸§, 100, 100#
+  ex)/navi prontera 100 100 -> ???, 100, 100#
 2. /navigation2      /navi2#
   ex) /navi2 prontera 100090 111#
--> ¸ÊÀÌ¸§, À§Ä¡(100 90), scrool/ zeny/ plane (1:»ç¿ëÇÔ 0: »ç¿ë¾ÈÇÔ)#
-¡Ø /navi2 ÀÇ °æ¿ì ¹İµå½Ã À§Ä¡ ÁÂÇ¥¸¦ ºÙ¿©¼­ 3 ÀÚ¸®·Î Àû¾î¾ß ÇÑ´Ù#
-3. /$$all   ¸ğµç Ç×¸ñ Ãâ·Â (Type ±¸ºĞ Ç×¸ñÀ¸·Î Ãâ·Â Á¾·ù ±¸ºĞ °¡´É.)#
-4. /$$lv30   ÇØ´ç ·¹º§ÀÇ ¸ó½ºÅÍ Ãâ·Â#
-5. /$$lv20~30   ÇØ´ç ·¹º§ ¹üÀ§ÀÇ ¸ó½ºÅÍ Ãâ·Â#
--------------------  ¼³¸í  --------------------#
-1.°Ë»ö Á¾·ù´Â ÀüÃ¼, ¸Ê, Npc, ¸ó½ºÅÍ À¸·Î ºĞ·ù µÈ´Ù.#
-2.¸í·É¾î·Î °Ë»öÇÑ´Ù. ±ÔÄ¢Àº °Ë»ö ÇÏ·Á´Â ¹®ÀÚ¿­ÀÌ ¸ğµÎ Æ÷ÇÔµÈ Á¤º¸¸¦ Ãâ·Â ÇÑ´Ù.#
-  ex) ÇÁ·Ğ Ä«ÇÁ -> °Ë»ö °á°ú ÇÁ·ĞÅ×¶óÀÇ Ä«ÇÁ¶ó¸¦ ¸ğµÎ Ãâ·Â ÇÑ´Ù.#
-3.¸®½ºÆ®¿¡¼­ Ç×¸ñÀ» ¼±ÅÃÇÏ¸é Á¤º¸°¡ Ãâ·ÂµÈ´Ù.#
-  Ãâ·Â µÇ°í ÀÖ´Â ¸ñÇ¥°¡ ÀÖÀ»¶§ ¾È³» ¹öÆ°À» Å¬¸¯ÇÏ¸é ÇØ´ç ¸ñÇ¥·Î ±æÀ» ¾È³» ÇÑ´Ù.#
-4.scrool/ zeny/ plane »óÀÚ¸¦ ¿øÇÏ´Â ¸¸Å­ Ã¼Å©ÇÏ¿© ´õ ºü¸¥ °æ·Î¸¦ ¾È³» ¹ŞÀ» ¼ö ÀÖ´Ù.#
-5.¾È³» ¹öÆ°ÀÌ ´­·¯Áö¸é °á°ú ¸®½ºÆ®Ã¢Àº ±æ¾È³» ¸®½ºÆ® ÀåÀ¸·Î º¯°æ µÈ´Ù.#
-6.°Ë»ö ¸®½ºÆ®Ã¢ ÇÏ´Ü ¹öÆ°À» ÀÌ¿ëÇÏ¿©#
- [°á°ú ¸®½ºÆ® Ã¢] <-> [±æ ¾È³» Á¤º¸ Ã¢] À¸·Î º¸±â ¸ğµå º¯°æ °¡´ÉÇÏ´Ù.#
-Level:%d (º¸½º)#
-Level:%d (ÀÏ¹İ)#
-¼ö¼Ó¼º%d#
-Áö¼Ó¼º%d#
-È­¼Ó¼º%d#
-Ç³¼Ó¼º%d#
-µ¶¼Ó¼º%d#
-¼º¼Ó¼º%d#
-¾Ï¼Ó¼º%d#
-¿°¼Ó¼º%d#
-¾ğµ¥µå%d#
-¹«¼Ó¼º%d#
-ÁßÇü#
-´ëÇü#
-¼ÒÇü#
-ºÒ»çÇü#
-µ¿¹°Çü#
-½Ä¹°Çü#
-°ïÃæÇü#
-¾îÆĞÇü#
-¾Ç¸¶Çü#
-ÀÎ°£Çü#
-Ãµ»çÇü#
-¿ëÁ·#
-¹«Çü#
-%s ÀÌµ¿ Å¬¸¯#
-Npc ÀÌµ¿ ¼­ºñ½º ÀÌ¿ë#
-NPC Å¬¸¯#
-%s ÀÌµ¿#
-ºñ°øÁ¤ ÀÌµ¿#
-¿öÇÁ ÀÌ¿ë#
-µµÂøÁ¡ : ( %d %d )#
-³×ºñ°ÔÀÌ¼ÇÀÌ Áö¿ø µÇÁö ¾Ê´Â Áö¿ª ÀÔ´Ï´Ù.#
-Ã£°íÀÚ ÇÏ´Â ¸ñÀûÀÌ ºÒºĞ¸í ÇÕ´Ï´Ù.#
-¸ÅÄªÀÌ ¸ÂÁö ¾Ê´Â ¸ÊÀÌ´Ù.#
-Ãâ¹ß Áö¿ª¿¡ ´ëÇÑ Á¤º¸ ¼³Á¤ ½ÇÆĞ!#
-µµÂø ÁöÁ¡¿¡ ´ëÇÑ Á¤º¸ ¼³Á¤ ½ÇÆĞ!#
-±æ Ã£±â ½ÇÆĞ#
-ÇÃ·¹ÀÌ¾î À§Ä¡ Ã£±â ½ÇÆĞ#
-³»ºñ°ÔÀÌ¼Ç¿¡ Á¤º¸°¡ ¾ø½À´Ï´Ù.#
-ÇØ´ç ¸ÊÀº ±æÃ£±â°¡ Áö¿ø µÇÁö ¾Ê´Â ¸ÊÀÔ´Ï´Ù.#
-¸ñÇ¥¸¦ ÁöÁ¤ ÇÏ½Ã±â ¹Ù¶ø´Ï´Ù.#
-µµÂø.#
-±æ ¾È³»°¡ ½ÃÀÛ µÇ¾ú½À´Ï´Ù.#
-Ã£°íÀÚ ÇÏ´Â ¸ó½ºÅÍ°¡ ÀÖ´Â ¸Ê ÀÔ´Ï´Ù.#
-Ã£°íÀÚ ÇÏ´Â ¸ÊÀÌ ÇØ´ç ¸Ê ÀÔ´Ï´Ù.#
-¾ÆÀÌÅÛÀ» »ç¿ëÇÏ¿© ÀÌµ¿ÇÏ¿© ÁÖ½Ã±â ¹Ù¶ø´Ï´Ù.#
-¾È³»ÇÏ´Â À§Ä¡·Î ÀÌµ¿ÇÏ½Ã±â ¹Ù¶ø´Ï´Ù.#
-¸ñÇ¥ ¸Ê¿¡ µµÂøÇÏ¿´½À´Ï´Ù.#
-Ã£°íÀÚ ÇÏ´Â Npc°¡ ÀÖ´Â ¸Ê¿¡ µµÂø ÇÏ¿´½À´Ï´Ù. Npc·Î ÀÌµ¿ÇÏ½Ã±â ¹Ù¶ø´Ï´Ù.#
-Ã£°íÀÚ ÇÏ´Â MobÀÌ ¼­½ÄÇÏ´Â ¸Ê¿¡ µµÂø ÇÏ¿´½À´Ï´Ù.#
-ÀÌÀü°ú µ¿ÀÏÇÑ ¸ñÇ¥ ÀÔ´Ï´Ù.#
-°¡¸®Å°´Â ¹æÇâÀ¸·Î °¡½Ã±â ¹Ù¶ø´Ï´Ù.#
-¸ñÇ¥°¡ ¿©±â ÀÔ´Ï´Ù.#
+-> ???, location(100 90), scrool/ zeny/ plane (1:Uses 0: Disabled)#
+? /navi2 If you must attach the coordinates of the location should be less in the 3-digit#
+3. /$$all   All items output (Type nine minutes nine minutes to the item can be kind of output.)#
+4. /$$lv30   Monsters of the appropriate level output#
+5. /$$lv20~30   Monsters of the corresponding output level range#
+-------------------  Explanation  --------------------#
+A search of the whole kind, maps, Npc, monsters are classified as#
+2 with the command to retrieve. Rule contains all the information you want to search for the string is printed.#
+   ex) Cap de la Frontera -> Search Results Frontera both Capra output.#
+3 When you select an item from a list of the information is printed.#
+  Information is output when the button is clicked goal to lead the way to that goal.#
+4.scrool/ zeny/ plane By checking the box as many times as you want can be a faster route guidance.#
+5 Guide button is pressed, the result list window lists the chapters will change directions.#
+6 using the button at the bottom of the search riseuteuchang#
+  [Results List Window] <-> [directions Information Window view mode can be changed to#
+Level:%d (Boss)#
+Level:%d (General)#
+Susokseong %d#
+Persistence %d#
+Fire Element %d#
+Pungsokseong %d#
+Doksokseong %d#
+Seongsokseong %d#
+Amsokseong %d#
+Yeomsokseong %d#
+Undead %d#
+Musokseong %d#
+Medium#
+Large#
+Small#
+Bulsahyeong#
+Brute#
+Plant -#
+Gonchunghyeong#
+Eopaehyeong#
+Demon#
+Humanoid#
+Cheonsahyeong#
+Dragon#
+Intangible#
+%s Click to move#
+Npc Using mobile services#
+NPC Click#
+%s Movement#
+Airships move#
+By Warp#
+End points : ( %d %d )#
+That does not support the navigation area.#
+To find the purpose is unclear.#
+Does not meet the matching map.#
+Failure from information about the community setting.#
+Information about the set point of arrival failed!#
+Failure to find the road#
+Locating players fail#
+No information for navigation.#
+The map is a map that does not support those directions.#
+Please specify your goals.#
+Arrival.#
+Route guidance is started.#
+Monster is the map you are looking for.#
+Map is a map that you are looking for.#
+Please navigate using the item#
+Information, please go to the location.#
+The goal arrived map.#
+Npc arrived there to find the map. Please go to Npc#
+Mob you are looking for a map, this form has arrived.#
+The goal is the same as before.#
+Please go in the direction indicated.#
+The goal is here.#
 Navigation >: %s#
-Navigation >: ¾È³»ÇÏ´Â %s(À»)¸¦ ÀÌ¿ëÇÏ¿©#
-Navigation >: ¸Ê(%s)À¸·Î ÀÌµ¿ÇÏ½Ã±â ¹Ù¶ø´Ï´Ù#
-Navigation >: ¸Ê(%s)À» ¼±ÅÃÇÏ¿© ÀÌµ¿ ÇÏ½Ã±â ¹Ù¶ø´Ï´Ù#
-Navigation >: ºñ°øÁ¤À¸·Î ÀÌµ¿ ÇÏ½Ã±â ¹Ù¶ø´Ï´Ù#
-Navigation >: ¿öÇÁ¸¦ ÀÌ¿ëÇÏ¿© ´ÙÀ½ Áö¿ªÀ¸·Î ÀÌµ¿ÇÏ½Ã±â ¹Ù¶ø´Ï´Ù.#
+Navigation >: Guide to %s (a) by#
+Navigation >: Map(%s) Please go to#
+Navigation >: Map(%s) Please go to select#
+Navigation >: Please go to airship#
+Navigation >: Use the warp to the next area, please go.#
 Item: #
 $$#
 $$lv#
