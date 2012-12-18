@@ -143,8 +143,8 @@ Ppl#
 [Insert]: Makes you sit or stand. (Hotkey to toggle between /sit and /stand)#
 Congratulations! You are the MVP! Your reward item is #
 !!#
-Congratulations! You are the MVP! Your reward EXP Points are#
-acquired!#
+Congratulations! You are the MVP! Your reward EXP Points are #
+ acquired!#
 You are the MVP, but you can't take the reward because you are over your weight limit.#
 There is no such character name or the user is offline.#
  doesn't want to receive your messages.#
@@ -675,9 +675,9 @@ Shy#
 Cordial#
 Loyal#
 Unknown#
-Your account has play time of %day %dhour %dminute.#
+Your account has play time of %d day %d hour %d minute.#
 Your account is already connected to account server.#
-Your account has play time of %dhour %dminute.#
+Your account has play time of %d hour %d minute.#
 Your account is a free account.#
 This account can't connect the Sakray server.#
 Your pet name must be 23 characters or less.#
@@ -724,7 +724,7 @@ Normal Font Displayed. [showname type 1]#
 Font will be thin and party name will be shown [showname type 2]#
 /doridori: Shake head#
 Internet room is paying now.#
-Prepaid voucher validate until %ddays %d hours %dminutes later.\nTime limit voucher validate untill %d hours %dminutes later.#
+Prepaid voucher validate until %d days %d hours %d minutes later.\nTime limit voucher validate untill %d hours %d minutes later.#
 /bingbing: Rotates player counter clockwise.#
 /bangbang: Rotates player clockwise.#
 /skillfail: Display red font message when skill fails. On | Off#
@@ -2029,7 +2029,7 @@ Want to change the length of the name exceeds the maximum dimensions and charact
 Contain words that you can not use the character name change failed.#
 Name change because it is forbidden to change the character name has failed.#
 Complete#
- minutes to get%d%d%%will increase with experience.#
+ minutes to get %d%d%% will increase with experience.#
 To summon chonamatseupnida%02d.#
 The party you%s (%s) is summoned to. Summoned at%d zeny is consumed.#
 Summon the target#
