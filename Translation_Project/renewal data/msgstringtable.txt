@@ -751,7 +751,7 @@ FindHack is not installed correctly. Please download ragnarok0226.exe and instal
 Hacking tool is existing but it hasn't been cleaned. Rangarok Online will not be executed.#
 Hacking tool scan program has not been downloaded correctly. Please download ragnarok0226.exe and install it in RagnarokOnline directory.#
 NPX.DLL register error or there is no necessary file to run FindHack. Please download ragnarok0226.exe and install it in RagnarokOnline directory.#
-Exceptional Error. Please contact the customer support. Return Value:(%d)#
+Exceptional Error. Please contact the customer support. Return Value: (%d)#
 Exit button has been clicked.#
 Unable to connect Findhack Update Server. Please try again or contact the customer support.#
 Beloved#
@@ -937,7 +937,7 @@ Failed to load the scan module of virus and hacking tool. It's caused by lack of
 Homunculus Info#
 Homunculus Skill List#
 Please give your Homunculus a name no longer than 23 letters.#
-You can name a Homunculus only once. You have entered the name, ^0000ff %s^000000. Would you like to continue?#
+You can name a Homunculus only once. You have entered the name, ^0000ff%s^000000. Would you like to continue?#
 (Away)#
 [Automated Message]#
 Send an automated message while you are away.#
@@ -2029,12 +2029,12 @@ Want to change the length of the name exceeds the maximum dimensions and charact
 Contain words that you can not use the character name change failed.#
 Name change because it is forbidden to change the character name has failed.#
 Complete#
- minutes to get %d%d%% will increase with experience.#
+Minutes to get %d%d%% will increase with experience.#
 To summon chonamatseupnida%02d.#
-The party you%s (%s) is summoned to. Summoned at%d zeny is consumed.#
+The party you %s (%s) is summoned to. Summoned at %d zeny is consumed.#
 Summon the target#
 Block List#
-To register a party ads Jenny is consumed%d#
+To register a party ads Jenny is consumed %d#
 Jenny party for advertising is low.#
 ) Nimes join the party approval#
 ) Nimes join the party denied#
@@ -2090,7 +2090,7 @@ Disband the guild#
 Disband the guild name#
 Not connected or non-existent characters.#
 Falcon failed to call.#
-%d%%(default 100%%+ Premium%d%%+%s server%d%%)#
+%d%% (default 100%%+ Premium %d%%+%s server %d%%)#
 That user is currently participating in the siege.#
 It is possible to change the same maepeseoman party.#
 In the current regional party can not be changed.#
@@ -2132,11 +2132,11 @@ If you are not saved to the location of the battlefield after the end of#
 Will go back.#
 Requests are waiting for the results of others.#
 Battlefield position request#
-Accept standby time:%d seconds#
+Accept standby time: %d seconds#
 Standby position#
-Battlefield name:%s#
-Persons required length:%d#
-Turn my standby:%d#
+Battlefield name: %s#
+Persons required length: %d#
+Turn my standby: %d#
 Name:#
 Goal:#
 Persons of the battlefield configuration:#
@@ -2220,10 +2220,10 @@ Annaejung# >> <<
 Searching ... <<# >>
 -----------#
 Navigation#
-== Search Results(%d)==#
-Npc)%s:%s#
-Mob)%s:%s#
-Map)%s#
+== Search Results (%d)==#
+Npc) %s: %s#
+Mob) %s: %s#
+Map) %s#
 ======== The resulting information ==========#
 Distance: %d Sell %d WarpMove#
 Mokpyomaep: %s(%s)#
@@ -2259,8 +2259,8 @@ A search of the whole kind, maps, Npc, monsters are classified as#
 5 Guide button is pressed, the result list window lists the chapters will change directions.#
 6 using the button at the bottom of the search riseuteuchang#
   [Results List Window] <-> [directions Information Window view mode can be changed to#
-Level:%d (Boss)#
-Level:%d (General)#
+Level: %d (Boss)#
+Level: %d (General)#
 Susokseong %d#
 Persistence %d#
 Fire Element %d#
