@@ -532,7 +532,7 @@
 1194#Rental_Executioner#
 1196#Two-Handed_Chrome_Metal_Sword#
 1197#Eden_Group_Slayer_III#
-1198#갈치#
+1198#Hairtail#
 1201#Knife#
 1202#Knife#
 1203#Knife#
@@ -622,8 +622,8 @@
 1287#Durga#
 1288#Bloody_Spear#
 1289#Eden_Group_Katar_I#
-1290#에이전트_카타르#
-1291#길로틴_카타르#
+1290#Agent_Katar#
+1291#Guillotine_Katar#
 1292#강화_카타르#
 1293#Vellum_Jahmadar#
 1294#Vellum_Scale#
@@ -684,8 +684,8 @@
 1387#Giant_Axe#
 1388#Two-Handed_Axe#
 1391#Eden_Group_Two_Handed_Axe_I#
-1392#이그누스_스테일#
-1393#엔드_세크투라#
+1392#Ygnus_Stale#
+1393#End_Sektura#
 1394#강화_투핸드액스#
 1395#Vellum_Buster#
 1396#Vellum_길로틴#
@@ -1819,8 +1819,8 @@
 2865#Seal_Of_Cathedral#
 2866#Ring_Of_Archbishop#
 2870#RO_8th_Anniversary_Ring#
-2872#냥이_게이머즈_증표#
-2873#고양이_손_글러브#
+2872#G_Honor_Certificate#
+2873#Cat_Hand_Glove#
 2875#그레이트풀_반지#
 2881#Orleans_Necklace#
 2883#Ur's_Seal#
