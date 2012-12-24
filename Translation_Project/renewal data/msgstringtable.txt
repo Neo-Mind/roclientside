@@ -2241,23 +2241,23 @@ Is annaejung! Are you sure you want to quit?#
 Navigation help:#
 ------------------- Instruction --------------------#
 1. /navigation      /navi#
-  ex)/navi prontera 100 100 -> ???, 100, 100#
+  ex)/navi prontera 100 100 -> map name, 100, 100#
 2. /navigation2      /navi2#
-  ex) /navi2 prontera 100090 111#
--> ???, location(100 90), scrool/ zeny/ plane (1:Uses 0: Disabled)#
+  ex) /navi2 prontera 100 90 1 1 1#
+-> map name, location(100 90), scroll/ zeny/ plane (1:Enabled 0: Disabled)#
 ? /navi2 If you must attach the coordinates of the location should be less in the 3-digit#
 3. /$$all   All items output (Type nine minutes nine minutes to the item can be kind of output.)#
 4. /$$lv30   Monsters of the appropriate level output#
 5. /$$lv20~30   Monsters of the corresponding output level range#
 -------------------  Explanation  --------------------#
-A search of the whole kind, maps, Npc, monsters are classified as#
-2 with the command to retrieve. Rule contains all the information you want to search for the string is printed.#
-   ex) Cap de la Frontera -> Search Results Frontera both Capra output.#
-3 When you select an item from a list of the information is printed.#
+1. The search is classified as Map, NPC and Monster#
+2. with the command to retrieve. Rule contains all the information you want to search for the string is printed.#
+   ex)Search: Kaf of Prontera -> Will display all Prontera Kafra's.#
+3. When you select an item from a list of the information is printed.#
   Information is output when the button is clicked goal to lead the way to that goal.#
 4.scrool/ zeny/ plane By checking the box as many times as you want can be a faster route guidance.#
-5 Guide button is pressed, the result list window lists the chapters will change directions.#
-6 using the button at the bottom of the search riseuteuchang#
+5. Guide button is pressed, the result list window lists the chapters will change directions.#
+6. using the button at the bottom of the search riseuteuchang#
   [Results List Window] <-> [directions Information Window view mode can be changed to#
 Level: %d (Boss)#
 Level: %d (General)#
@@ -2276,14 +2276,14 @@ Large#
 Small#
 Bulsahyeong#
 Brute#
-Plant -#
+Plant#
 Gonchunghyeong#
 Eopaehyeong#
 Demon#
 Humanoid#
 Cheonsahyeong#
 Dragon#
-Intangible#
+Formless#
 %s Click to move#
 Npc Using mobile services#
 NPC Click#
