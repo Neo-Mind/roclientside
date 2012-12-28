@@ -207,8 +207,8 @@ Steal has failed.#
 Trade#
 Envenom skill has failed.#
 You cannot use this ID on this server.#
- Speed has increased.#
- Speed has decreased.#
+Speed has increased.#
+Speed has decreased.#
 /memo: To memorize a place as Warp Point (If you are an Acolyte Class character)#
 Random Area#
 Select an Area to Warp#
@@ -1883,8 +1883,8 @@ User information identification is successful.#
 Name does not match. Please rewrite.#
 ID number does not match. Please rewrite.#
 Service is currently unavailable. Please try again later.#
- Unable to attack while riding.#
- Unable to cast the skill while riding.#
+Unable to attack while riding.#
+Unable to cast the skill while riding.#
 Pin number should be 4~6 characters.#
 Secured authentication is successful.#
 Succeeded in creating 2nd password.#
@@ -1922,7 +1922,7 @@ When invited to a party#
 Pickup Item#
 Over 85% Weight#
 Any work in progress (NPC dialog, manufacturing ...) quit and try again.#
- Monster Job hunting experience that you can get through the doubling of %d is %.2 f minutes.#
+Monster Job hunting experience that you can get through the doubling of %d is %.2 f minutes.#
 SaveData_ExMacro %d#
  set contents [%s] is stored in#
 Security level#
@@ -1935,7 +1935,7 @@ This skill requires the experience of one percent.#
 Rob de rate: #
 Death Penalty: #
 %d%%(PC room%d%%+ TPLUS%d%%+ Premium%d%%+%s server%d%%)#
- Amount of party members to cast the skill Chorus SP is low.#
+Amount of party members to cast the skill Chorus SP is low.#
 Possession of a character relative to the transaction exceeds hangyeryang kinds of items is not possible.#
 Hangyeryang relative excess of the characters deal with possession of the item is not possible.#
 Possession of the item purchased is not possible to exceed hangyeryang.#
@@ -1946,8 +1946,8 @@ Rune items are owned by more than the number of failed purchases.#
 Is the number of individual items purchased exceeds failed.#
 An unknown error has occurred and the purchase failed.#
 Please try again later.#
- Kunayi item is only available in one state to mount.#
- Please try to recruit a minimum level value.#
+Kunayi item is only available in one state to mount.#
+Please try to recruit a minimum level value.#
 Jondagihoeksa will not be receiving the item to the NPC. Please secure a hold of the window space.#
 This skill is only available in the siege.#
 This skill is available only to the player.#
