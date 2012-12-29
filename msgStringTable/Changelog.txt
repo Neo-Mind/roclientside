@@ -1,0 +1,3 @@
+[2012-12-28]	
+-Created msgStringTable Folder
+-Added raw msgstringtable 2012-07-02aRagexeRE (Compared to the existing msgstringtable.txt it's off by 18 lines
