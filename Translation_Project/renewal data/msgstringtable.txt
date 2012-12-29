@@ -2204,7 +2204,7 @@ Exit#
 Change the default UI#
 Simple changes to UI#
 Help#
-ALL#
+All#
 Map#
 Npc#
 Mob#
@@ -2231,7 +2231,7 @@ Goal: %s(%d, %d)#
 Boss#
 General#
 Goal: %s(%s)#
-Goals: (%d, %d)#
+Goal: (%d, %d)#
 ======= Route guidance information =======#
 %2d) Item:%s => %s Use!#
 %2d) %s(%d,%d)=>(%d,%d)#
