@@ -1992,7 +1992,7 @@ Record Start#
  is Saved.#
 Weight: %3d / %3d#
 Total: %s C#
-[Surigeom]must be equipped.#
+[Shuriken] must be equipped.#
 Base Lv. %d#
 Job Lv. %d#
 Zeny: %s#
@@ -2017,7 +2017,7 @@ Not Available#
 I really want to move?#
 Failed to move the character slot.#
 Character name is invalid.#
-Kweseuteubogichang#
+Quest Window#
 Depending on the protection of youth, and 0:00 to 6:00 while under the age of 16 of your game use is limited.#
 Depending on the protection of youth, 0:00 to 6:00 ^ff0000 under the age of 16 ^000000 limit your use of the game and the game ends.#
 To change the character name should withdraw from the guild.#
@@ -2215,9 +2215,9 @@ Service#
 Mobile services are allowed#
 Plane#
 Applied to move airships#
-Failure to read the >> target information.#
-Annaejung# >> <<
-Searching ... <<# >>
+>> Failure to read the target information.#
+<< Notice >>#
+<< Searching... >># 
 -----------#
 Navigation#
 == Search Results (%d)==#
@@ -2226,7 +2226,7 @@ Mob) %s: %s#
 Map) %s#
 ======== The resulting information ==========#
 Distance: %d Sell %d WarpMove#
-Mokpyomaep: %s(%s)#
+Target Map: %s(%s)#
 Goal: %s(%d, %d)#
 Boss#
 General#
@@ -2237,7 +2237,7 @@ Goals: (%d, %d)#
 %2d) %s(%d,%d)=>(%d,%d)#
 E%2d) %s(%d,%d)=>(%d,%d)#
 E%2d) %s#
-Is annaejung! Are you sure you want to quit?#
+Attention! Are you sure you want to quit?#
 Navigation help:#
 ------------------- Instruction --------------------#
 1. /navigation      /navi#
@@ -2246,42 +2246,42 @@ Navigation help:#
   ex) /navi2 prontera 100 90 1 1 1#
 -> map name, location(100 90), scroll/ zeny/ plane (1:Enabled 0: Disabled)#
 ? /navi2 If you must attach the coordinates of the location should be less in the 3-digit#
-3. /$$all   All items output (Type nine minutes nine minutes to the item can be kind of output.)#
-4. /$$lv30   Monsters of the appropriate level output#
-5. /$$lv20~30   Monsters of the corresponding output level range#
+3. $$all   All items output (Type nine minutes nine minutes to the item can be kind of output.)#
+4. $$lv30   Monsters of the appropriate level output#
+5. $$lv20~30   Monsters of the corresponding output level range#
 -------------------  Explanation  --------------------#
 1. The search is classified as Map, NPC and Monster#
-2. with the command to retrieve. Rule contains all the information you want to search for the string is printed.#
+2. Search commands. Rule contains all the information you want to search for the string is printed.#
    ex)Search: Kaf of Prontera -> Will display all Prontera Kafra's.#
 3. When you select an item from a list of the information is printed.#
   Information is output when the button is clicked goal to lead the way to that goal.#
 4.scrool/ zeny/ plane By checking the box as many times as you want can be a faster route guidance.#
 5. Guide button is pressed, the result list window lists the chapters will change directions.#
-6. using the button at the bottom of the search riseuteuchang#
+6. Use the button below to use the Search List Window#
   [Results List Window] <-> [directions Information Window view mode can be changed to#
 Level: %d (Boss)#
 Level: %d (General)#
-Susokseong %d#
-Persistence %d#
-Fire Element %d#
+Water %d#
+Earth %d#
+Fire %d#
 Pungsokseong %d#
-Doksokseong %d#
-Seongsokseong %d#
-Amsokseong %d#
-Yeomsokseong %d#
+Wind %d#
+Poison %d#
+Holy %d#
+Shadow %d#
 Undead %d#
-Musokseong %d#
+Neutral %d#
 Medium#
 Large#
 Small#
-Bulsahyeong#
+Undead#
 Brute#
 Plant#
-Gonchunghyeong#
-Eopaehyeong#
+Insect#
+Fish#
 Demon#
-Humanoid#
-Cheonsahyeong#
+Demi-human#
+Angel#
 Dragon#
 Formless#
 %s Click to move#
