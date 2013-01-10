@@ -15490,7 +15490,7 @@ Applicable Job :^777777 Every Job^000000
 2574#
 우르의 룬을 정제하여 만든 망토.
 MaxHP + 2%, 무속성 공격에 대한 내성 10%.
-Type : ^777777걸칠것^000000 
+Type : ^777777Garment^000000 
 Defense : ^77777720^000000
 Weight : ^77777760^000000
 Required Level : ^777777100^000000
@@ -15500,7 +15500,7 @@ Job : ^777777Rune Knight^000000
 2575#
 페오즈의 룬을 정제하여 만든 망토.
 FLEE + 10, CRI + 10.
-Type : ^777777걸칠것^000000 
+Type : ^777777Garment^000000 
 Defense : ^77777716^000000
 Weight : ^77777760^000000
 Required Level : ^777777100^000000
@@ -15534,7 +15534,7 @@ Applicable Job :^777777 Every Job^000000
 2577#
 오래전 어둠의 세계에서 유명했던 어쌔신의 유물이라고 한다.
 FLEE + 12, 1제련 당 크리티컬 데미지 1%씩 증가.
-Type : ^777777걸칠것^000000 
+Type : ^777777Garment^000000 
 Defense : ^77777713^000000
 Weight : ^77777710^000000
 Required Level : ^777777100^000000
@@ -15544,7 +15544,7 @@ Job : ^777777Guillotine Cross^000000
 2578#
 과거 이도류로 유명했던 어쌔신의 유물이라고 한다.
 FLEE, ATK가 1제련 당 2씩 증가.
-Type : ^777777걸칠것^000000 
+Type : ^777777Garment^000000 
 Defense : ^77777713^000000
 Weight : ^77777710^000000
 Required Level : ^777777100^000000
@@ -15554,7 +15554,7 @@ Job : ^777777Guillotine Cross^000000
 2580#
 과거 희대의 명궁들이 많이 배출되었다고 하는 '이카루스 길드'의 유물.
 AGI + 2, FLEE + 10, 물리 공격 시 일정확률로 7초간 FLEE + 20.
-Type : ^777777걸칠것^000000 
+Type : ^777777Garment^000000 
 Defense : ^77777715^000000
 Weight : ^77777720^000000
 Required Level : ^777777100^000000
@@ -15565,7 +15565,7 @@ Job : ^777777Ranger^000000
 집중력과 정신력을 맑게 유지 시켜주도록 특화된 검은날개 마크의 유물.
 INT + 2.
 7제련시 부터 완전회피 1씩 증가.
-Type : ^777777걸칠것^000000 
+Type : ^777777Garment^000000 
 Defense : ^77777715^000000
 Weight : ^77777720^000000
 Required Level : ^777777100^000000
@@ -15575,7 +15575,7 @@ Job : ^777777Ranger^000000
 2582#
 구원이라는 뜻을 가진 이 넓은 망토는 동방의 주술사와 서양의 재단사의 기술이 모두 집약되어 있다고 한다.
 매미허물벗기 1Lv 사용가능. 해당스킬의 쿨타임이 30초로 증가, 장비 시 모든 스킬의 소모SP가 2배, 장착해제 시 SP - 1200.
-Type : ^777777걸칠것^000000 
+Type : ^777777Garment^000000 
 Defense : ^7777771^000000
 Weight : ^77777740^000000
 Required Level : ^777777130^000000
@@ -15586,7 +15586,7 @@ Job : ^777777워록/아크비숍^000000
 MDEF + 1.
 Effect applies only in WoE & PVP.
 플레이어로 부터 받는 데미지 2% 감소.
-Type : ^777777걸칠것^000000 
+Type : ^777777Garment^000000 
 Defense : ^77777732^000000
 Weight : ^77777760^000000
 Required Level : ^77777795^000000
@@ -15597,7 +15597,7 @@ Job : ^777777노비스를 제외한 전직업^000000
 MDEF + 10.
 Effect applies only in WoE & PVP.
 플레이어로 부터 받는 데미지 1% 감소.
-Type : ^777777걸칠것^000000 
+Type : ^777777Garment^000000 
 Defense : ^77777715^000000
 Weight : ^77777740^000000
 Required Level : ^77777795^000000
@@ -22733,7 +22733,7 @@ Weight : ^7777771^000000
 "본 증을 습득하신 뒤 카드로 사용 시 발생하는 모든 불이익은 사용자에게 있습니다. - 밝히리" 라고 적혀있다.
 수집품 상인이 사줄 지도 모른다.
 Type : ^777777Card^000000
-Job : ^777777걸칠것^000000
+Job : ^777777Garment^000000
 Weight : ^7777771^000000
 #
 
@@ -22842,14 +22842,14 @@ Weight : ^7777771^000000
 4505#
 MATK + 20, MaxSP - 1%.
 Type : ^777777Card^000000
-Job : ^777777액세서리^000000
+Compount on : ^777777액세서리^000000
 Weight : ^7777771^000000
 #
 
 4506#
 DEX + 2, 궁수계열인 경우 3제련당 DEX + 1씩 추가 증가.
 Type : ^777777Card^000000
-Job : ^777777Headgear^000000
+Compount on : ^777777Headgear^000000
 Weight : ^7777771^000000
 #
 
@@ -22857,14 +22857,14 @@ Weight : ^7777771^000000
 스카라바에게 30% 추가 데미지.
 적을 쓰러트릴 시 일정확률로 스카라바 소환서 드랍. (미구현)
 Type : ^777777Card^000000
-Job : ^777777Weapon^000000
+Compount on : ^777777Weapon^000000
 Weight : ^7777771^000000
 #
 
 4508#
 ATK + 20, MaxHP - 1%.
 Type : ^777777Card^000000
-Job : ^777777액세서리^000000
+Compount on : ^777777액세서리^000000
 Weight : ^7777771^000000
 #
 
@@ -22872,21 +22872,21 @@ Weight : ^7777771^000000
 INT + 3.
 곤충형 적에게서의 데미지 10% 감소, 9제련 시 5% 추가 감소.
 Type : ^777777Card^000000
-Job : ^777777Headgear^000000
+Compount on : ^777777Headgear^000000
 Weight : ^7777771^000000
 #
 
 4510#
 근접 물리 공격 시 일정확률로 적에게 깊은 잠을 건다.
 Type : ^777777Card^000000
-Job : ^777777Weapon^000000
+Compount on : ^777777Weapon^000000
 Weight : ^7777771^000000
 #
 
 4511#
 마법 공격 시 일정확률로 적에게 침묵을 건다.
 Type : ^777777Card^000000
-Job : ^777777Weapon^000000
+Compount on : ^777777Weapon^000000
 Weight : ^7777771^000000
 #
 
@@ -22894,7 +22894,7 @@ Weight : ^7777771^000000
 힐량 3% 증가.
 복사계열인 경우 2제련당 1%씩 추가 증가.
 Type : ^777777Card^000000
-Job : ^777777Headgear^000000
+Compount on : ^777777Headgear^000000
 Weight : ^7777771^000000
 #
 
@@ -22902,137 +22902,139 @@ Weight : ^7777771^000000
 크리티컬 데미지 2% 증가.
 도둑계열인 경우 2제련당 1%씩 추가 증가.
 Type : ^777777Card^000000
-Job : ^777777Headgear^000000
+Compount on : ^777777Headgear^000000
 Weight : ^7777771^000000
 #
 
 4514#
 불사형 몬스터에게 20% 추가 데미지.
 Type : ^777777Card^000000
-Job : ^777777Weapon^000000
+Compount on : ^777777Weapon^000000
 Weight : ^7777771^000000
 #
 
 4515#
 식물형 적에게서의 데미지 30% 감소.
 Type : ^777777Card^000000
-Job : ^777777Shield^000000
+Compount on : ^777777Shield^000000
 Weight : ^7777771^000000
 #
 
 4516#
 DEF + 50, FLEE - 25.
 Type : ^777777Card^000000
-Job : ^777777Armor^000000
+Compount on : ^777777Armor^000000
 Weight : ^7777771^000000
 #
 
 4517#
 INT + 2, 마법사계열인 경우 3제련당 INT + 1씩 추가 증가.
 Type : ^777777Card^000000
-Job : ^777777Headgear^000000
+Compount on : ^777777Headgear^000000
 Weight : ^7777771^000000
 #
 
 4518#
 물리 공격 시 일정확률로 적에게 발화를 건다.
 Type : ^777777Card^000000
-Job : ^777777Weapon^000000
+Compount on : ^777777Weapon^000000
 Weight : ^7777771^000000
 #
 
 4519#
 천사형 몬스터에게 20% 추가 데미지.
 Type : ^777777Card^000000
-Job : ^777777Weapon^000000
+Compount on : ^777777Weapon^000000
 Weight : ^7777771^000000
 #
 
 4520#
 STR + 3.
-물리, 마법 공격을 받을 시 높은 확률로 적에게 혼란, 공포를 건다.
+Chance of causing Confusion on target enemy when doing magic damage.
 Type : ^777777Card^000000
-Job : ^777777걸칠것^000000
+Compount on : ^777777Garment^000000
 Weight : ^7777771^000000
 #
 
 4521#
-크리티컬 공격 시 데미지 15% 증가.
+Increase critical damage by 15%.
 Type : ^777777Card^000000
-Job : ^777777Weapon^000000
+Compount on : ^777777Weapon^000000
 Weight : ^7777771^000000
 #
 
 4522#
-근접 물리 공격 시 일정 확률로 적에게 냉동을 건다.
+Chance of freezing enemy when doing melee damage.
 Type : ^777777Card^000000
-Job : ^777777Weapon^000000
+Compount on : ^777777Weapon^000000
 Weight : ^7777771^000000
 #
 
 4523#
 갑옷의 속성을 수속성으로 한다.
-어패류에게서 받는 데미지 10% 감소.
+Reduce damage taken from Fish type monsters by 10%.
 Type : ^777777Card^000000
-Job : ^777777Armor^000000
+Compount on : ^777777Armor^000000
 Weight : ^7777771^000000
 #
 
 4524#
-STR + 2, 검사계열인 경우 3제련당 STR + 1씩 추가 증가.
+STR + 2.
+[^008800Swordsman Class^000000]
+Increase STR + 1 every 3 refine.
 Type : ^777777Card^000000
-Job : ^777777Headgear^000000
+Compount on : ^777777Headgear^000000
 Weight : ^7777771^000000
 #
 
 4525#
 FLEE + 10.
-[하이딩] 1Lv, [기습] 1Lv 사용 가능.
-[기습] 사용 시 일정확률로 적에게 출혈을 건다.
+Enables usage of Hide level 1 & Raid level 1.
+Chance of causing Bleeding effect when using Raid.
 Type : ^777777Card^000000
-Job : ^777777걸칠것^000000
+Compount on : ^777777Garment^000000
 Weight : ^7777771^000000
 #
 
 4526#
 MaxSP + 5%, MDEF + 50.
 Type : ^777777Card^000000
-Job : ^777777Armor^000000
+Compount on : ^777777Armor^000000
 Weight : ^7777771^000000
 #
 
 4527#
 MaxHP + 10%, DEF + 100.
 Type : ^777777Card^000000
-Job : ^777777Armor^000000
+Compount on : ^777777Armor^000000
 Weight : ^7777771^000000
 #
 
 4528#
 MATK + 2%, 2제련당 MATK + 1%, MaxHP - 1%.
 Type : ^777777Card^000000
-Job : ^777777Headgear^000000
+Compount on : ^777777Headgear^000000
 Weight : ^7777771^000000
 #
 
 4529#
 ATK + 2%, 2제련당 ATK + 1%, MaxSP - 1%.
 Type : ^777777Card^000000
-Job : ^777777Headgear^000000
+Compount on : ^777777Headgear^000000
 Weight : ^7777771^000000
 #
 
 4530#
 LUK + 2, 상인계열인 경우 3제련당 LUK + 1씩 추가 증가.
 Type : ^777777Card^000000
-Job : ^777777Headgear^000000
+Compount on : ^777777Headgear^000000
 Weight : ^7777771^000000
 #
 
 4531#
 마법 공격 시 일정확률로 적에게 저주를 건다.
 Type : ^777777Card^000000
-Job : ^777777Weapon^000000
+Compount on : ^777777Weapon^000000
 Weight : ^7777771^000000
 #
 
@@ -23040,14 +23042,14 @@ Weight : ^7777771^000000
 AGI + 1.
 물리 공격 시 높은 확률로 스스로에게 민첩성 증가 1Lv을 건다.
 Type : ^777777Card^000000
-Job : ^777777신발^000000
+Compount on : ^777777신발^000000
 Weight : ^7777771^000000
 #
 
 4533#
 마법 공격 시 일정확률로 적에게 암흑을 건다.
 Type : ^777777Card^000000
-Job : ^777777Weapon^000000
+Compount on : ^777777Weapon^000000
 Weight : ^7777771^000000
 #
 
@@ -23055,7 +23057,7 @@ Weight : ^7777771^000000
 MaxHP + 12%.
 [워터볼] 5Lv 사용가능.
 Type : ^777777Card^000000
-Job : ^777777Armor^000000
+Compount on : ^777777Armor^000000
 Weight : ^7777771^000000
 #
 
@@ -23063,7 +23065,7 @@ Weight : ^7777771^000000
 LUK + 1.
 크리투라 학원 모자와 함께 장착 시 ATK + 5, MATK + 5.
 Type : ^777777Card^000000
-Job : ^777777Headgear^000000
+Compount on : ^777777Headgear^000000
 Weight : ^7777771^000000
 #
 
@@ -23071,7 +23073,7 @@ Weight : ^7777771^000000
 아무 효과도 없는 카드.
 "본 증을 습득하셔서 카드로 사용시 발생하는 모든 불이익은 사용자에게 있습니다. - 밝히리" 라고 적혀있다.
 Type : ^777777Card^000000
-Job : ^777777Weapon^000000
+Compount on : ^777777Weapon^000000
 Weight : ^7777771^000000
 #
 
@@ -68989,7 +68991,7 @@ Weight : ^7777771^000000
 바람의 정령의 가호가 깃든 깃털망토. 착용자를 위험으로부터 보호해 준다고 한다.
 FLEE + 13, 무속성 대미지 13% 감소. 완전회피 + 1
 골드PC방에서 장착 시 All State + 1.
-Type : ^777777걸칠것^000000 
+Type : ^777777Garment^000000 
 Defense : ^77777733^000000
 Weight : ^7777770^000000
 Job : ^777777전직업 장착가능^000000
@@ -69810,7 +69812,7 @@ Weight : ^7777771^000000
 ^ffffff_^000000
 에르늄과 황금을 황금비율로 섞어 코팅한 후드.
 MaxHP + 3%
-Type : ^777777걸칠것^000000 
+Type : ^777777Garment^000000 
 Defense : ^7777779^000000
 Weight : ^77777710^000000
 Required Level : ^7777771^000000
@@ -69826,7 +69828,7 @@ Weight : ^7777771^000000
 ^ffffff_^000000
 에르늄과 황금을 황금비율로 섞어 코팅한 머플러.
 MaxHP + 3%
-Type : ^777777걸칠것^000000 
+Type : ^777777Garment^000000 
 Defense : ^77777713^000000
 Weight : ^77777720^000000
 Required Level : ^7777771^000000
@@ -69842,7 +69844,7 @@ Weight : ^7777771^000000
 ^ffffff_^000000
 에르늄과 황금을 황금비율로 섞어 코팅한 망토.
 MaxHP + 3%
-Type : ^777777걸칠것^000000 
+Type : ^777777Garment^000000 
 Defense : ^77777718^000000
 Weight : ^77777730^000000
 Required Level : ^7777771^000000
@@ -71344,7 +71346,7 @@ All State + 1.
 순수 AGI 20 당 공격속도 증가(공격 후딜레이 1% 감소),
 순수 DEX 20 당 원거리 공격력 1% 증가,
 순수 LUK 20 당 크리티컬 데미지 1% 증가.
-Type : ^777777걸칠것^000000 
+Type : ^777777Garment^000000 
 Defense : ^77777718^000000
 Weight : ^77777720^000000
 Required Level : ^7777771^000000
@@ -73524,7 +73526,7 @@ MDEF + 5.
 ※ TE 공성 지역 추가 옵션
 플레이어에게 물리/마법 공격력 5% 증가.
 동빙에 대한 내성 25% 증가.
-Type : ^777777걸칠것^000000 
+Type : ^777777Garment^000000 
 Defense : ^7777775^000000
 Weight : ^7777770^000000
 Required Level : ^7777771^000000
@@ -73537,7 +73539,7 @@ Job : ^777777All Jobs^000000
 ※ TE 공성 지역 추가 옵션
 플레이어에게 물리 공격력 10% 증가.
 동빙에 대한 내성 25% 증가.
-Type : ^777777걸칠것^000000 
+Type : ^777777Garment^000000 
 Defense : ^77777710^000000
 Weight : ^7777770^000000
 Required Level : ^7777771^000000
@@ -73551,7 +73553,7 @@ MDEF + 5.
 ※ TE 공성 지역 추가 옵션
 플레이어에게 마법 공격력 10% 증가.
 동빙에 대한 내성 25% 증가.
-Type : ^777777걸칠것^000000 
+Type : ^777777Garment^000000 
 Defense : ^7777775^000000
 Weight : ^7777770^000000
 Required Level : ^7777771^000000
